@@ -55,7 +55,7 @@ for (k in 1:length(kantonal_short) ) {
     
     #Daten anpassen
     results <- augment_raw_data(results)
-    
+
     #Intros generieren
     results <- normal_intro(results)
     
@@ -97,20 +97,28 @@ for (k in 1:length(kantonal_short) ) {
       arrange(Gemeinde_Nr)
     
   }
-  
+
 #Texte speichern
 #library(xlsx)
 #write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
-  output_dw <- get_output_gemeinden(results)
-  write.csv(output_dw,paste0("Output/",kantonal_short[k],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  #Output Abstimmungen Gemeinde
+  output_dw_de <- get_output_gemeinden(results,language = "de")
+  output_dw_fr <- get_output_gemeinden(results,language = "fr")
+  output_dw_it <- get_output_gemeinden(results,language = "it")
+  
+  #Output speichern
+  write.csv(output_dw_de,paste0("Output_Cantons/",kantonal_short[k],"_dw_de.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_fr,paste0("Output_Cantons/",kantonal_short[k],"_dw_fr.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_it,paste0("Output_Cantons/",kantonal_short[k],"_dw_it.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  
   cat(paste0("\nGenerated output for Vorlage ",kantonal_short[k],"\n"))
   
   ###
-  count_non_gemeinden <- output_dw[output_dw$Nein_Stimmen_In_Prozent>50,]
-  count_yes_gemeinden <- output_dw[output_dw$Ja_Stimmen_In_Prozent>50,]
-  count_tie_gemeinden <- output_dw[output_dw$Ja_Stimmen_In_Prozent == 50,]
+  count_non_gemeinden <- output_dw[output_dw_de$Nein_Stimmen_In_Prozent>50,]
+  count_yes_gemeinden <- output_dw[output_dw_de$Ja_Stimmen_In_Prozent>50,]
+  count_tie_gemeinden <- output_dw[output_dw_de$Ja_Stimmen_In_Prozent == 50,]
   print(paste0("Nein-Stimmen: ",nrow(count_non_gemeinden),"; Ja-Stimmen: ",nrow(count_yes_gemeinden),
                "; Unentschieden: ",nrow(count_tie_gemeinden)))
   

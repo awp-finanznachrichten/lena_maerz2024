@@ -1,7 +1,25 @@
-get_output_gemeinden <- function(dta) {
+get_output_gemeinden <- function(dta,
+                                 language) {
 
+  if (language == "de") {
   output_dw <- dta %>%
-    select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_d,Gemeinde_KT_f,Gemeinde_KT_i,Text_d,Text_f,Text_i)
+    select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_d,Text_d) %>%
+    rename(Gemeinde_de = Gemeinde_KT_d,
+           Text_de = Text_d)
+  }
+  if (language == "fr") {
+    output_dw <- dta %>%
+      select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_f,Text_f) %>%
+      rename(Gemeinde_fr = Gemeinde_KT_f,
+             Text_fr = Text_f)
+  }
+  if (language == "it") {
+    output_dw <- dta %>%
+      select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_i,Text_i) %>%
+      rename(Gemeinde_it = Gemeinde_KT_i,
+             Text_it = Text_i)
+  }
+  
   
   #Runden
   output_dw$Ja_Stimmen_In_Prozent <- round(output_dw$Ja_Stimmen_In_Prozent,1)
@@ -55,7 +73,7 @@ for (y in 1:nrow(output_dw_kantone)) {
     output_dw_kantone$Kanton_color[y] <- output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y]
     
     #Log-Entry
-    cat(paste0(output_dw_kantone$Kanton_d[y],", "),file="Output/log_file.txt",append = TRUE)
+    cat(paste0(output_dw_kantone$Kanton_d[y],", "),file="Logfiles/log_file.txt",append = TRUE)
 
   }  
   

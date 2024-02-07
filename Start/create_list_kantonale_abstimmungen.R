@@ -1,14 +1,14 @@
 #Working Directory definieren
-setwd("C:/Users/sw/OneDrive/LENA_Project/20230618_LENA_Abstimmungen")
+setwd("C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")
 
 ###Funktionen laden
-source("functions_readin.R", encoding = "UTF-8")
-source("functions_storyfinder.R", encoding = "UTF-8")
-source("functions_storybuilder.R", encoding = "UTF-8")
-source("functions_output.R", encoding = "UTF-8")
+source("./Funktionen/functions_readin.R", encoding = "UTF-8")
+source("./Funktionen/functions_storyfinder.R", encoding = "UTF-8")
+source("./Funktionen/functions_storybuilder.R", encoding = "UTF-8")
+source("./Funktionen/functions_output.R", encoding = "UTF-8")
 
 ###Overviews Kantone
 kantone_list <- json_data_kantone[["kantone"]]
@@ -58,7 +58,6 @@ kantonale_vorlagen_list <- rbind(kantonale_vorlagen_list,new_entry)
 
   
 }
- 
 
 #Daten Speichern
 kantonale_vorlagen_list <- kantonale_vorlagen_list[-1,]

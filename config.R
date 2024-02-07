@@ -17,18 +17,17 @@ library(httr)
 cat("Benoetigte Bibliotheken geladen\n")
 
 #Welche Abstimmung?
-abstimmung_date <- "Juni2023"
+abstimmung_date <- "Maerz2024"
 
-res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20230618-eidgAbstimmung.json")
+res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-eidgAbstimmung.json")
 json_data <- fromJSON(rawToChar(res$content), flatten = TRUE)
-
 
 #download.file("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20230618-eidgAbstimmung.json",
 #              destfile = "Data/sd-t-17-02-20230618-eidgAbstimmung.json",
 #              method = "curl")
 #json_data <- fromJSON("Data/sd-t-17-02-20230618-eidgAbstimmung.json", flatten = TRUE)
 
-res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20230618-kantAbstimmung.json")
+res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-kantAbstimmung.json")
 json_data_kantone <- fromJSON(rawToChar(res$content), flatten = TRUE)
 
 #download.file("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20230618-kantAbstimmung.json",
@@ -38,44 +37,45 @@ json_data_kantone <- fromJSON(rawToChar(res$content), flatten = TRUE)
 
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
+excel_sheets <- excel_sheets(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"))
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
-vorlagen_short <- c("OECD_Mindeststeuer","Klima_Gesetz","Covid_Gesetz")
+vorlagen_short <- excel_sheets[2:3]
 
 ###Kurznamen und Nummern kantonale Vorlagen
-kantonal_short <- c("BE_Elternzeit","BE_Schuldenbremse","AG_Klimaschutz","AG_Taktfahrplan","SO_Zwillingsinitiative 1","SO_Zwillingsinitiative 2",
-                    "JU_Autorites","FR_MHNF","VD_Climat","GE_Conge_Parental","GE_Solidarite","GE_LEFI")
+kantonal_short <- excel_sheets[c(4:8,10:11,14:15)]
 
 #Nummer in JSON 
-kantonal_number <- c(2,2,8,8,5,5,13,4,11,12,12,12) 
+kantonal_number <- c(6,9,9,9,9,3,8,1,1) 
 
 #Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-kantonal_add <- c(2,1,3,2,2,3,1,1,1,2,3,6)
+kantonal_add <- c(1,2,3,4,5,1,2,6,5)
 
 ###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
-#kantonal_short_special <- c("ZH_Krankenkassen","BS_Klimagerechtigkeit")
+kantonal_short_special <- excel_sheets[c(9,12,13)]
 
 #Nummer in JSON 
-#kantonal_number_special <- c(1,4) 
+kantonal_number_special <- c(9,8,1) 
 
 #Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-#kantonal_add_special <- c(1,1)
+kantonal_add_special <- c(6,1,1)
 
 #Spezialfälle
 other_check <- FALSE
 
 #Kantonale Vorlagen Titel
-Kantonale_Vorlagen_Titel <- as.data.frame(read_excel(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
-                                          sheet = "Kantonale_Abstimmungen_Overview"))
+Vorlagen_Titel <- as.data.frame(read_excel(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
+                                          sheet = "Vorlagen_Uebersicht"))
 
 ###Vorhandene Daten laden
-daten_co2_bfs <- read_excel("Data/daten_co2_bfs.xlsx",skip=5)
-daten_covid1_bfs <- read_excel("Data/daten_covid1_bfs.xlsx",skip=5)
-daten_covid2_bfs <- read_excel("Data/daten_covid2_bfs.xlsx",skip=5)
+#daten_co2_bfs <- read_excel("Data/daten_co2_bfs.xlsx",skip=5)
+#daten_covid1_bfs <- read_excel("Data/daten_covid1_bfs.xlsx",skip=5)
+#daten_covid2_bfs <- read_excel("Data/daten_covid2_bfs.xlsx",skip=5)
 
 cat("Daten zu historischen Abstimmungen geladen\n")
 
 #Metadaten Gemeinden und Kantone
 meta_gmd_kt <- read_csv("Data/MASTERFILE_GDE.csv")
+cantons_overview <- readRDS("./Data/cantons_overview.RDS")
 
 cat("Metadaten zu Gemeinden und Kantonen geladen\n")
 

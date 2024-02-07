@@ -136,7 +136,7 @@ dw_edit_chart(new_chart$id,title=titel,
               intro=undertitel_all,
               visualize=adapted_list,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output/",vorlagen_short[i],"_dw_kantone.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw_kantone.csv")),
               axes=list("values"="Kanton_color"),
               folderId = folder_de)
 
@@ -197,7 +197,7 @@ new_chart <-dw_copy_chart(vorlage_gemeinde[1])
 dw_edit_chart(new_chart$id,title=titel,
               intro=undertitel_text,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output/",vorlagen_short[i],"_dw.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw.csv")),
               axes=list("values"="Gemeinde_color"),
               folderId = folder_de)
 
@@ -321,7 +321,7 @@ dw_edit_chart(new_chart$id,title=titel,
               intro=undertitel_all,
               annotate=footer,
               visualize=adapted_list,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output/",vorlagen_short[i],"_dw_kantone.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw_kantone.csv")),
               axes=list("values"="Kanton_color"),
               folderId = folder_fr)
 
@@ -383,7 +383,7 @@ dw_edit_chart(new_chart$id,title=titel,
               language="fr-CH",
               intro=undertitel_text,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output/",vorlagen_short[i],"_dw.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw.csv")),
               axes=list("values"="Gemeinde_color"),
               visualize = list("legend"=list("title"="pourcentage de oui")),
               folderId = folder_fr)
@@ -518,7 +518,7 @@ dw_edit_chart(new_chart$id,title=titel,
               intro=undertitel_all,
               visualize=adapted_list,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output/",vorlagen_short[i],"_dw_kantone.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw_kantone.csv")),
               axes=list("values"="Kanton_color"),
               folderId = folder_it)
 
@@ -580,7 +580,7 @@ dw_edit_chart(new_chart$id,title=titel,
               language="it-CH",
               intro=undertitel_text,
               annotate=footer,
-              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output/",vorlagen_short[i],"_dw.csv")),
+              data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",tolower(abstimmung_date),"/master/Output_Switzerland/",vorlagen_short[i],"_dw.csv")),
               axes=list("values"="Gemeinde_color"),
               visualize = list("legend"=list("title"="percentuale sì")),
               folderId = folder_it)

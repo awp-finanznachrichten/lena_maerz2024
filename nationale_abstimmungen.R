@@ -8,7 +8,7 @@ for (i in 1:length(vorlagen_short)) {
   
   ###Nationale Resultate aus JSON auslesen
   results_national <- get_results(json_data,i,level="national")
-  
+
 ###Nationale Resultate simulieren
 #set.seed(i)
 #results_national$jaStimmenInProzent <- sample(0:100,1)
@@ -39,7 +39,7 @@ for (i in 1:length(vorlagen_short)) {
   results_all <- results
   
   #Alle Daten speichern
-  write.csv(results_all,paste0("Output/",vorlagen_short[i],"_all_data.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(results_all,paste0("Output_Switzerland/",vorlagen_short[i],"_all_data.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
   #Wie viele Gemeinden sind ausgezählt
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -201,23 +201,20 @@ for (i in 1:length(vorlagen_short)) {
   ###Output generieren für Datawrapper
   
   #Output Abstimmungen Gemeinde
-  output_dw <- get_output_gemeinden(results)
+  output_dw_de <- get_output_gemeinden(results,language = "de")
+  output_dw_fr <- get_output_gemeinden(results,language = "fr")
+  output_dw_it <- get_output_gemeinden(results,language = "it")
+
 
   #Output speichern
+  write.csv(output_dw_de,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_de.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_fr,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_fr.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_it,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_it.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+
   
-###Special AHV
-if (vorlagen$id[i] == "6590" || vorlagen$id[i] == "6600") {
-  write.csv(output_dw[,-c(9,10)],paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  write.csv(output_dw[,-c(8,10)],paste0("Output/",vorlagen_short[i],"_dw_fr.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  write.csv(output_dw[,-c(8,9)],paste0("Output/",vorlagen_short[i],"_dw_it.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  } else {  
-  write.csv(output_dw,paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-}
-  count_non_gemeinden <- output_dw[output_dw$Nein_Stimmen_In_Prozent>50,]
-  
-  count_yes_gemeinden <- output_dw[output_dw$Ja_Stimmen_In_Prozent>50,]
-  
-  count_tie_gemeinden <- output_dw[output_dw$Ja_Stimmen_In_Prozent == 50,]
+  count_non_gemeinden <- output_dw_de[output_dw_de$Nein_Stimmen_In_Prozent>50,]
+  count_yes_gemeinden <- output_dw_de[output_dw_de$Ja_Stimmen_In_Prozent>50,]
+  count_tie_gemeinden <- output_dw_de[output_dw_de$Ja_Stimmen_In_Prozent == 50,]
   
   print(paste0("Nein-Stimmen: ",nrow(count_non_gemeinden),"; Ja-Stimmen: ",nrow(count_yes_gemeinden),
                "; Unentschieden: ",nrow(count_tie_gemeinden)))
@@ -230,12 +227,11 @@ if (vorlagen$id[i] == "6590" || vorlagen$id[i] == "6600") {
   source("outputs_einzugsgebiete.R", encoding = "UTF-8")
   
   #Log Kantone
-  cat(paste0("\n\n",Sys.time()," ",vorlagen_short[i],"\n"),file="Output/log_file.txt",append = TRUE)
+  cat(paste0("\n\n",Sys.time()," ",vorlagen_short[i],"\n"),file="Logfiles/log_file.txt",append = TRUE)
   
   #Output Abstimmungen Kantone
   output_dw_kantone <- get_output_kantone(results)
-  
-  write.csv(output_dw_kantone,paste0("Output/",vorlagen_short[i],"_dw_kantone.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_kantone,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_kantone.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
   cat(paste0("\nGenerated output for Vorlage ",vorlagen_short[i],"\n"))
   
@@ -331,7 +327,7 @@ data_overview <- rbind(data_overview,entry_overview)
 
 #Uebersicht für Datawrapper
 data_overview <- data_overview[-1,]
-write.csv(data_overview,"Output/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
+write.csv(data_overview,"Output_Overviews/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 
 #Charts Uebersicht

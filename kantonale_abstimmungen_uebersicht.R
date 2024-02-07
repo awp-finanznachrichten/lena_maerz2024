@@ -28,7 +28,7 @@ Ja_Stimmen_Kanton <- get_results_kantonal(json_data_kantone,
   #Ja_Stimmen_Kanton <- sample(1:100,1)  
 
 #Titel aus Spreadsheet
-titel_all <- Kantonale_Vorlagen_Titel %>%
+titel_all <- Vorlagen_Titel %>%
   filter(Kanton == kantone_list$geoLevelname[k],
          Vorlage_ID == vorlagen$vorlagenId[i])
 
@@ -87,7 +87,7 @@ colnames(entry_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Absti
 data_overview <- rbind(data_overview,entry_overview)
 }
 data_overview <- data_overview[-1,]
-write.csv(data_overview,paste0("Output/Uebersicht_dw_",kantone_list$geoLevelname[k],".csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+write.csv(data_overview,paste0("Output_Overviews/Uebersicht_dw_",kantone_list$geoLevelname[k],".csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
 #Update Datawrapper-Chart
 datawrapper_ids <- datawrapper_codes_kantonal %>%
@@ -104,20 +104,17 @@ dw_edit_chart(datawrapper_ids$ID[d],intro=paste0("Letzte Aktualisierung: ",forma
 if (datawrapper_ids$Sprache[d] == "fr-CH") {
 dw_edit_chart(datawrapper_ids$ID[d],intro=paste0("Dernière mise à jour: ",format(Sys.time(),"%Hh%M")))
 }
-
 if (datawrapper_ids$Sprache[d] == "it-CH") {
 dw_edit_chart(datawrapper_ids$ID[d],intro=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%H:%M")))
 }    
-  
 dw_publish_chart(datawrapper_ids$ID[d])
-
 }
 
 if (sum(check_counted) == nrow(vorlagen)) {
 cat(paste0("Alle Abstimmungen aus dem Kanton ",kantone_list$geoLevelname[k]," sind ausgezählt!\n\n")) 
   
 #Log Kantonale Abstimmungen
-cat(paste0("\n\n",Sys.time()," Kantonale Abstimmungen ",kantone_list$geoLevelname[k],"\n"),file="Output/log_file.txt",append = TRUE)
+cat(paste0("\n\n",Sys.time()," Kantonale Abstimmungen ",kantone_list$geoLevelname[k],"\n"),file="Logfiles/log_file.txt",append = TRUE)
 
 }  
   
