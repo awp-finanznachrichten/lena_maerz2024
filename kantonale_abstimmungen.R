@@ -116,9 +116,9 @@ for (k in 1:length(kantonal_short) ) {
   cat(paste0("\nGenerated output for Vorlage ",kantonal_short[k],"\n"))
   
   ###
-  count_non_gemeinden <- output_dw[output_dw_de$Nein_Stimmen_In_Prozent>50,]
-  count_yes_gemeinden <- output_dw[output_dw_de$Ja_Stimmen_In_Prozent>50,]
-  count_tie_gemeinden <- output_dw[output_dw_de$Ja_Stimmen_In_Prozent == 50,]
+  count_non_gemeinden <- output_dw_de[output_dw_de$Nein_Stimmen_In_Prozent>50,]
+  count_yes_gemeinden <- output_dw_de[output_dw_de$Ja_Stimmen_In_Prozent>50,]
+  count_tie_gemeinden <- output_dw_de[output_dw_de$Ja_Stimmen_In_Prozent == 50,]
   print(paste0("Nein-Stimmen: ",nrow(count_non_gemeinden),"; Ja-Stimmen: ",nrow(count_yes_gemeinden),
                "; Unentschieden: ",nrow(count_tie_gemeinden)))
   
@@ -127,7 +127,7 @@ for (k in 1:length(kantonal_short) ) {
   undertitel_fr <- "Aucun résultat n'est encore connu."
   undertitel_it <- "Nessun risultato è ancora noto."
   
-  hold <- FALSE
+  hold <- TRUE
   if (hold == FALSE) {
     
     if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
@@ -166,6 +166,4 @@ for (k in 1:length(kantonal_short) ) {
     }
     
   }  
-  
-  
 }

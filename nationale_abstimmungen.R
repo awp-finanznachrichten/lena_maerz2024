@@ -205,12 +205,29 @@ for (i in 1:length(vorlagen_short)) {
   output_dw_fr <- get_output_gemeinden(results,language = "fr")
   output_dw_it <- get_output_gemeinden(results,language = "it")
 
-
   #Output speichern
   write.csv(output_dw_de,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_de.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   write.csv(output_dw_fr,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_fr.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   write.csv(output_dw_it,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_it.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
+  #Output Abstimmungen pro Kanton
+  for (c in 1:nrow(cantons_overview)) {
+    if (grepl("de",cantons_overview$languages[c]) == TRUE) {
+    output_kanton_dw_de <- output_dw_de %>%
+      filter(grepl(paste0(" ",cantons_overview$area_ID[c]),Gemeinde_de) == TRUE)
+    write.csv(output_kanton_dw_de,paste0("Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[i],"_dw_de.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+    }
+    if (grepl("fr",cantons_overview$languages[c]) == TRUE) {
+      output_kanton_dw_fr <- output_dw_fr %>%
+        filter(grepl(paste0(" [(]",cantons_overview$area_ID[c],"[)]"),Gemeinde_fr) == TRUE)
+    write.csv(output_kanton_dw_fr,paste0("Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[i],"_dw_fr.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+    }
+    if (grepl("it",cantons_overview$languages[c]) == TRUE) {
+      output_kanton_dw_it <- output_dw_it %>%
+        filter(grepl(paste0(" ",cantons_overview$area_ID[c]),Gemeinde_it) == TRUE)
+    write.csv(output_kanton_dw_it,paste0("Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[i],"_dw_it.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+    }
+  }  
   
   count_non_gemeinden <- output_dw_de[output_dw_de$Nein_Stimmen_In_Prozent>50,]
   count_yes_gemeinden <- output_dw_de[output_dw_de$Ja_Stimmen_In_Prozent>50,]
@@ -240,7 +257,7 @@ for (i in 1:length(vorlagen_short)) {
   undertitel_fr <- "Aucun résultat n'est encore connu."
   undertitel_it <- "Nessun risultato è ancora noto."
 
-hold <- FALSE
+hold <- TRUE
 if (hold == FALSE) {
    
   if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {

@@ -1,5 +1,5 @@
 #Working Directory definieren
-setwd("C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
+setwd("C:/Users/simon/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("CONFIG.R",encoding = "UTF-8")
@@ -33,9 +33,9 @@ vorlagen_gemeinden <- c("EuC56","JJ03i","CPwql")
 vorlagen_kantone <- c("HH2Hs","G7A2k","sobvY")
 
 #Titel aktuelle Vorlagen
-vorlagen <- get_vorlagen(json_data,"de")
-vorlagen_fr <- get_vorlagen(json_data,"fr")
-vorlagen_it <- get_vorlagen(json_data,"it")
+#vorlagen <- get_vorlagen(json_data,"de")
+#vorlagen_fr <- get_vorlagen(json_data,"fr")
+#vorlagen_it <- get_vorlagen(json_data,"it")
 vorlagen_all <- rbind(vorlagen,vorlagen_fr)
 vorlagen_all <- rbind(vorlagen_all,vorlagen_it)
 
@@ -316,7 +316,7 @@ for (v in 1:length(vorlagen_short)) {
                   folderId = folder_kanton$id,
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
-                                                   "/master/Output_Cantons/",vorlagen_short[v],"_dw.csv")))
+                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_de.csv")))
     dw_publish_chart(data_chart$id)
   }
   if (grepl("fr",cantons_overview$languages[c]) == TRUE) {
@@ -328,7 +328,7 @@ for (v in 1:length(vorlagen_short)) {
                   folderId = folder_kanton$id,
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
-                                                   "/master/Output_Cantons/",vorlagen_short[v],"_dw_fr.csv")))
+                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_fr.csv")))
     dw_publish_chart(data_chart$id)
   }
   if (grepl("it",cantons_overview$languages[c]) == TRUE) {
@@ -340,7 +340,7 @@ for (v in 1:length(vorlagen_short)) {
                   folderId = folder_kanton$id,
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
-                                                   "/master/Output_Cantons/",vorlagen_short[v],"_dw_it.csv")))
+                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_it.csv")))
     dw_publish_chart(data_chart$id)
   }
 }

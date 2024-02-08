@@ -66,6 +66,23 @@ other_check <- FALSE
 Vorlagen_Titel <- as.data.frame(read_excel(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
                                           sheet = "Vorlagen_Uebersicht"))
 
+###Anzahl, Name und Nummer der Vorlagen von JSON einlesen
+
+##Deutsch
+vorlagen <- get_vorlagen(json_data,"de")
+vorlagen$text[1] <- Vorlagen_Titel$Vorlage_d[1]
+vorlagen$text[2] <- Vorlagen_Titel$Vorlage_d[2]
+
+#Französisch
+vorlagen_fr <- get_vorlagen(json_data,"fr")
+vorlagen_fr$text[1] <- Vorlagen_Titel$Vorlage_f[1]
+vorlagen_fr$text[2] <- Vorlagen_Titel$Vorlage_f[2]
+
+#Italienisch
+vorlagen_it <- get_vorlagen(json_data,"it")
+vorlagen_it$text[1] <- Vorlagen_Titel$Vorlage_i[1]
+vorlagen_it$text[2] <- Vorlagen_Titel$Vorlage_i[2]
+
 ###Vorhandene Daten laden
 #daten_co2_bfs <- read_excel("Data/daten_co2_bfs.xlsx",skip=5)
 #daten_covid1_bfs <- read_excel("Data/daten_covid1_bfs.xlsx",skip=5)
