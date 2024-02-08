@@ -153,6 +153,7 @@ grafiken_uebersicht <- data.frame("Typ","Vorlage","Titel","Sprache","ID","Link",
 colnames(grafiken_uebersicht) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
 
 ###For Special Abstimmungen
+#kantonal_short <- kantonal_short_special
 #kantonal_number <- kantonal_number_special
 #kantonal_add <- kantonal_add_special
 
@@ -193,7 +194,7 @@ if (is.na(Vorlagen_Info$Vorlage_d) == FALSE) {
 }
 if (is.na(Vorlagen_Info$Vorlage_f) == FALSE) {
     data_chart <- dw_copy_chart(vorlagen_gemeinden[2])
-    created_folder <- dw_create_folder(paste0(kantonal_short[k],"_DE"),parent_id = folder_kantonal$id) #"166825"
+    created_folder <- dw_create_folder(paste0(kantonal_short[k],"_FR"),parent_id = folder_kantonal$id) #"166825"
     
     dw_edit_chart(data_chart$id,
                   title=Vorlagen_Info$Vorlage_f,
@@ -221,7 +222,7 @@ if (is.na(Vorlagen_Info$Vorlage_f) == FALSE) {
   }
 if (is.na(Vorlagen_Info$Vorlage_i) == FALSE) {
     data_chart <- dw_copy_chart(vorlagen_gemeinden[3])
-    created_folder <- dw_create_folder(paste0(kantonal_short[k],"_DE"),parent_id = folder_kantonal$id) #"166825"
+    created_folder <- dw_create_folder(paste0(kantonal_short[k],"_IT"),parent_id = folder_kantonal$id) #"166825"
     
     dw_edit_chart(data_chart$id,
                   title=Vorlagen_Info$Vorlage_i,
@@ -276,7 +277,7 @@ for (v in 1:nrow(vorlage_titel)) {
   data_chart <- dw_copy_chart(vorlagen_uebersicht[l])
   dw_edit_chart(data_chart$id,
                 title=titel,
-                folderId = "166833") #folder_kantone_uebersicht$id
+                folderId = folder_kantone_uebersicht$id) 
   dw_publish_chart(data_chart$id)
   metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
   
@@ -297,10 +298,12 @@ for (v in 1:nrow(vorlage_titel)) {
 #Daten Speichern
 grafiken_uebersicht <- grafiken_uebersicht[-1,]
 library(xlsx)
-write.xlsx(grafiken_uebersicht,"./Data/metadaten_grafiken_kantonal_new.xlsx",row.names = FALSE)
+write.xlsx(grafiken_uebersicht,"./Data/metadaten_grafiken_kantonal.xlsx",row.names = FALSE)
 
 
 #KANTONE AUTOMATISCH ERSTELLEN
+grafiken_uebersicht <- data.frame("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
+colnames(grafiken_uebersicht) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
 
 cantons_overview <- readRDS("./Data/cantons_overview.RDS")
 
@@ -316,8 +319,21 @@ for (v in 1:length(vorlagen_short)) {
                   folderId = folder_kanton$id,
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
-                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_de.csv")))
+                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_de.csv")),
+                  visualize=list("hide-empty-regions" = TRUE))
     dw_publish_chart(data_chart$id)
+    metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
+    
+    new_entry <- data.frame(paste0("Kanton ",cantons_overview$area_ID[c]),
+                            kantone_list$geoLevelname[k],
+                            metadata_chart$content$title,
+                            metadata_chart$content$language,
+                            metadata_chart$id,
+                            metadata_chart$content$publicUrl,
+                            metadata_chart$content$metadata$publish$`embed-codes`$`embed-method-responsive`,
+                            metadata_chart$content$metadata$publish$`embed-codes`$`embed-method-web-component`)
+    colnames(new_entry) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
+    grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry)
   }
   if (grepl("fr",cantons_overview$languages[c]) == TRUE) {
     data_chart <- dw_copy_chart(vorlagen_gemeinden[2])
@@ -328,8 +344,21 @@ for (v in 1:length(vorlagen_short)) {
                   folderId = folder_kanton$id,
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
-                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_fr.csv")))
+                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_fr.csv")),
+                  visualize=list("hide-empty-regions" = TRUE))
     dw_publish_chart(data_chart$id)
+    metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
+    
+    new_entry <- data.frame(paste0("Kanton ",cantons_overview$area_ID[c]),
+                            kantone_list$geoLevelname[k],
+                            metadata_chart$content$title,
+                            metadata_chart$content$language,
+                            metadata_chart$id,
+                            metadata_chart$content$publicUrl,
+                            metadata_chart$content$metadata$publish$`embed-codes`$`embed-method-responsive`,
+                            metadata_chart$content$metadata$publish$`embed-codes`$`embed-method-web-component`)
+    colnames(new_entry) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
+    grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry)
   }
   if (grepl("it",cantons_overview$languages[c]) == TRUE) {
     data_chart <- dw_copy_chart(vorlagen_gemeinden[3])
@@ -340,8 +369,27 @@ for (v in 1:length(vorlagen_short)) {
                   folderId = folder_kanton$id,
                   data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                    gsub("ä","ae",tolower(monate_de[month(date_voting)])),year(date_voting),
-                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_it.csv")))
+                                                   "/master/Output_Cantons/",cantons_overview$area_ID[c],"_",vorlagen_short[v],"_dw_it.csv")),
+                  visualize=list("hide-empty-regions" = TRUE))
+    
     dw_publish_chart(data_chart$id)
+    metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
+    
+    new_entry <- data.frame(paste0("Kanton ",cantons_overview$area_ID[c]),
+                            vorlagen_short[v],
+                            metadata_chart$content$title,
+                            metadata_chart$content$language,
+                            metadata_chart$id,
+                            metadata_chart$content$publicUrl,
+                            metadata_chart$content$metadata$publish$`embed-codes`$`embed-method-responsive`,
+                            metadata_chart$content$metadata$publish$`embed-codes`$`embed-method-web-component`)
+    colnames(new_entry) <- c("Typ","Vorlage","Titel","Sprache","ID","Link","Iframe","Script")
+    grafiken_uebersicht <- rbind(grafiken_uebersicht,new_entry)
   }
 }
 }
+
+#Daten Speichern
+grafiken_uebersicht <- grafiken_uebersicht[-1,]
+library(xlsx)
+write.xlsx(grafiken_uebersicht,"./Data/metadaten_grafiken_kantonskarten.xlsx",row.names = FALSE)

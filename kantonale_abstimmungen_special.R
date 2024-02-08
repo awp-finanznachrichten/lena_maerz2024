@@ -153,11 +153,11 @@ for (s in 1:length(kantonal_short_special) ) {
   
   
   ###
-  count_non_gemeinden <- output_dw[output_dw_de$Nein_Stimmen_In_Prozent>50,]
+  count_non_gemeinden <- output_dw_de[output_dw_de$Nein_Stimmen_In_Prozent>50,]
   
-  count_yes_gemeinden <- output_dw[output_dw_de$Ja_Stimmen_In_Prozent>50,]
+  count_yes_gemeinden <- output_dw_de[output_dw_de$Ja_Stimmen_In_Prozent>50,]
   
-  count_tie_gemeinden <- output_dw[output_dw_de$Ja_Stimmen_In_Prozent == 50,]
+  count_tie_gemeinden <- output_dw_de[output_dw_de$Ja_Stimmen_In_Prozent == 50,]
   
   print(paste0("Nein-Stimmen: ",nrow(count_non_gemeinden),"; Ja-Stimmen: ",nrow(count_yes_gemeinden),
                "; Unentschieden: ",nrow(count_tie_gemeinden)))
