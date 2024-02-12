@@ -97,8 +97,8 @@ cantons_overview <- readRDS("./Data/cantons_overview.RDS")
 cat("Metadaten zu Gemeinden und Kantonen geladen\n")
 
 #Datawrapper-Codes
-datawrapper_codes <- as.data.frame(read_excel("Data/metadaten_grafiken.xlsx"))
-datawrapper_codes_kantonal <- as.data.frame(read_excel("Data/metadaten_grafiken_kantonal.xlsx"))
+datawrapper_codes <- as.data.frame(read_excel("Data/metadaten_grafiken_eidgenössische_Abstimmungen.xlsx"))
+datawrapper_codes_kantonal <- as.data.frame(read_excel("Data/metadaten_grafiken_kantonale_Abstimmungen.xlsx"))
 datawrapper_codes_kantonal <- datawrapper_codes_kantonal[,c(1:5)]
 
 datawrapper_auth(Sys.getenv("DW_KEY"), overwrite = TRUE)

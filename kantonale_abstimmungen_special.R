@@ -44,11 +44,15 @@ for (s in 1:length(kantonal_short_special) ) {
   #Gegenvorschlag hinzufügen
   results_gegenvorschlag <- get_results_kantonal(json_data_kantone,
                                                  kantonal_number_special[s],
-                                                 kantonal_add_special[s]+1)
-  
+                                                 ifelse(kantonal_short_special[s] == "VS_Verfassung",
+                                                        kantonal_add_special[s]+2,
+                                                        kantonal_add_special[s]+1))
+                                                 
   results_kantonal_special_gegenvorschlag <- get_results_kantonal(json_data_kantone,
                                                               kantonal_number_special[s],
-                                                              kantonal_add_special[s]+1,
+                                                              ifelse(kantonal_short_special[s] == "VS_Verfassung",
+                                                                     kantonal_add_special[s]+2,
+                                                                     kantonal_add_special[s]+1),
                                                               level="kantonal")
   
   
@@ -67,11 +71,15 @@ for (s in 1:length(kantonal_short_special) ) {
   #Stichentscheid hinzufügen
   results_stichentscheid <- get_results_kantonal(json_data_kantone,
                                                  kantonal_number_special[s],
-                                                 kantonal_add_special[s]+2)
+                                                 ifelse(kantonal_short_special[s] == "VS_Verfassung",
+                                                        kantonal_add_special[s]+3,
+                                                        kantonal_add_special[s]+2))
   
   results_kantonal_special_stichentscheid <- get_results_kantonal(json_data_kantone,
                                                                   kantonal_number_special[s],
-                                                                  kantonal_add_special[s]+2,
+                                                                  ifelse(kantonal_short_special[s] == "VS_Verfassung",
+                                                                         kantonal_add_special[s]+3,
+                                                                         kantonal_add_special[s]+2),
                                                                   level="kantonal")
   
   

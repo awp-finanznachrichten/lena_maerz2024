@@ -1,7 +1,7 @@
 #repeat{
 
 #Working Directory definieren
-setwd("C:/Users/simon/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
+setwd("C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
 
 ###Funktionen laden
 source("./Funktionen/functions_readin.R", encoding = "UTF-8")
