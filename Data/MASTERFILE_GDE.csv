@@ -2096,7 +2096,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6417,NE,La Grande Béroche,La Grande Béroche,La Grande Béroche,La Grande Béroche NE,La Grande Béroche (NE),La Grande Béroche NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6421,NE,La Chaux-de-Fonds,La Chaux-de-Fonds,La Chaux-de-Fonds,La Chaux-de-Fonds NE,La Chaux-de-Fonds (NE),La Chaux-de-Fonds NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6422,NE,Les Planchettes,Les Planchettes,Les Planchettes,Les Planchettes NE,Les Planchettes (NE),Les Planchettes NE,Neuenburg,Neuchâtel,Neuchâtel,24
-6423,NE,La Sagne,La Sagne,La Sagne,La SagNE,La Sagne (NE),La SagNE,Neuenburg,Neuchâtel,Neuchâtel,24
+6423,NE,La Sagne,La Sagne,La Sagne,La Sagne NE,La Sagne (NE),La Sagne NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6431,NE,Les Brenets,Les Brenets,Les Brenets,Les Brenets NE,Les Brenets (NE),Les Brenets NE,Neuenburg,Neuchâtel,Neuchâtel,24
 6432,NE,La Brévine,La Brévine,La Brévine,La BréviNE,La Brévine (NE),La BréviNE,Neuenburg,Neuchâtel,Neuchâtel,24
 6433,NE,Brot-Plamboz,Brot-Plamboz,Brot-Plamboz,Brot-Plamboz NE,Brot-Plamboz (NE),Brot-Plamboz NE,Neuenburg,Neuchâtel,Neuchâtel,24
@@ -2125,7 +2125,7 @@ Gemeinde_Nr,Kanton_Short,Gemeinde_d,Gemeinde_f,Gemeinde_i,Gemeinde_KT_d,Gemeinde
 6605,GE,Bardonnex,Bardonnex,Bardonnex,Bardonnex GE,Bardonnex (GE),Bardonnex GE,Genf,Genève,Ginevra,25
 6606,GE,Bellevue,Bellevue,Bellevue,Bellevue GE,Bellevue (GE),Bellevue GE,Genf,Genève,Ginevra,25
 6607,GE,Bernex,Bernex,Bernex,Bernex GE,Bernex (GE),Bernex GE,Genf,Genève,Ginevra,25
-6608,GE,CarouGE,Carouge (GE),CarouGE,CarouGE,Carouge (GE),CarouGE GE,Genf,Genève,Ginevra,25
+6608,GE,Carouge,Carouge (GE),Carouge,Carouge GE,Carouge (GE),Carouge GE,Genf,Genève,Ginevra,25
 6609,GE,Cartigny,Cartigny,Cartigny,Cartigny GE,Cartigny (GE),Cartigny GE,Genf,Genève,Ginevra,25
 6610,GE,Céligny,Céligny,Céligny,Céligny GE,Céligny (GE),Céligny GE,Genf,Genève,Ginevra,25
 6611,GE,Chancy,Chancy,Chancy,Chancy GE,Chancy (GE),Chancy GE,Genf,Genève,Ginevra,25
