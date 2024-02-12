@@ -1,14 +1,15 @@
 "Kantons_Nr","Gemeinde_Nr","Ja_Stimmen_In_Prozent","Ja_Stimmen_Absolut","Nein_Stimmen_Absolut","Stimmbeteiligung_In_Prozent","Eingelegte_Stimmzettel","Anzahl_Stimmberechtigte","Gueltige_Stimmen","Gebiet_Ausgezaehlt","Kanton_Short","Gemeinde_d","Gemeinde_f","Gemeinde_i","Gemeinde_KT_d","Gemeinde_KT_f","Gemeinde_KT_i","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Highest_Yes_Kant","Highest_No_Kant"
 1,1,,,,,,,,FALSE,"ZH","Aeugst am Albis","Aeugst am Albis","Aeugst am Albis","Aeugst am Albis ZH","Aeugst am Albis (ZH)","Aeugst am Albis ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,2,,,,,,,,FALSE,"ZH","Affoltern am Albis","Affoltern am Albis","Affoltern am Albis","Affoltern am Albis ZH","Affoltern am Albis (ZH)","Affoltern am Albis ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
+1,3,,,,,,,,FALSE,"ZH","Bonstetten","Bonstetten","Bonstetten","Bonstetten ZH","Bonstetten (ZH)","Bonstetten ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,4,,,,,,,,FALSE,"ZH","Hausen am Albis","Hausen am Albis","Hausen am Albis","Hausen am Albis ZH","Hausen am Albis (ZH)","Hausen am Albis ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,5,,,,,,,,FALSE,"ZH","Hedingen","Hedingen","Hedingen","Hedingen ZH","Hedingen (ZH)","Hedingen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,6,,,,,,,,FALSE,"ZH","Kappel am Albis","Kappel am Albis","Kappel am Albis","Kappel am Albis ZH","Kappel am Albis (ZH)","Kappel am Albis ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
-1,3,,,,,,,,FALSE,"ZH","Bonstetten","Bonstetten","Bonstetten","Bonstetten ZH","Bonstetten (ZH)","Bonstetten ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
+1,7,,,,,,,,FALSE,"ZH","Knonau","Knonau","Knonau","Knonau ZH","Knonau (ZH)","Knonau ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,8,,,,,,,,FALSE,"ZH","Maschwanden","Maschwanden","Maschwanden","Maschwanden ZH","Maschwanden (ZH)","Maschwanden ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,9,,,,,,,,FALSE,"ZH","Mettmenstetten","Mettmenstetten","Mettmenstetten","Mettmenstetten ZH","Mettmenstetten (ZH)","Mettmenstetten ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,10,,,,,,,,FALSE,"ZH","Obfelden","Obfelden","Obfelden","Obfelden ZH","Obfelden (ZH)","Obfelden ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
-1,7,,,,,,,,FALSE,"ZH","Knonau","Knonau","Knonau","Knonau ZH","Knonau (ZH)","Knonau ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
+1,11,,,,,,,,FALSE,"ZH","Ottenbach","Ottenbach","Ottenbach","Ottenbach ZH","Ottenbach (ZH)","Ottenbach ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,12,,,,,,,,FALSE,"ZH","Rifferswil","Rifferswil","Rifferswil","Rifferswil ZH","Rifferswil (ZH)","Rifferswil ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,13,,,,,,,,FALSE,"ZH","Stallikon","Stallikon","Stallikon","Stallikon ZH","Stallikon (ZH)","Stallikon ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,14,,,,,,,,FALSE,"ZH","Wettswil am Albis","Wettswil am Albis","Wettswil am Albis","Wettswil am Albis ZH","Wettswil am Albis (ZH)","Wettswil am Albis ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
@@ -21,7 +22,7 @@
 1,28,,,,,,,,FALSE,"ZH","Flaach","Flaach","Flaach","Flaach ZH","Flaach (ZH)","Flaach ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,29,,,,,,,,FALSE,"ZH","Flurlingen","Flurlingen","Flurlingen","Flurlingen ZH","Flurlingen (ZH)","Flurlingen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,31,,,,,,,,FALSE,"ZH","Henggart","Henggart","Henggart","Henggart ZH","Henggart (ZH)","Henggart ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
-1,11,,,,,,,,FALSE,"ZH","Ottenbach","Ottenbach","Ottenbach","Ottenbach ZH","Ottenbach (ZH)","Ottenbach ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
+1,33,,,,,,,,FALSE,"ZH","Kleinandelfingen","Kleinandelfingen","Kleinandelfingen","Kleinandelfingen ZH","Kleinandelfingen (ZH)","Kleinandelfingen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,34,,,,,,,,FALSE,"ZH","Laufen-Uhwiesen","Laufen-Uhwiesen","Laufen-Uhwiesen","Laufen-Uhwiesen ZH","Laufen-Uhwiesen (ZH)","Laufen-Uhwiesen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,35,,,,,,,,FALSE,"ZH","Marthalen","Marthalen","Marthalen","Marthalen ZH","Marthalen (ZH)","Marthalen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,37,,,,,,,,FALSE,"ZH","Ossingen","Ossingen","Ossingen","Ossingen ZH","Ossingen (ZH)","Ossingen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
@@ -61,7 +62,7 @@
 1,87,,,,,,,,FALSE,"ZH","Hüttikon","Hüttikon","Hüttikon","Hüttikon ZH","Hüttikon (ZH)","Hüttikon ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,88,,,,,,,,FALSE,"ZH","Neerach","Neerach","Neerach","Neerach ZH","Neerach (ZH)","Neerach ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,89,,,,,,,,FALSE,"ZH","Niederglatt","Niederglatt","Niederglatt","Niederglatt ZH","Niederglatt (ZH)","Niederglatt ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
-1,33,,,,,,,,FALSE,"ZH","Kleinandelfingen","Kleinandelfingen","Kleinandelfingen","Kleinandelfingen ZH","Kleinandelfingen (ZH)","Kleinandelfingen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
+1,90,,,,,,,,FALSE,"ZH","Niederhasli","Niederhasli","Niederhasli","Niederhasli ZH","Niederhasli (ZH)","Niederhasli ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,91,,,,,,,,FALSE,"ZH","Niederweningen","Niederweningen","Niederweningen","Niederweningen ZH","Niederweningen (ZH)","Niederweningen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,92,,,,,,,,FALSE,"ZH","Oberglatt","Oberglatt","Oberglatt","Oberglatt ZH","Oberglatt (ZH)","Oberglatt ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,93,,,,,,,,FALSE,"ZH","Oberweningen","Oberweningen","Oberweningen","Oberweningen ZH","Oberweningen (ZH)","Oberweningen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
@@ -158,18 +159,18 @@
 1,296,,,,,,,,FALSE,"ZH","Illnau-Effretikon","Illnau-Effretikon","Illnau-Effretikon","Illnau-Effretikon ZH","Illnau-Effretikon (ZH)","Illnau-Effretikon ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,297,,,,,,,,FALSE,"ZH","Bauma","Bauma","Bauma","Bauma ZH","Bauma (ZH)","Bauma ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 1,298,,,,,,,,FALSE,"ZH","Wiesendangen","Wiesendangen","Wiesendangen","Wiesendangen ZH","Wiesendangen (ZH)","Wiesendangen ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
-1,90,,,,,,,,FALSE,"ZH","Niederhasli","Niederhasli","Niederhasli","Niederhasli ZH","Niederhasli (ZH)","Niederhasli ZH","Zürich","Zurich","Zurigo",,FALSE,FALSE
 2,301,,,,,,,,FALSE,"BE","Aarberg","Aarberg","Aarberg","Aarberg BE","Aarberg (BE)","Aarberg BE","Bern","Berne","Berna",,FALSE,FALSE
 2,302,,,,,,,,FALSE,"BE","Bargen BE","Bargen (BE)","Bargen BE","Bargen BE","Bargen (BE)","Bargen BE BE","Bern","Berne","Berna",,FALSE,FALSE
 2,303,,,,,,,,FALSE,"BE","Grossaffoltern","Grossaffoltern","Grossaffoltern","Grossaffoltern BE","Grossaffoltern (BE)","Grossaffoltern BE","Bern","Berne","Berna",,FALSE,FALSE
+2,304,,,,,,,,FALSE,"BE","Kallnach","Kallnach","Kallnach","Kallnach BE","Kallnach (BE)","Kallnach BE","Bern","Berne","Berna",,FALSE,FALSE
 2,305,,,,,,,,FALSE,"BE","Kappelen","Kappelen","Kappelen","Kappelen BE","Kappelen (BE)","Kappelen BE","Bern","Berne","Berna",,FALSE,FALSE
 2,306,,,,,,,,FALSE,"BE","Lyss","Lyss","Lyss","Lyss BE","Lyss (BE)","Lyss BE","Bern","Berne","Berna",,FALSE,FALSE
 2,307,,,,,,,,FALSE,"BE","Meikirch","Meikirch","Meikirch","Meikirch BE","Meikirch (BE)","Meikirch BE","Bern","Berne","Berna",,FALSE,FALSE
-2,304,,,,,,,,FALSE,"BE","Kallnach","Kallnach","Kallnach","Kallnach BE","Kallnach (BE)","Kallnach BE","Bern","Berne","Berna",,FALSE,FALSE
+2,309,,,,,,,,FALSE,"BE","Radelfingen","Radelfingen","Radelfingen","Radelfingen BE","Radelfingen (BE)","Radelfingen BE","Bern","Berne","Berna",,FALSE,FALSE
 2,310,,,,,,,,FALSE,"BE","Rapperswil BE","Rapperswil (BE)","Rapperswil BE","Rapperswil BE","Rapperswil (BE)","Rapperswil BE BE","Bern","Berne","Berna",,FALSE,FALSE
 2,311,,,,,,,,FALSE,"BE","Schüpfen","Schüpfen","Schüpfen","Schüpfen BE","Schüpfen (BE)","Schüpfen BE","Bern","Berne","Berna",,FALSE,FALSE
 2,312,,,,,,,,FALSE,"BE","Seedorf BE","Seedorf (BE)","Seedorf BE","Seedorf BE","Seedorf (BE)","Seedorf BE BE","Bern","Berne","Berna",,FALSE,FALSE
-2,309,,,,,,,,FALSE,"BE","Radelfingen","Radelfingen","Radelfingen","Radelfingen BE","Radelfingen (BE)","Radelfingen BE","Bern","Berne","Berna",,FALSE,FALSE
+2,321,,,,,,,,FALSE,"BE","Aarwangen","Aarwangen","Aarwangen","Aarwangen BE","Aarwangen (BE)","Aarwangen BE","Bern","Berne","Berna",,FALSE,FALSE
 2,322,,,,,,,,FALSE,"BE","Auswil","Auswil","Auswil","Auswil BE","Auswil (BE)","Auswil BE","Bern","Berne","Berna",,FALSE,FALSE
 2,323,,,,,,,,FALSE,"BE","Bannwil","Bannwil","Bannwil","Bannwil BE","Bannwil (BE)","Bannwil BE","Bern","Berne","Berna",,FALSE,FALSE
 2,324,,,,,,,,FALSE,"BE","Bleienbach","Bleienbach","Bleienbach","Bleienbach BE","Bleienbach (BE)","Bleienbach BE","Bern","Berne","Berna",,FALSE,FALSE
@@ -182,7 +183,7 @@
 2,335,,,,,,,,FALSE,"BE","Oeschenbach","Oeschenbach","Oeschenbach","Oeschenbach BE","Oeschenbach (BE)","Oeschenbach BE","Bern","Berne","Berna",,FALSE,FALSE
 2,336,,,,,,,,FALSE,"BE","Reisiswil","Reisiswil","Reisiswil","Reisiswil BE","Reisiswil (BE)","Reisiswil BE","Bern","Berne","Berna",,FALSE,FALSE
 2,337,,,,,,,,FALSE,"BE","Roggwil BE","Roggwil (BE)","Roggwil BE","Roggwil BE","Roggwil (BE)","Roggwil BE","Bern","Berne","Berna",,FALSE,FALSE
-2,321,,,,,,,,FALSE,"BE","Aarwangen","Aarwangen","Aarwangen","Aarwangen BE","Aarwangen (BE)","Aarwangen BE","Bern","Berne","Berna",,FALSE,FALSE
+2,338,,,,,,,,FALSE,"BE","Rohrbach","Rohrbach","Rohrbach","Rohrbach BE","Rohrbach (BE)","Rohrbach BE","Bern","Berne","Berna",,FALSE,FALSE
 2,339,,,,,,,,FALSE,"BE","Rohrbachgraben","Rohrbachgraben","Rohrbachgraben","Rohrbachgraben BE","Rohrbachgraben (BE)","Rohrbachgraben BE","Bern","Berne","Berna",,FALSE,FALSE
 2,340,,,,,,,,FALSE,"BE","Rütschelen","Rütschelen","Rütschelen","Rütschelen BE","Rütschelen (BE)","Rütschelen BE","Bern","Berne","Berna",,FALSE,FALSE
 2,341,,,,,,,,FALSE,"BE","Schwarzhäusern","Schwarzhäusern","Schwarzhäusern","Schwarzhäusern BE","Schwarzhäusern (BE)","Schwarzhäusern BE","Bern","Berne","Berna",,FALSE,FALSE
@@ -303,7 +304,7 @@
 2,588,,,,,,,,FALSE,"BE","Niederried bei Interlaken","Niederried bei Interlaken","Niederried bei Interlaken","Niederried bei Interlaken BE","Niederried bei Interlaken (BE)","Niederried bei Interlaken BE","Bern","Berne","Berna",,FALSE,FALSE
 2,589,,,,,,,,FALSE,"BE","Oberried am Brienzersee","Oberried am Brienzersee","Oberried am Brienzersee","Oberried am Brienzersee BE","Oberried am Brienzersee (BE)","Oberried am Brienzersee BE","Bern","Berne","Berna",,FALSE,FALSE
 2,590,,,,,,,,FALSE,"BE","Ringgenberg BE","Ringgenberg (BE)","Ringgenberg BE","Ringgenberg BE","Ringgenberg (BE)","Ringgenberg BE","Bern","Berne","Berna",,FALSE,FALSE
-2,338,,,,,,,,FALSE,"BE","Rohrbach","Rohrbach","Rohrbach","Rohrbach BE","Rohrbach (BE)","Rohrbach BE","Bern","Berne","Berna",,FALSE,FALSE
+2,591,,,,,,,,FALSE,"BE","Saxeten","Saxeten","Saxeten","Saxeten BE","Saxeten (BE)","Saxeten BE","Bern","Berne","Berna",,FALSE,FALSE
 2,592,,,,,,,,FALSE,"BE","Schwanden bei Brienz","Schwanden bei Brienz","Schwanden bei Brienz","Schwanden bei Brienz BE","Schwanden bei Brienz (BE)","Schwanden bei Brienz BE","Bern","Berne","Berna",,FALSE,FALSE
 2,593,,,,,,,,FALSE,"BE","Unterseen","Unterseen","Unterseen","Unterseen BE","Unterseen (BE)","Unterseen BE","Bern","Berne","Berna",,FALSE,FALSE
 2,594,,,,,,,,FALSE,"BE","Wilderswil","Wilderswil","Wilderswil","Wilderswil BE","Wilderswil (BE)","Wilderswil BE","Bern","Berne","Berna",,FALSE,FALSE
@@ -488,12 +489,12 @@
 2,991,,,,,,,,FALSE,"BE","Walliswil bei Wangen","Walliswil bei Wangen","Walliswil bei Wangen","Walliswil bei Wangen BE","Walliswil bei Wangen (BE)","Walliswil bei Wangen BE","Bern","Berne","Berna",,FALSE,FALSE
 2,992,,,,,,,,FALSE,"BE","Wangen an der Aare","Wangen an der Aare","Wangen an der Aare","Wangen an der Aare BE","Wangen an der Aare (BE)","Wangen an der Aare BE","Bern","Berne","Berna",,FALSE,FALSE
 2,995,,,,,,,,FALSE,"BE","Wiedlisbach","Wiedlisbach","Wiedlisbach","Wiedlisbach BE","Wiedlisbach (BE)","Wiedlisbach BE","Bern","Berne","Berna",,FALSE,FALSE
-2,591,,,,,,,,FALSE,"BE","Saxeten","Saxeten","Saxeten","Saxeten BE","Saxeten (BE)","Saxeten BE","Bern","Berne","Berna",,FALSE,FALSE
 3,1001,,,,,,,,FALSE,"LU","Doppleschwand","Doppleschwand","Doppleschwand","Doppleschwand LU","Doppleschwand (LU)","Doppleschwand LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
+3,1002,,,,,,,,FALSE,"LU","Entlebuch","Entlebuch","Entlebuch","Entlebuch LU","Entlebuch (LU)","Entlebuch LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1004,,,,,,,,FALSE,"LU","Flühli","Flühli","Flühli","Flühli LU","Flühli (LU)","Flühli LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1005,,,,,,,,FALSE,"LU","Hasle LU","Hasle (LU)","Hasle LU","Hasle LU","Hasle (LU)","Hasle LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1007,,,,,,,,FALSE,"LU","Romoos","Romoos","Romoos","Romoos LU","Romoos (LU)","Romoos LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
-3,1002,,,,,,,,FALSE,"LU","Entlebuch","Entlebuch","Entlebuch","Entlebuch LU","Entlebuch (LU)","Entlebuch LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
+3,1008,,,,,,,,FALSE,"LU","Schüpfheim","Schüpfheim","Schüpfheim","Schüpfheim LU","Schüpfheim (LU)","Schüpfheim LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1009,,,,,,,,FALSE,"LU","Werthenstein","Werthenstein","Werthenstein","Werthenstein LU","Werthenstein (LU)","Werthenstein LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1010,,,,,,,,FALSE,"LU","Escholzmatt-Marbach","Escholzmatt-Marbach","Escholzmatt-Marbach","Escholzmatt-Marbach LU","Escholzmatt-Marbach (LU)","Escholzmatt-Marbach LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1021,,,,,,,,FALSE,"LU","Aesch LU","Aesch (LU)","Aesch LU","Aesch LU","Aesch (LU)","Aesch LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
@@ -506,7 +507,7 @@
 3,1032,,,,,,,,FALSE,"LU","Hohenrain","Hohenrain","Hohenrain","Hohenrain LU","Hohenrain (LU)","Hohenrain LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1033,,,,,,,,FALSE,"LU","Inwil","Inwil","Inwil","Inwil LU","Inwil (LU)","Inwil LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1037,,,,,,,,FALSE,"LU","Rain","Rain","Rain","Rain LU","Rain (LU)","Rain LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
-3,1008,,,,,,,,FALSE,"LU","Schüpfheim","Schüpfheim","Schüpfheim","Schüpfheim LU","Schüpfheim (LU)","Schüpfheim LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
+3,1039,,,,,,,,FALSE,"LU","Römerswil","Römerswil","Römerswil","Römerswil LU","Römerswil (LU)","Römerswil LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1040,,,,,,,,FALSE,"LU","Rothenburg","Rothenburg","Rothenburg","Rothenburg LU","Rothenburg (LU)","Rothenburg LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1041,,,,,,,,FALSE,"LU","Schongau","Schongau","Schongau","Schongau LU","Schongau (LU)","Schongau LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1051,,,,,,,,FALSE,"LU","Adligenswil","Adligenswil","Adligenswil","Adligenswil LU","Adligenswil (LU)","Adligenswil LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
@@ -546,7 +547,7 @@
 3,1102,,,,,,,,FALSE,"LU","Sempach","Sempach","Sempach","Sempach LU","Sempach (LU)","Sempach LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1103,,,,,,,,FALSE,"LU","Sursee","Sursee","Sursee","Sursee LU","Sursee (LU)","Sursee LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1104,,,,,,,,FALSE,"LU","Triengen","Triengen","Triengen","Triengen LU","Triengen (LU)","Triengen LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
-3,1039,,,,,,,,FALSE,"LU","Römerswil","Römerswil","Römerswil","Römerswil LU","Römerswil (LU)","Römerswil LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
+3,1107,,,,,,,,FALSE,"LU","Wolhusen","Wolhusen","Wolhusen","Wolhusen LU","Wolhusen (LU)","Wolhusen LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1121,,,,,,,,FALSE,"LU","Alberswil","Alberswil","Alberswil","Alberswil LU","Alberswil (LU)","Alberswil LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1122,,,,,,,,FALSE,"LU","Altbüron","Altbüron","Altbüron","Altbüron LU","Altbüron (LU)","Altbüron LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1123,,,,,,,,FALSE,"LU","Altishofen","Altishofen","Altishofen","Altishofen LU","Altishofen (LU)","Altishofen LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
@@ -568,13 +569,13 @@
 3,1147,,,,,,,,FALSE,"LU","Wikon","Wikon","Wikon","Wikon LU","Wikon (LU)","Wikon LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1150,,,,,,,,FALSE,"LU","Zell LU","Zell (LU)","Zell LU","Zell LU","Zell (LU)","Zell LU LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 3,1151,,,,,,,,FALSE,"LU","Willisau","Willisau","Willisau","Willisau LU","Willisau (LU)","Willisau LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
-3,1107,,,,,,,,FALSE,"LU","Wolhusen","Wolhusen","Wolhusen","Wolhusen LU","Wolhusen (LU)","Wolhusen LU","Luzern","Lucerne","Lucerna",,FALSE,FALSE
 4,1201,,,,,,,,FALSE,"UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Altdorf UR","Altdorf (UR)","Altdorf UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1202,,,,,,,,FALSE,"UR","Andermatt","Andermatt","Andermatt","Andermatt UR","Andermatt (UR)","Andermatt UR","Uri","Uri","Uri",,FALSE,FALSE
+4,1203,,,,,,,,FALSE,"UR","Attinghausen","Attinghausen","Attinghausen","Attinghausen UR","Attinghausen (UR)","Attinghausen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1205,,,,,,,,FALSE,"UR","Bürglen UR","Bürglen (UR)","Bürglen UR","Bürglen UR","Bürglen (UR)","Bürglen UR UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1206,,,,,,,,FALSE,"UR","Erstfeld","Erstfeld","Erstfeld","Erstfeld UR","Erstfeld (UR)","Erstfeld UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1207,,,,,,,,FALSE,"UR","Flüelen","Flüelen","Flüelen","Flüelen UR","Flüelen (UR)","Flüelen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1203,,,,,,,,FALSE,"UR","Attinghausen","Attinghausen","Attinghausen","Attinghausen UR","Attinghausen (UR)","Attinghausen UR","Uri","Uri","Uri",,FALSE,FALSE
+4,1208,,,,,,,,FALSE,"UR","Göschenen","Göschenen","Göschenen","Göschenen UR","Göschenen (UR)","Göschenen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1209,,,,,,,,FALSE,"UR","Gurtnellen","Gurtnellen","Gurtnellen","Gurtnellen UR","Gurtnellen (UR)","Gurtnellen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1210,,,,,,,,FALSE,"UR","Hospental","Hospental","Hospental","Hospental UR","Hospental (UR)","Hospental UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1211,,,,,,,,FALSE,"UR","Isenthal","Isenthal","Isenthal","Isenthal UR","Isenthal (UR)","Isenthal UR","Uri","Uri","Uri",,FALSE,FALSE
@@ -587,7 +588,7 @@
 4,1218,,,,,,,,FALSE,"UR","Spiringen","Spiringen","Spiringen","Spiringen UR","Spiringen (UR)","Spiringen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1219,,,,,,,,FALSE,"UR","Unterschächen","Unterschächen","Unterschächen","Unterschächen UR","Unterschächen (UR)","Unterschächen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1220,,,,,,,,FALSE,"UR","Wassen","Wassen","Wassen","Wassen UR","Wassen (UR)","Wassen UR","Uri","Uri","Uri",,FALSE,FALSE
-4,1208,,,,,,,,FALSE,"UR","Göschenen","Göschenen","Göschenen","Göschenen UR","Göschenen (UR)","Göschenen UR","Uri","Uri","Uri",,FALSE,FALSE
+5,1301,,,,,,,,FALSE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
 5,1311,,,,,,,,FALSE,"SZ","Gersau","Gersau","Gersau","Gersau SZ","Gersau (SZ)","Gersau SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
 5,1321,,,,,,,,FALSE,"SZ","Feusisberg","Feusisberg","Feusisberg","Feusisberg SZ","Feusisberg (SZ)","Feusisberg SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
 5,1322,,,,,,,,FALSE,"SZ","Freienbach","Freienbach","Freienbach","Freienbach SZ","Freienbach (SZ)","Freienbach SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
@@ -617,17 +618,17 @@
 5,1373,,,,,,,,FALSE,"SZ","Steinen","Steinen","Steinen","Steinen SZ","Steinen (SZ)","Steinen SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
 5,1374,,,,,,,,FALSE,"SZ","Steinerberg","Steinerberg","Steinerberg","Steinerberg SZ","Steinerberg (SZ)","Steinerberg SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
 5,1375,,,,,,,,FALSE,"SZ","Unteriberg","Unteriberg","Unteriberg","Unteriberg SZ","Unteriberg (SZ)","Unteriberg SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
-5,1301,,,,,,,,FALSE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln SZ","Schwyz","Schwyz","Svitto",,FALSE,FALSE
 6,1401,,,,,,,,FALSE,"OW","Alpnach","Alpnach","Alpnach","Alpnach OW","Alpnach (OW)","Alpnach OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 6,1402,,,,,,,,FALSE,"OW","Engelberg","Engelberg","Engelberg","Engelberg OW","Engelberg (OW)","Engelberg OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
+6,1403,,,,,,,,FALSE,"OW","Giswil","Giswil","Giswil","Giswil OW","Giswil (OW)","Giswil OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 6,1404,,,,,,,,FALSE,"OW","Kerns","Kerns","Kerns","Kerns OW","Kerns (OW)","Kerns OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 6,1405,,,,,,,,FALSE,"OW","Lungern","Lungern","Lungern","Lungern OW","Lungern (OW)","Lungern OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 6,1406,,,,,,,,FALSE,"OW","Sachseln","Sachseln","Sachseln","Sachseln OW","Sachseln (OW)","Sachseln OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
-6,1403,,,,,,,,FALSE,"OW","Giswil","Giswil","Giswil","Giswil OW","Giswil (OW)","Giswil OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 6,1407,,,,,,,,FALSE,"OW","Sarnen","Sarnen","Sarnen","Sarnen OW","Sarnen (OW)","Sarnen OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 7,1501,,,,,,,,FALSE,"NW","Beckenried","Beckenried","Beckenried","Beckenried NW","Beckenried (NW)","Beckenried NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 7,1502,,,,,,,,FALSE,"NW","Buochs","Buochs","Buochs","Buochs NW","Buochs (NW)","Buochs NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 7,1503,,,,,,,,FALSE,"NW","Dallenwil","Dallenwil","Dallenwil","Dallenwil NW","Dallenwil (NW)","Dallenwil NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
+7,1504,,,,,,,,FALSE,"NW","Emmetten","Emmetten","Emmetten","Emmetten NW","Emmetten (NW)","Emmetten NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 7,1505,,,,,,,,FALSE,"NW","Ennetbürgen","Ennetbürgen","Ennetbürgen","Ennetbürgen NW","Ennetbürgen (NW)","Ennetbürgen NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 7,1506,,,,,,,,FALSE,"NW","Ennetmoos","Ennetmoos","Ennetmoos","Ennetmoos NW","Ennetmoos (NW)","Ennetmoos NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 7,1507,,,,,,,,FALSE,"NW","Hergiswil NW","Hergiswil (NW)","Hergiswil NW","Hergiswil NW","Hergiswil (NW)","Hergiswil NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
@@ -635,13 +636,13 @@
 7,1509,,,,,,,,FALSE,"NW","Stans","Stans","Stans","Stans NW","Stans (NW)","Stans NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 7,1510,,,,,,,,FALSE,"NW","Stansstad","Stansstad","Stansstad","Stansstad NW","Stansstad (NW)","Stansstad NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 7,1511,,,,,,,,FALSE,"NW","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen NW","Wolfenschiessen (NW)","Wolfenschiessen NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
-7,1504,,,,,,,,FALSE,"NW","Emmetten","Emmetten","Emmetten","Emmetten NW","Emmetten (NW)","Emmetten NW","Nidwalden","Nidwald","Nidvaldo",,FALSE,FALSE
 8,1630,,,,,,,,FALSE,"GL","Glarus Nord","Glarus Nord","Glarus Nord","Glarus Nord GL","Glarus Nord (GL)","Glarus Nord GL","Glarus","Glaris","Glarona",,FALSE,FALSE
 8,1631,,,,,,,,FALSE,"GL","Glarus Süd","Glarus Süd","Glarus Süd","Glarus Süd GL","Glarus Süd (GL)","Glarus Süd GL","Glarus","Glaris","Glarona",,FALSE,FALSE
 8,1632,,,,,,,,FALSE,"GL","Glarus","Glaris","Glarona","Glarus GL","Glaris (GL)","Glarona GL","Glarus","Glaris","Glarona",,FALSE,FALSE
 9,1701,,,,,,,,FALSE,"ZG","Baar","Baar","Baar","Baar ZG","Baar (ZG)","Baar ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 9,1702,,,,,,,,FALSE,"ZG","Cham","Cham","Cham","Cham ZG","Cham (ZG)","Cham ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 9,1703,,,,,,,,FALSE,"ZG","Hünenberg","Hünenberg","Hünenberg","Hünenberg ZG","Hünenberg (ZG)","Hünenberg ZG","Zug","Zoug","Zugo",,FALSE,FALSE
+9,1704,,,,,,,,FALSE,"ZG","Menzingen","Menzingen","Menzingen","Menzingen ZG","Menzingen (ZG)","Menzingen ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 9,1705,,,,,,,,FALSE,"ZG","Neuheim","Neuheim","Neuheim","Neuheim ZG","Neuheim (ZG)","Neuheim ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 9,1706,,,,,,,,FALSE,"ZG","Oberägeri","Oberägeri","Oberägeri","Oberägeri ZG","Oberägeri (ZG)","Oberägeri ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 9,1707,,,,,,,,FALSE,"ZG","Risch","Risch","Risch","Risch ZG","Risch (ZG)","Risch ZG","Zug","Zoug","Zugo",,FALSE,FALSE
@@ -649,12 +650,12 @@
 9,1709,,,,,,,,FALSE,"ZG","Unterägeri","Unterägeri","Unterägeri","Unterägeri ZG","Unterägeri (ZG)","Unterägeri ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 9,1710,,,,,,,,FALSE,"ZG","Walchwil","Walchwil","Walchwil","Walchwil ZG","Walchwil (ZG)","Walchwil ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 9,1711,,,,,,,,FALSE,"ZG","Zug","Zoug","Zugo","Zug ZG","Zoug (ZG)","Zugo ZG","Zug","Zoug","Zugo",,FALSE,FALSE
-9,1704,,,,,,,,FALSE,"ZG","Menzingen","Menzingen","Menzingen","Menzingen ZG","Menzingen (ZG)","Menzingen ZG","Zug","Zoug","Zugo",,FALSE,FALSE
 10,2008,,,,,,,,FALSE,"FR","Châtillon FR","Châtillon (FR)","Châtillon FR","Châtillon FR","Châtillon (FR)","Châtillon FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
+10,2011,,,,,,,,FALSE,"FR","Cugy FR","Cugy (FR)","Cugy FR","Cugy FR","Cugy (FR)","Cugy FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2016,,,,,,,,FALSE,"FR","Fétigny","Fétigny","Fétigny","Fétigny FR","Fétigny (FR)","Fétigny FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2022,,,,,,,,FALSE,"FR","Gletterens","Gletterens","Gletterens","Gletterens FR","Gletterens (FR)","Gletterens FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2025,,,,,,,,FALSE,"FR","Lully FR","Lully (FR)","Lully FR","Lully FR","Lully (FR)","Lully FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
-10,2011,,,,,,,,FALSE,"FR","Cugy FR","Cugy (FR)","Cugy FR","Cugy FR","Cugy (FR)","Cugy FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
+10,2027,,,,,,,,FALSE,"FR","Ménières","Ménières","Ménières","Ménières FR","Ménières (FR)","Ménières FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2029,,,,,,,,FALSE,"FR","Montagny FR","Montagny (FR)","Montagny FR","Montagny FR","Montagny (FR)","Montagny FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2035,,,,,,,,FALSE,"FR","Nuvilly","Nuvilly","Nuvilly","Nuvilly FR","Nuvilly (FR)","Nuvilly FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2038,,,,,,,,FALSE,"FR","Prévondavaux","Prévondavaux","Prévondavaux","Prévondavaux FR","Prévondavaux (FR)","Prévondavaux FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
@@ -667,7 +668,7 @@
 10,2053,,,,,,,,FALSE,"FR","Belmont-Broye","Belmont-Broye","Belmont-Broye","Belmont-Broye FR","Belmont-Broye (FR)","Belmont-Broye FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2054,,,,,,,,FALSE,"FR","Estavayer","Estavayer","Estavayer","Estavayer FR","Estavayer (FR)","Estavayer FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2055,,,,,,,,FALSE,"FR","Cheyres-Châbles","Cheyres-Châbles","Cheyres-Châbles","Cheyres-Châbles FR","Cheyres-Châbles (FR)","Cheyres-Châbles FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
-10,2027,,,,,,,,FALSE,"FR","Ménières","Ménières","Ménières","Ménières FR","Ménières (FR)","Ménières FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
+10,2061,,,,,,,,FALSE,"FR","Auboranges","Auboranges","Auboranges","Auboranges FR","Auboranges (FR)","Auboranges FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2063,,,,,,,,FALSE,"FR","Billens-Hennens","Billens-Hennens","Billens-Hennens","Billens-Hennens FR","Billens-Hennens (FR)","Billens-Hennens FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2066,,,,,,,,FALSE,"FR","Chapelle (Glâne)","Chapelle (Glâne)","Chapelle (Glâne)","Chapelle (Glâne) FR","Chapelle (Glâne) (FR)","Chapelle (Glâne) FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2067,,,,,,,,FALSE,"FR","Le Châtelard","Le Châtelard","Le Châtelard","Le Châtelard FR","Le Châtelard (FR)","Le Châtelard FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
@@ -775,8 +776,8 @@
 10,2336,,,,,,,,FALSE,"FR","Semsales","Semsales","Semsales","Semsales FR","Semsales (FR)","Semsales FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2337,,,,,,,,FALSE,"FR","Le Flon","Le Flon","Le Flon","Le Flon FR","Le Flon (FR)","Le Flon FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 10,2338,,,,,,,,FALSE,"FR","La Verrerie","La Verrerie","La Verrerie","La Verrerie FR","La Verrerie (FR)","La Verrerie FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
-10,2061,,,,,,,,FALSE,"FR","Auboranges","Auboranges","Auboranges","Auboranges FR","Auboranges (FR)","Auboranges FR","Freiburg","Fribourg","Friburgo",,FALSE,FALSE
 11,2401,,,,,,,,FALSE,"SO","Egerkingen","Egerkingen","Egerkingen","Egerkingen SO","Egerkingen (SO)","Egerkingen SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
+11,2402,,,,,,,,FALSE,"SO","Härkingen","Härkingen","Härkingen","Härkingen SO","Härkingen (SO)","Härkingen SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2403,,,,,,,,FALSE,"SO","Kestenholz","Kestenholz","Kestenholz","Kestenholz SO","Kestenholz (SO)","Kestenholz SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2404,,,,,,,,FALSE,"SO","Neuendorf","Neuendorf","Neuendorf","Neuendorf SO","Neuendorf (SO)","Neuendorf SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2405,,,,,,,,FALSE,"SO","Niederbuchsiten","Niederbuchsiten","Niederbuchsiten","Niederbuchsiten SO","Niederbuchsiten (SO)","Niederbuchsiten SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
@@ -789,7 +790,7 @@
 11,2425,,,,,,,,FALSE,"SO","Holderbank SO","Holderbank (SO)","Holderbank SO","Holderbank SO","Holderbank (SO)","Holderbank SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2426,,,,,,,,FALSE,"SO","Laupersdorf","Laupersdorf","Laupersdorf","Laupersdorf SO","Laupersdorf (SO)","Laupersdorf SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2427,,,,,,,,FALSE,"SO","Matzendorf","Matzendorf","Matzendorf","Matzendorf SO","Matzendorf (SO)","Matzendorf SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
-11,2402,,,,,,,,FALSE,"SO","Härkingen","Härkingen","Härkingen","Härkingen SO","Härkingen (SO)","Härkingen SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
+11,2428,,,,,,,,FALSE,"SO","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil SO","Mümliswil-Ramiswil (SO)","Mümliswil-Ramiswil SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2430,,,,,,,,FALSE,"SO","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen SO","Welschenrohr-Gänsbrunnen (SO)","Welschenrohr-Gänsbrunnen (SO)","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2445,,,,,,,,FALSE,"SO","Biezwil","Biezwil","Biezwil","Biezwil SO","Biezwil (SO)","Biezwil SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2455,,,,,,,,FALSE,"SO","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil SO","Lüterkofen-Ichertswil (SO)","Lüterkofen-Ichertswil SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
@@ -881,10 +882,10 @@
 11,2620,,,,,,,,FALSE,"SO","Meltingen","Meltingen","Meltingen","Meltingen SO","Meltingen (SO)","Meltingen SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2621,,,,,,,,FALSE,"SO","Nunningen","Nunningen","Nunningen","Nunningen SO","Nunningen (SO)","Nunningen SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 11,2622,,,,,,,,FALSE,"SO","Zullwil","Zullwil","Zullwil","Zullwil SO","Zullwil (SO)","Zullwil SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
-11,2428,,,,,,,,FALSE,"SO","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil SO","Mümliswil-Ramiswil (SO)","Mümliswil-Ramiswil SO","Solothurn","Soleure","Soletta",,FALSE,FALSE
 12,2701,,,,,,,,FALSE,"BS","Basel","Bâle","Basilea","Basel BS","Bâle (BS)","Basilea BS","Basel-Stadt","Bâle-Ville","Basilea Città",,FALSE,FALSE
 12,2702,,,,,,,,FALSE,"BS","Bettingen","Bettingen","Bettingen","Bettingen BS","Bettingen (BS)","Bettingen BS","Basel-Stadt","Bâle-Ville","Basilea Città",,FALSE,FALSE
 12,2703,,,,,,,,FALSE,"BS","Riehen","Riehen","Riehen","Riehen BS","Riehen (BS)","Riehen BS","Basel-Stadt","Bâle-Ville","Basilea Città",,FALSE,FALSE
+13,2761,,,,,,,,FALSE,"BL","Aesch BL","Aesch (BL)","Aesch BL","Aesch BL","Aesch (BL)","Aesch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2762,,,,,,,,FALSE,"BL","Allschwil","Allschwil","Allschwil","Allschwil BL","Allschwil (BL)","Allschwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2763,,,,,,,,FALSE,"BL","Arlesheim","Arlesheim","Arlesheim","Arlesheim BL","Arlesheim (BL)","Arlesheim BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2764,,,,,,,,FALSE,"BL","Biel-Benken","Biel-Benken","Biel-Benken","Biel-Benken BL","Biel-Benken (BL)","Biel-Benken BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
@@ -897,7 +898,7 @@
 13,2771,,,,,,,,FALSE,"BL","Oberwil BL","Oberwil (BL)","Oberwil BL","Oberwil BL","Oberwil (BL)","Oberwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2772,,,,,,,,FALSE,"BL","Pfeffingen","Pfeffingen","Pfeffingen","Pfeffingen BL","Pfeffingen (BL)","Pfeffingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2773,,,,,,,,FALSE,"BL","Reinach BL","Reinach (BL)","Reinach BL","Reinach BL","Reinach (BL)","Reinach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
-13,2761,,,,,,,,FALSE,"BL","Aesch BL","Aesch (BL)","Aesch BL","Aesch BL","Aesch (BL)","Aesch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
+13,2774,,,,,,,,FALSE,"BL","Schönenbuch","Schönenbuch","Schönenbuch","Schönenbuch BL","Schönenbuch (BL)","Schönenbuch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2775,,,,,,,,FALSE,"BL","Therwil","Therwil","Therwil","Therwil BL","Therwil (BL)","Therwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2781,,,,,,,,FALSE,"BL","Blauen","Blauen","Blauen","Blauen BL","Blauen (BL)","Blauen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2782,,,,,,,,FALSE,"BL","Brislach","Brislach","Brislach","Brislach BL","Brislach (BL)","Brislach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
@@ -910,7 +911,7 @@
 13,2789,,,,,,,,FALSE,"BL","Nenzlingen","Nenzlingen","Nenzlingen","Nenzlingen BL","Nenzlingen (BL)","Nenzlingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2790,,,,,,,,FALSE,"BL","Roggenburg","Roggenburg","Roggenburg","Roggenburg BL","Roggenburg (BL)","Roggenburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2791,,,,,,,,FALSE,"BL","Röschenz","Röschenz","Röschenz","Röschenz BL","Röschenz (BL)","Röschenz BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
-13,2774,,,,,,,,FALSE,"BL","Schönenbuch","Schönenbuch","Schönenbuch","Schönenbuch BL","Schönenbuch (BL)","Schönenbuch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
+13,2792,,,,,,,,FALSE,"BL","Wahlen","Wahlen","Wahlen","Wahlen BL","Wahlen (BL)","Wahlen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2793,,,,,,,,FALSE,"BL","Zwingen","Zwingen","Zwingen","Zwingen BL","Zwingen (BL)","Zwingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2821,,,,,,,,FALSE,"BL","Arisdorf","Arisdorf","Arisdorf","Arisdorf BL","Arisdorf (BL)","Arisdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2822,,,,,,,,FALSE,"BL","Augst","Augst","Augst","Augst BL","Augst (BL)","Augst BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
@@ -970,15 +971,15 @@
 13,2893,,,,,,,,FALSE,"BL","Reigoldswil","Reigoldswil","Reigoldswil","Reigoldswil BL","Reigoldswil (BL)","Reigoldswil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2894,,,,,,,,FALSE,"BL","Titterten","Titterten","Titterten","Titterten BL","Titterten (BL)","Titterten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
 13,2895,,,,,,,,FALSE,"BL","Waldenburg","Waldenburg","Waldenburg","Waldenburg BL","Waldenburg (BL)","Waldenburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
-13,2792,,,,,,,,FALSE,"BL","Wahlen","Wahlen","Wahlen","Wahlen BL","Wahlen (BL)","Wahlen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",,FALSE,FALSE
+14,2901,,,,,,,,FALSE,"SH","Gächlingen","Gächlingen","Gächlingen","Gächlingen SH","Gächlingen (SH)","Gächlingen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2903,,,,,,,,FALSE,"SH","Löhningen","Löhningen","Löhningen","Löhningen SH","Löhningen (SH)","Löhningen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2904,,,,,,,,FALSE,"SH","Neunkirch","Neunkirch","Neunkirch","Neunkirch SH","Neunkirch (SH)","Neunkirch SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2914,,,,,,,,FALSE,"SH","Büttenhardt","Büttenhardt","Büttenhardt","Büttenhardt SH","Büttenhardt (SH)","Büttenhardt SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
-14,2901,,,,,,,,FALSE,"SH","Gächlingen","Gächlingen","Gächlingen","Gächlingen SH","Gächlingen (SH)","Gächlingen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
+14,2915,,,,,,,,FALSE,"SH","Dörflingen","Dörflingen","Dörflingen","Dörflingen SH","Dörflingen (SH)","Dörflingen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2917,,,,,,,,FALSE,"SH","Lohn SH","Lohn (SH)","Lohn SH","Lohn SH","Lohn (SH)","Lohn SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2919,,,,,,,,FALSE,"SH","Stetten SH","Stetten (SH)","Stetten SH","Stetten SH","Stetten (SH)","Stetten SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2920,,,,,,,,FALSE,"SH","Thayngen","Thayngen","Thayngen","Thayngen SH","Thayngen (SH)","Thayngen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
-14,2915,,,,,,,,FALSE,"SH","Dörflingen","Dörflingen","Dörflingen","Dörflingen SH","Dörflingen (SH)","Dörflingen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
+14,2931,,,,,,,,FALSE,"SH","Bargen SH","Bargen (SH)","Bargen SH","Bargen SH","Bargen (SH)","Bargen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2932,,,,,,,,FALSE,"SH","Beringen","Beringen","Beringen","Beringen SH","Beringen (SH)","Beringen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2933,,,,,,,,FALSE,"SH","Buchberg","Buchberg","Buchberg","Buchberg SH","Buchberg (SH)","Buchberg SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2936,,,,,,,,FALSE,"SH","Merishausen","Merishausen","Merishausen","Merishausen SH","Merishausen (SH)","Merishausen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
@@ -991,21 +992,21 @@
 14,2961,,,,,,,,FALSE,"SH","Buch SH","Buch (SH)","Buch SH","Buch SH","Buch (SH)","Buch SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2962,,,,,,,,FALSE,"SH","Hemishofen","Hemishofen","Hemishofen","Hemishofen SH","Hemishofen (SH)","Hemishofen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2963,,,,,,,,FALSE,"SH","Ramsen","Ramsen","Ramsen","Ramsen SH","Ramsen (SH)","Ramsen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
-14,2931,,,,,,,,FALSE,"SH","Bargen SH","Bargen (SH)","Bargen SH","Bargen SH","Bargen (SH)","Bargen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
+14,2964,,,,,,,,FALSE,"SH","Stein am Rhein","Stein am Rhein","Stein am Rhein","Stein am Rhein SH","Stein am Rhein (SH)","Stein am Rhein SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2971,,,,,,,,FALSE,"SH","Hallau","Hallau","Hallau","Hallau SH","Hallau (SH)","Hallau SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2972,,,,,,,,FALSE,"SH","Oberhallau","Oberhallau","Oberhallau","Oberhallau SH","Oberhallau (SH)","Oberhallau SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2973,,,,,,,,FALSE,"SH","Trasadingen","Trasadingen","Trasadingen","Trasadingen SH","Trasadingen (SH)","Trasadingen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2974,,,,,,,,FALSE,"SH","Wilchingen","Wilchingen","Wilchingen","Wilchingen SH","Wilchingen (SH)","Wilchingen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
-14,2964,,,,,,,,FALSE,"SH","Stein am Rhein","Stein am Rhein","Stein am Rhein","Stein am Rhein SH","Stein am Rhein (SH)","Stein am Rhein SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 15,3001,,,,,,,,FALSE,"AR","Herisau","Herisau","Herisau","Herisau AR","Herisau (AR)","Herisau AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
+15,3002,,,,,,,,FALSE,"AR","Hundwil","Hundwil","Hundwil","Hundwil AR","Hundwil (AR)","Hundwil AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3003,,,,,,,,FALSE,"AR","Schönengrund","Schönengrund","Schönengrund","Schönengrund AR","Schönengrund (AR)","Schönengrund AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3004,,,,,,,,FALSE,"AR","Schwellbrunn","Schwellbrunn","Schwellbrunn","Schwellbrunn AR","Schwellbrunn (AR)","Schwellbrunn AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3005,,,,,,,,FALSE,"AR","Stein AR","Stein (AR)","Stein AR","Stein AR","Stein (AR)","Stein AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
-15,3002,,,,,,,,FALSE,"AR","Hundwil","Hundwil","Hundwil","Hundwil AR","Hundwil (AR)","Hundwil AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
+15,3006,,,,,,,,FALSE,"AR","Urnäsch","Urnäsch","Urnäsch","Urnäsch AR","Urnäsch (AR)","Urnäsch AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3007,,,,,,,,FALSE,"AR","Waldstatt","Waldstatt","Waldstatt","Waldstatt AR","Waldstatt (AR)","Waldstatt AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3021,,,,,,,,FALSE,"AR","Bühler","Bühler","Bühler","Bühler AR","Bühler (AR)","Bühler AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3022,,,,,,,,FALSE,"AR","Gais","Gais","Gais","Gais AR","Gais (AR)","Gais AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
-15,3006,,,,,,,,FALSE,"AR","Urnäsch","Urnäsch","Urnäsch","Urnäsch AR","Urnäsch (AR)","Urnäsch AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
+15,3023,,,,,,,,FALSE,"AR","Speicher","Speicher","Speicher","Speicher AR","Speicher (AR)","Speicher AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3024,,,,,,,,FALSE,"AR","Teufen AR","Teufen (AR)","Teufen AR","Teufen AR","Teufen (AR)","Teufen AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3025,,,,,,,,FALSE,"AR","Trogen","Trogen","Trogen","Trogen AR","Trogen (AR)","Trogen AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3031,,,,,,,,FALSE,"AR","Grub AR","Grub (AR)","Grub AR","Grub AR","Grub (AR)","Grub AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
@@ -1016,22 +1017,22 @@
 15,3036,,,,,,,,FALSE,"AR","Wald AR","Wald (AR)","Wald AR","Wald AR","Wald (AR)","Wald AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3037,,,,,,,,FALSE,"AR","Walzenhausen","Walzenhausen","Walzenhausen","Walzenhausen AR","Walzenhausen (AR)","Walzenhausen AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 15,3038,,,,,,,,FALSE,"AR","Wolfhalden","Wolfhalden","Wolfhalden","Wolfhalden AR","Wolfhalden (AR)","Wolfhalden AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
-15,3023,,,,,,,,FALSE,"AR","Speicher","Speicher","Speicher","Speicher AR","Speicher (AR)","Speicher AR","Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",,FALSE,FALSE
 16,3101,,,,,,,,FALSE,"AI","Appenzell","Appenzell","Appenzello","Appenzell AI","Appenzell (AI)","Appenzello AI","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",,FALSE,FALSE
 16,3102,,,,,,,,FALSE,"AI","Gonten","Gonten","Gonten","Gonten AI","Gonten (AI)","Gonten AI","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",,FALSE,FALSE
+16,3104,,,,,,,,FALSE,"AI","Schlatt-Haslen","Schlatt-Haslen","Schlatt-Haslen","Schlatt-Haslen AI","Schlatt-Haslen (AI)","Schlatt-Haslen AI","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",,FALSE,FALSE
 16,3111,,,,,,,,FALSE,"AI","Oberegg","Oberegg","Oberegg","Oberegg AI","Oberegg (AI)","Oberegg AI","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",,FALSE,FALSE
 16,3112,,,,,,,,FALSE,"AI","Schwende-Rüti","Schwende-Rüti","Schwende-Rüti","Schwende-Rüti AI","Schwende-Rüti (AI)","Schwende-Rüti AI","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",,FALSE,FALSE
-16,3104,,,,,,,,FALSE,"AI","Schlatt-Haslen","Schlatt-Haslen","Schlatt-Haslen","Schlatt-Haslen AI","Schlatt-Haslen (AI)","Schlatt-Haslen AI","Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",,FALSE,FALSE
 17,3201,,,,,,,,FALSE,"SG","Häggenschwil","Häggenschwil","Häggenschwil","Häggenschwil SG","Häggenschwil (SG)","Häggenschwil SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3202,,,,,,,,FALSE,"SG","Muolen","Muolen","Muolen","Muolen SG","Muolen (SG)","Muolen SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
+17,3203,,,,,,,,FALSE,"SG","St. Gallen","Saint-Gall","San Gallo","St. Gallen SG","Saint-Gall (SG)","San Gallo SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3204,,,,,,,,FALSE,"SG","Wittenbach","Wittenbach","Wittenbach","Wittenbach SG","Wittenbach (SG)","Wittenbach SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3211,,,,,,,,FALSE,"SG","Berg SG","Berg (SG)","Berg SG","Berg SG","Berg (SG)","Berg SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3212,,,,,,,,FALSE,"SG","Eggersriet","Eggersriet","Eggersriet","Eggersriet SG","Eggersriet (SG)","Eggersriet SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
-17,3203,,,,,,,,FALSE,"SG","St. Gallen","Saint-Gall","San Gallo","St. Gallen SG","Saint-Gall (SG)","San Gallo SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
+17,3213,,,,,,,,FALSE,"SG","Goldach","Goldach","Goldach","Goldach SG","Goldach (SG)","Goldach SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3214,,,,,,,,FALSE,"SG","Mörschwil","Mörschwil","Mörschwil","Mörschwil SG","Mörschwil (SG)","Mörschwil SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3215,,,,,,,,FALSE,"SG","Rorschach","Rorschach","Rorschach","Rorschach SG","Rorschach (SG)","Rorschach SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3216,,,,,,,,FALSE,"SG","Rorschacherberg","Rorschacherberg","Rorschacherberg","Rorschacherberg SG","Rorschacherberg (SG)","Rorschacherberg SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
-17,3213,,,,,,,,FALSE,"SG","Goldach","Goldach","Goldach","Goldach SG","Goldach (SG)","Goldach SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
+17,3217,,,,,,,,FALSE,"SG","Steinach","Steinach","Steinach","Steinach SG","Steinach (SG)","Steinach SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3218,,,,,,,,FALSE,"SG","Tübach","Tübach","Tübach","Tübach SG","Tübach (SG)","Tübach SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3219,,,,,,,,FALSE,"SG","Untereggen","Untereggen","Untereggen","Untereggen SG","Untereggen (SG)","Untereggen SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3231,,,,,,,,FALSE,"SG","Au SG","Au (SG)","Au SG","Au SG","Au (SG)","Au SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
@@ -1096,11 +1097,11 @@
 17,3442,,,,,,,,FALSE,"SG","Gaiserwald","Gaiserwald","Gaiserwald","Gaiserwald SG","Gaiserwald (SG)","Gaiserwald SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3443,,,,,,,,FALSE,"SG","Gossau SG","Gossau (SG)","Gossau SG","Gossau SG","Gossau (SG)","Gossau SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
 17,3444,,,,,,,,FALSE,"SG","Waldkirch","Waldkirch","Waldkirch","Waldkirch SG","Waldkirch (SG)","Waldkirch SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
-17,3217,,,,,,,,FALSE,"SG","Steinach","Steinach","Steinach","Steinach SG","Steinach (SG)","Steinach SG","St. Gallen","Saint-Gall","San Gallo",,FALSE,FALSE
+18,3506,,,,,,,,FALSE,"GR","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz GR","Vaz/Obervaz (GR)","Vaz/Obervaz GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3513,,,,,,,,FALSE,"GR","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz GR","Lantsch/Lenz (GR)","Lantsch/Lenz GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3514,,,,,,,,FALSE,"GR","Schmitten GR","Schmitten (GR)","Schmitten GR","Schmitten GR","Schmitten (GR)","Schmitten GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3542,,,,,,,,FALSE,"GR","Albula/Alvra","Albula/Alvra","Albula/Alvra","Albula/Alvra GR","Albula/Alvra (GR)","Albula/Alvra GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
-18,3506,,,,,,,,FALSE,"GR","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz GR","Vaz/Obervaz (GR)","Vaz/Obervaz GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
+18,3543,,,,,,,,FALSE,"GR","Surses","Surses","Surses","Surses GR","Surses (GR)","Surses GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3544,,,,,,,,FALSE,"GR","Bergün Filisur","Bergün Filisur","Bergün Filisur","Bergün Filisur GR","Bergün Filisur (GR)","Bergün Filisur GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3551,,,,,,,,FALSE,"GR","Brusio","Brusio","Brusio","Brusio GR","Brusio (GR)","Brusio GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3561,,,,,,,,FALSE,"GR","Poschiavo","Poschiavo","Poschiavo","Poschiavo GR","Poschiavo (GR)","Poschiavo GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
@@ -1113,7 +1114,7 @@
 18,3619,,,,,,,,FALSE,"GR","Ilanz/Glion","Ilanz/Glion","Ilanz/Glion","Ilanz/Glion GR","Ilanz/Glion (GR)","Ilanz/Glion GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3633,,,,,,,,FALSE,"GR","Fürstenau","Fürstenau","Fürstenau","Fürstenau GR","Fürstenau (GR)","Fürstenau GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3637,,,,,,,,FALSE,"GR","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen GR","Rothenbrunnen (GR)","Rothenbrunnen GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
-18,3543,,,,,,,,FALSE,"GR","Surses","Surses","Surses","Surses GR","Surses (GR)","Surses GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
+18,3638,,,,,,,,FALSE,"GR","Scharans","Scharans","Scharans","Scharans GR","Scharans (GR)","Scharans GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3640,,,,,,,,FALSE,"GR","Sils im Domleschg","Sils im Domleschg","Sils im Domleschg","Sils im Domleschg GR","Sils im Domleschg (GR)","Sils im Domleschg GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3661,,,,,,,,FALSE,"GR","Cazis","Cazis","Cazis","Cazis GR","Cazis (GR)","Cazis GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3662,,,,,,,,FALSE,"GR","Flerden","Flerden","Flerden","Flerden GR","Flerden (GR)","Flerden GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
@@ -1153,7 +1154,7 @@
 18,3789,,,,,,,,FALSE,"GR","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl GR","Sils im Engadin/Segl (GR)","Sils im Engadin/Segl GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3790,,,,,,,,FALSE,"GR","Silvaplana","Silvaplana","Silvaplana","Silvaplana GR","Silvaplana (GR)","Silvaplana GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3791,,,,,,,,FALSE,"GR","Zuoz","Zuoz","Zuoz","Zuoz GR","Zuoz (GR)","Zuoz GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
-18,3638,,,,,,,,FALSE,"GR","Scharans","Scharans","Scharans","Scharans GR","Scharans (GR)","Scharans GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
+18,3792,,,,,,,,FALSE,"GR","Bregaglia","Bregaglia","Bregaglia","Bregaglia GR","Bregaglia (GR)","Bregaglia GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3804,,,,,,,,FALSE,"GR","Buseno","Buseno","Buseno","Buseno GR","Buseno (GR)","Buseno GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3805,,,,,,,,FALSE,"GR","Castaneda","Castaneda","Castaneda","Castaneda GR","Castaneda (GR)","Castaneda GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3808,,,,,,,,FALSE,"GR","Rossa","Rossa","Rossa","Rossa GR","Rossa (GR)","Rossa GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
@@ -1197,18 +1198,18 @@
 18,3986,,,,,,,,FALSE,"GR","Tujetsch","Tujetsch","Tujetsch","Tujetsch GR","Tujetsch (GR)","Tujetsch GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3987,,,,,,,,FALSE,"GR","Trun","Trun","Trun","Trun GR","Trun (GR)","Trun GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 18,3988,,,,,,,,FALSE,"GR","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun GR","Obersaxen Mundaun (GR)","Obersaxen Mundaun GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
-18,3792,,,,,,,,FALSE,"GR","Bregaglia","Bregaglia","Bregaglia","Bregaglia GR","Bregaglia (GR)","Bregaglia GR","Graubünden","Grisons","Grigioni",,FALSE,FALSE
 19,4001,,,,,,,,FALSE,"AG","Aarau","Aarau","Aarau","Aarau AG","Aarau (AG)","Aarau AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4002,,,,,,,,FALSE,"AG","Biberstein","Biberstein","Biberstein","Biberstein AG","Biberstein (AG)","Biberstein AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4003,,,,,,,,FALSE,"AG","Buchs AG","Buchs (AG)","Buchs AG","Buchs AG","Buchs (AG)","Buchs AG","Aargau","Argovie","Argovia",,FALSE,FALSE
+19,4004,,,,,,,,FALSE,"AG","Densbüren","Densbüren","Densbüren","Densbüren AG","Densbüren (AG)","Densbüren AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4005,,,,,,,,FALSE,"AG","Erlinsbach AG","Erlinsbach (AG)","Erlinsbach AG","Erlinsbach AG","Erlinsbach (AG)","Erlinsbach AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4006,,,,,,,,FALSE,"AG","Gränichen","Gränichen","Gränichen","Gränichen AG","Gränichen (AG)","Gränichen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4007,,,,,,,,FALSE,"AG","Hirschthal","Hirschthal","Hirschthal","Hirschthal AG","Hirschthal (AG)","Hirschthal AG","Aargau","Argovie","Argovia",,FALSE,FALSE
-19,4004,,,,,,,,FALSE,"AG","Densbüren","Densbüren","Densbüren","Densbüren AG","Densbüren (AG)","Densbüren AG","Aargau","Argovie","Argovia",,FALSE,FALSE
+19,4008,,,,,,,,FALSE,"AG","Küttigen","Küttigen","Küttigen","Küttigen AG","Küttigen (AG)","Küttigen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4009,,,,,,,,FALSE,"AG","Muhen","Muhen","Muhen","Muhen AG","Muhen (AG)","Muhen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4010,,,,,,,,FALSE,"AG","Oberentfelden","Oberentfelden","Oberentfelden","Oberentfelden AG","Oberentfelden (AG)","Oberentfelden AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4012,,,,,,,,FALSE,"AG","Suhr","Suhr","Suhr","Suhr AG","Suhr (AG)","Suhr AG","Aargau","Argovie","Argovia",,FALSE,FALSE
-19,4008,,,,,,,,FALSE,"AG","Küttigen","Küttigen","Küttigen","Küttigen AG","Küttigen (AG)","Küttigen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
+19,4013,,,,,,,,FALSE,"AG","Unterentfelden","Unterentfelden","Unterentfelden","Unterentfelden AG","Unterentfelden (AG)","Unterentfelden AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4021,,,,,,,,FALSE,"AG","Baden","Baden","Baden","Baden AG","Baden (AG)","Baden AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4022,,,,,,,,FALSE,"AG","Bellikon","Bellikon","Bellikon","Bellikon AG","Bellikon (AG)","Bellikon AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4023,,,,,,,,FALSE,"AG","Bergdietikon","Bergdietikon","Bergdietikon","Bergdietikon AG","Bergdietikon (AG)","Bergdietikon AG","Aargau","Argovie","Argovia",,FALSE,FALSE
@@ -1221,7 +1222,7 @@
 19,4031,,,,,,,,FALSE,"AG","Künten","Künten","Künten","Künten AG","Künten (AG)","Künten AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4032,,,,,,,,FALSE,"AG","Mägenwil","Mägenwil","Mägenwil","Mägenwil AG","Mägenwil (AG)","Mägenwil AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4033,,,,,,,,FALSE,"AG","Mellingen","Mellingen","Mellingen","Mellingen AG","Mellingen (AG)","Mellingen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
-19,4013,,,,,,,,FALSE,"AG","Unterentfelden","Unterentfelden","Unterentfelden","Unterentfelden AG","Unterentfelden (AG)","Unterentfelden AG","Aargau","Argovie","Argovia",,FALSE,FALSE
+19,4034,,,,,,,,FALSE,"AG","Neuenhof","Neuenhof","Neuenhof","Neuenhof AG","Neuenhof (AG)","Neuenhof AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4035,,,,,,,,FALSE,"AG","Niederrohrdorf","Niederrohrdorf","Niederrohrdorf","Niederrohrdorf AG","Niederrohrdorf (AG)","Niederrohrdorf AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4037,,,,,,,,FALSE,"AG","Oberrohrdorf","Oberrohrdorf","Oberrohrdorf","Oberrohrdorf AG","Oberrohrdorf (AG)","Oberrohrdorf AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4038,,,,,,,,FALSE,"AG","Obersiggenthal","Obersiggenthal","Obersiggenthal","Obersiggenthal AG","Obersiggenthal (AG)","Obersiggenthal AG","Aargau","Argovie","Argovia",,FALSE,FALSE
@@ -1234,7 +1235,7 @@
 19,4047,,,,,,,,FALSE,"AG","Würenlingen","Würenlingen","Würenlingen","Würenlingen AG","Würenlingen (AG)","Würenlingen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4048,,,,,,,,FALSE,"AG","Würenlos","Würenlos","Würenlos","Würenlos AG","Würenlos (AG)","Würenlos AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4049,,,,,,,,FALSE,"AG","Ehrendingen","Ehrendingen","Ehrendingen","Ehrendingen AG","Ehrendingen (AG)","Ehrendingen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
-19,4034,,,,,,,,FALSE,"AG","Neuenhof","Neuenhof","Neuenhof","Neuenhof AG","Neuenhof (AG)","Neuenhof AG","Aargau","Argovie","Argovia",,FALSE,FALSE
+19,4061,,,,,,,,FALSE,"AG","Arni AG","Arni (AG)","Arni AG","Arni AG","Arni (AG)","Arni AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4062,,,,,,,,FALSE,"AG","Berikon","Berikon","Berikon","Berikon AG","Berikon (AG)","Berikon AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4063,,,,,,,,FALSE,"AG","Bremgarten AG","Bremgarten (AG)","Bremgarten AG","Bremgarten AG","Bremgarten (AG)","Bremgarten AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4064,,,,,,,,FALSE,"AG","Büttikon","Büttikon","Büttikon","Büttikon AG","Büttikon (AG)","Büttikon AG","Aargau","Argovie","Argovia",,FALSE,FALSE
@@ -1274,7 +1275,7 @@
 19,4121,,,,,,,,FALSE,"AG","Villigen","Villigen","Villigen","Villigen AG","Villigen (AG)","Villigen AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4122,,,,,,,,FALSE,"AG","Villnachern","Villnachern","Villnachern","Villnachern AG","Villnachern (AG)","Villnachern AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4123,,,,,,,,FALSE,"AG","Windisch","Windisch","Windisch","Windisch AG","Windisch (AG)","Windisch AG","Aargau","Argovie","Argovia",,FALSE,FALSE
-19,4061,,,,,,,,FALSE,"AG","Arni AG","Arni (AG)","Arni AG","Arni AG","Arni (AG)","Arni AG","Aargau","Argovie","Argovia",,FALSE,FALSE
+19,4124,,,,,,,,FALSE,"AG","Bözberg","Bözberg","Bözberg","Bözberg AG","Bözberg (AG)","Bözberg AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4125,,,,,,,,FALSE,"AG","Schinznach","Schinznach","Schinznach","Schinznach AG","Schinznach (AG)","Schinznach AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4131,,,,,,,,FALSE,"AG","Beinwil am See","Beinwil am See","Beinwil am See","Beinwil am See AG","Beinwil am See (AG)","Beinwil am See AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4132,,,,,,,,FALSE,"AG","Birrwil","Birrwil","Birrwil","Birrwil AG","Birrwil (AG)","Birrwil AG","Aargau","Argovie","Argovia",,FALSE,FALSE
@@ -1394,8 +1395,8 @@
 19,4319,,,,,,,,FALSE,"AG","Siglistorf","Siglistorf","Siglistorf","Siglistorf AG","Siglistorf (AG)","Siglistorf AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4320,,,,,,,,FALSE,"AG","Tegerfelden","Tegerfelden","Tegerfelden","Tegerfelden AG","Tegerfelden (AG)","Tegerfelden AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 19,4324,,,,,,,,FALSE,"AG","Zurzach","Zurzach","Zurzach","Zurzach AG","Zurzach (AG)","Zurzach AG","Aargau","Argovie","Argovia",,FALSE,FALSE
-19,4124,,,,,,,,FALSE,"AG","Bözberg","Bözberg","Bözberg","Bözberg AG","Bözberg (AG)","Bözberg AG","Aargau","Argovie","Argovia",,FALSE,FALSE
 20,4401,,,,,,,,FALSE,"TG","Arbon","Arbon","Arbon","Arbon TG","Arbon (TG)","Arbon TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
+20,4406,,,,,,,,FALSE,"TG","Dozwil","Dozwil","Dozwil","Dozwil TG","Dozwil (TG)","Dozwil TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 20,4411,,,,,,,,FALSE,"TG","Egnach","Egnach","Egnach","Egnach TG","Egnach (TG)","Egnach TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 20,4416,,,,,,,,FALSE,"TG","Hefenhofen","Hefenhofen","Hefenhofen","Hefenhofen TG","Hefenhofen (TG)","Hefenhofen TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 20,4421,,,,,,,,FALSE,"TG","Horn","Horn","Horn","Horn TG","Horn (TG)","Horn TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
@@ -1474,10 +1475,10 @@
 20,4941,,,,,,,,FALSE,"TG","Märstetten","Märstetten","Märstetten","Märstetten TG","Märstetten (TG)","Märstetten TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 20,4946,,,,,,,,FALSE,"TG","Weinfelden","Weinfelden","Weinfelden","Weinfelden TG","Weinfelden (TG)","Weinfelden TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 20,4951,,,,,,,,FALSE,"TG","Wigoltingen","Wigoltingen","Wigoltingen","Wigoltingen TG","Wigoltingen (TG)","Wigoltingen TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
-20,4406,,,,,,,,FALSE,"TG","Dozwil","Dozwil","Dozwil","Dozwil TG","Dozwil (TG)","Dozwil TG","Thurgau","Thurgovie","Turgovia",,FALSE,FALSE
 21,5001,,,,,,,,FALSE,"TI","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione TI","Arbedo-Castione (TI)","Arbedo-Castione TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5002,,,,,,,,FALSE,"TI","Bellinzona","Bellinzone","Bellinzona","Bellinzona TI","Bellinzone (TI)","Bellinzona TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5003,,,,,,,,FALSE,"TI","Cadenazzo","Cadenazzo","Cadenazzo","Cadenazzo TI","Cadenazzo (TI)","Cadenazzo TI","Tessin","Tessin","Ticino",,FALSE,FALSE
+21,5009,,,,,,,,FALSE,"TI","Isone","Isone","Isone","Isone TI","Isone (TI)","Isone TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5010,,,,,,,,FALSE,"TI","Lumino","Lumino","Lumino","Lumino TI","Lumino (TI)","Lumino TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5017,,,,,,,,FALSE,"TI","Sant'Antonino","Sant'Antonino","Sant'Antonino","Sant'Antonino TI","Sant'Antonino (TI)","Sant'Antonino TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5048,,,,,,,,FALSE,"TI","Acquarossa","Acquarossa","Acquarossa","Acquarossa TI","Acquarossa (TI)","Acquarossa TI","Tessin","Tessin","Ticino",,FALSE,FALSE
@@ -1517,7 +1518,7 @@
 21,5151,,,,,,,,FALSE,"TI","Bioggio","Bioggio","Bioggio","Bioggio TI","Bioggio (TI)","Bioggio TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5154,,,,,,,,FALSE,"TI","Bissone","Bissone","Bissone","Bissone TI","Bissone (TI)","Bissone TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5160,,,,,,,,FALSE,"TI","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio TI","Brusino Arsizio (TI)","Brusino Arsizio TI","Tessin","Tessin","Ticino",,FALSE,FALSE
-21,5009,,,,,,,,FALSE,"TI","Isone","Isone","Isone","Isone TI","Isone (TI)","Isone TI","Tessin","Tessin","Ticino",,FALSE,FALSE
+21,5161,,,,,,,,FALSE,"TI","Cademario","Cademario","Cademario","Cademario TI","Cademario (TI)","Cademario TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5162,,,,,,,,FALSE,"TI","Cadempino","Cadempino","Cadempino","Cadempino TI","Cadempino (TI)","Cadempino TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5167,,,,,,,,FALSE,"TI","Canobbio","Canobbio","Canobbio","Canobbio TI","Canobbio (TI)","Canobbio TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5171,,,,,,,,FALSE,"TI","Caslano","Caslano","Caslano","Caslano TI","Caslano (TI)","Caslano TI","Tessin","Tessin","Ticino",,FALSE,FALSE
@@ -1580,12 +1581,12 @@
 21,5397,,,,,,,,FALSE,"TI","Centovalli","Centovalli","Centovalli","Centovalli TI","Centovalli (TI)","Centovalli TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5398,,,,,,,,FALSE,"TI","Gambarogno","Gambarogno","Gambarogno","Gambarogno TI","Gambarogno (TI)","Gambarogno TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 21,5399,,,,,,,,FALSE,"TI","Verzasca","Verzasca","Verzasca","Verzasca TI","Verzasca (TI)","Verzasca TI","Tessin","Tessin","Ticino",,FALSE,FALSE
-21,5161,,,,,,,,FALSE,"TI","Cademario","Cademario","Cademario","Cademario TI","Cademario (TI)","Cademario TI","Tessin","Tessin","Ticino",,FALSE,FALSE
 22,5401,,,,,,,,FALSE,"VD","Aigle","Aigle","Aigle","Aigle VD","Aigle (VD)","Aigle VD","Waadt","Vaud","Vaud",,FALSE,FALSE
+22,5402,,,,,,,,FALSE,"VD","Bex","Bex","Bex","Bex VD","Bex (VD)","Bex VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5403,,,,,,,,FALSE,"VD","Chessel","Chessel","Chessel","Chessel VD","Chessel (VD)","Chessel VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5404,,,,,,,,FALSE,"VD","Corbeyrier","Corbeyrier","Corbeyrier","Corbeyrier VD","Corbeyrier (VD)","Corbeyrier VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5405,,,,,,,,FALSE,"VD","Gryon","Gryon","Gryon","Gryon VD","Gryon (VD)","Gryon VD","Waadt","Vaud","Vaud",,FALSE,FALSE
-22,5402,,,,,,,,FALSE,"VD","Bex","Bex","Bex","Bex VD","Bex (VD)","Bex VD","Waadt","Vaud","Vaud",,FALSE,FALSE
+22,5406,,,,,,,,FALSE,"VD","Lavey-Morcles","Lavey-Morcles","Lavey-Morcles","Lavey-Morcles VD","Lavey-Morcles (VD)","Lavey-Morcles VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5407,,,,,,,,FALSE,"VD","Leysin","Leysin","Leysin","Leysin VD","Leysin (VD)","Leysin VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5408,,,,,,,,FALSE,"VD","Noville","Noville","Noville","Noville VD","Noville (VD)","Noville VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5409,,,,,,,,FALSE,"VD","Ollon","Ollon","Ollon","Ollon VD","Ollon (VD)","Ollon VD","Waadt","Vaud","Vaud",,FALSE,FALSE
@@ -1598,7 +1599,7 @@
 22,5422,,,,,,,,FALSE,"VD","Aubonne","Aubonne","Aubonne","Aubonne VD","Aubonne (VD)","Aubonne VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5423,,,,,,,,FALSE,"VD","Ballens","Ballens","Ballens","Ballens VD","Ballens (VD)","Ballens VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5424,,,,,,,,FALSE,"VD","Berolle","Berolle","Berolle","Berolle VD","Berolle (VD)","Berolle VD","Waadt","Vaud","Vaud",,FALSE,FALSE
-22,5406,,,,,,,,FALSE,"VD","Lavey-Morcles","Lavey-Morcles","Lavey-Morcles","Lavey-Morcles VD","Lavey-Morcles (VD)","Lavey-Morcles VD","Waadt","Vaud","Vaud",,FALSE,FALSE
+22,5425,,,,,,,,FALSE,"VD","Bière","Bière","Bière","Bière VD","Bière (VD)","Bière VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5426,,,,,,,,FALSE,"VD","Bougy-Villars","Bougy-Villars","Bougy-Villars","Bougy-Villars VD","Bougy-Villars (VD)","Bougy-Villars VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5427,,,,,,,,FALSE,"VD","Féchy","Féchy","Féchy","Féchy VD","Féchy (VD)","Féchy VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5428,,,,,,,,FALSE,"VD","Gimel","Gimel","Gimel","Gimel VD","Gimel (VD)","Gimel VD","Waadt","Vaud","Vaud",,FALSE,FALSE
@@ -1638,7 +1639,7 @@
 22,5495,,,,,,,,FALSE,"VD","Penthalaz","Penthalaz","Penthalaz","Penthalaz VD","Penthalaz (VD)","Penthalaz VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5496,,,,,,,,FALSE,"VD","Penthaz","Penthaz","Penthaz","Penthaz VD","Penthaz (VD)","Penthaz VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5497,,,,,,,,FALSE,"VD","Pompaples","Pompaples","Pompaples","Pompaples VD","Pompaples (VD)","Pompaples VD","Waadt","Vaud","Vaud",,FALSE,FALSE
-22,5425,,,,,,,,FALSE,"VD","Bière","Bière","Bière","Bière VD","Bière (VD)","Bière VD","Waadt","Vaud","Vaud",,FALSE,FALSE
+22,5498,,,,,,,,FALSE,"VD","La Sarraz","La Sarraz","La Sarraz","La Sarraz VD","La Sarraz (VD)","La Sarraz VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5499,,,,,,,,FALSE,"VD","Senarclens","Senarclens","Senarclens","Senarclens VD","Senarclens (VD)","Senarclens VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5501,,,,,,,,FALSE,"VD","Sullens","Sullens","Sullens","Sullens VD","Sullens (VD)","Sullens VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5503,,,,,,,,FALSE,"VD","Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville VD","Vufflens-la-Ville (VD)","Vufflens-la-Ville VD","Waadt","Vaud","Vaud",,FALSE,FALSE
@@ -1759,7 +1760,7 @@
 22,5711,,,,,,,,FALSE,"VD","Commugny","Commugny","Commugny","Commugny VD","Commugny (VD)","Commugny VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5712,,,,,,,,FALSE,"VD","Coppet","Coppet","Coppet","Coppet VD","Coppet (VD)","Coppet VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5713,,,,,,,,FALSE,"VD","Crans-près-Céligny","Crans-près-Céligny","Crans-près-Céligny","Crans-près-Céligny VD","Crans-près-Céligny (VD)","Crans-près-Céligny VD","Waadt","Vaud","Vaud",,FALSE,FALSE
-22,5498,,,,,,,,FALSE,"VD","La Sarraz","La Sarraz","La Sarraz","La Sarraz VD","La Sarraz (VD)","La Sarraz VD","Waadt","Vaud","Vaud",,FALSE,FALSE
+22,5714,,,,,,,,FALSE,"VD","Crassier","Crassier","Crassier","Crassier VD","Crassier (VD)","Crassier VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5715,,,,,,,,FALSE,"VD","Duillier","Duillier","Duillier","Duillier VD","Duillier (VD)","Duillier VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5716,,,,,,,,FALSE,"VD","Eysins","Eysins","Eysins","Eysins VD","Eysins (VD)","Eysins VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5717,,,,,,,,FALSE,"VD","Founex","Founex","Founex","Founex VD","Founex (VD)","Founex VD","Waadt","Vaud","Vaud",,FALSE,FALSE
@@ -1880,8 +1881,8 @@
 22,5937,,,,,,,,FALSE,"VD","Vugelles-La Mothe","Vugelles-La Mothe","Vugelles-La Mothe","Vugelles-La Mothe VD","Vugelles-La Mothe (VD)","Vugelles-La Mothe VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5938,,,,,,,,FALSE,"VD","Yverdon-les-Bains","Yverdon-les-Bains","Yverdon-les-Bains","Yverdon-les-Bains VD","Yverdon-les-Bains (VD)","Yverdon-les-Bains VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 22,5939,,,,,,,,FALSE,"VD","Yvonand","Yvonand","Yvonand","Yvonand VD","Yvonand (VD)","Yvonand VD","Waadt","Vaud","Vaud",,FALSE,FALSE
-22,5714,,,,,,,,FALSE,"VD","Crassier","Crassier","Crassier","Crassier VD","Crassier (VD)","Crassier VD","Waadt","Vaud","Vaud",,FALSE,FALSE
 23,6002,,,,,,,,FALSE,"VS","Brig-Glis","Brigue-Glis","Briga-Glis","Brig-Glis VS","Brigue-Glis (VS)","Briga-Glis VS","Wallis","Valais","Vallese",,FALSE,FALSE
+23,6004,,,,,,,,FALSE,"VS","Eggerberg","Eggerberg","Eggerberg","Eggerberg VS","Eggerberg (VS)","Eggerberg VS","Wallis","Valais","Vallese",,FALSE,FALSE
 23,6007,,,,,,,,FALSE,"VS","Naters","Naters","Naters","Naters VS","Naters (VS)","Naters VS","Wallis","Valais","Vallese",,FALSE,FALSE
 23,6008,,,,,,,,FALSE,"VS","Ried-Brig","Ried-Brig","Ried-Brig","Ried-Brig VS","Ried-Brig (VS)","Ried-Brig VS","Wallis","Valais","Vallese",,FALSE,FALSE
 23,6009,,,,,,,,FALSE,"VS","Simplon","Simplon","Sempione","Simplon VS","Simplon (VS)","Sempione VS","Wallis","Valais","Vallese",,FALSE,FALSE
@@ -2002,7 +2003,7 @@
 23,6298,,,,,,,,FALSE,"VS","Visperterminen","Visperterminen","Visperterminen","Visperterminen VS","Visperterminen (VS)","Visperterminen VS","Wallis","Valais","Vallese",,FALSE,FALSE
 23,6299,,,,,,,,FALSE,"VS","Zeneggen","Zeneggen","Zeneggen","Zeneggen VS","Zeneggen (VS)","Zeneggen VS","Wallis","Valais","Vallese",,FALSE,FALSE
 23,6300,,,,,,,,FALSE,"VS","Zermatt","Zermatt","Zermatt","Zermatt VS","Zermatt (VS)","Zermatt VS","Wallis","Valais","Vallese",,FALSE,FALSE
-23,6004,,,,,,,,FALSE,"VS","Eggerberg","Eggerberg","Eggerberg","Eggerberg VS","Eggerberg (VS)","Eggerberg VS","Wallis","Valais","Vallese",,FALSE,FALSE
+24,6404,,,,,,,,FALSE,"NE","Boudry","Boudry","Boudry","Boudry NE","Boudry (NE)","Boudry NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
 24,6408,,,,,,,,FALSE,"NE","Cortaillod","Cortaillod","Cortaillod","Cortaillod NE","Cortaillod (NE)","Cortaillod NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
 24,6413,,,,,,,,FALSE,"NE","Rochefort","Rochefort","Rochefort","Rochefort NE","Rochefort (NE)","Rochefort NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
 24,6416,,,,,,,,FALSE,"NE","Milvignes","Milvignes","Milvignes","Milvignes NE","Milvignes (NE)","Milvignes NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
@@ -2029,8 +2030,8 @@
 24,6504,,,,,,,,FALSE,"NE","La Côte-aux-Fées","La Côte-aux-Fées","La Côte-aux-Fées","La Côte-aux-Fées NE","La Côte-aux-Fées (NE)","La Côte-aux-Fées NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
 24,6511,,,,,,,,FALSE,"NE","Les Verrières","Les Verrières","Les Verrières","Les Verrières NE","Les Verrières (NE)","Les Verrières NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
 24,6512,,,,,,,,FALSE,"NE","Val-de-Travers","Val-de-Travers","Val-de-Travers","Val-de-Travers NE","Val-de-Travers (NE)","Val-de-Travers NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
-24,6404,,,,,,,,FALSE,"NE","Boudry","Boudry","Boudry","Boudry NE","Boudry (NE)","Boudry NE","Neuenburg","Neuchâtel","Neuchâtel",,FALSE,FALSE
 25,6601,,,,,,,,FALSE,"GE","Aire-la-Ville","Aire-la-Ville","Aire-la-Ville","Aire-la-Ville GE","Aire-la-Ville (GE)","Aire-la-Ville GE","Genf","Genève","Ginevra",,FALSE,FALSE
+25,6602,,,,,,,,FALSE,"GE","Anières","Anières","Anières","Anières GE","Anières (GE)","Anières GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6603,,,,,,,,FALSE,"GE","Avully","Avully","Avully","Avully GE","Avully (GE)","Avully GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6604,,,,,,,,FALSE,"GE","Avusy","Avusy","Avusy","Avusy GE","Avusy (GE)","Avusy GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6605,,,,,,,,FALSE,"GE","Bardonnex","Bardonnex","Bardonnex","Bardonnex GE","Bardonnex (GE)","Bardonnex GE","Genf","Genève","Ginevra",,FALSE,FALSE
@@ -2043,7 +2044,7 @@
 25,6612,,,,,,,,FALSE,"GE","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries GE","Chêne-Bougeries (GE)","Chêne-Bougeries GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6613,,,,,,,,FALSE,"GE","Chêne-Bourg","Chêne-Bourg","Chêne-Bourg","Chêne-Bourg GE","Chêne-Bourg (GE)","Chêne-Bourg GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6614,,,,,,,,FALSE,"GE","Choulex","Choulex","Choulex","Choulex GE","Choulex (GE)","Choulex GE","Genf","Genève","Ginevra",,FALSE,FALSE
-25,6602,,,,,,,,FALSE,"GE","Anières","Anières","Anières","Anières GE","Anières (GE)","Anières GE","Genf","Genève","Ginevra",,FALSE,FALSE
+25,6615,,,,,,,,FALSE,"GE","Collex-Bossy","Collex-Bossy","Collex-Bossy","Collex-Bossy GE","Collex-Bossy (GE)","Collex-Bossy GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6616,,,,,,,,FALSE,"GE","Collonge-Bellerive","Collonge-Bellerive","Collonge-Bellerive","Collonge-Bellerive GE","Collonge-Bellerive (GE)","Collonge-Bellerive GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6617,,,,,,,,FALSE,"GE","Cologny","Cologny","Cologny","Cologny GE","Cologny (GE)","Cologny GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6618,,,,,,,,FALSE,"GE","Confignon","Confignon","Confignon","Confignon GE","Confignon (GE)","Confignon GE","Genf","Genève","Ginevra",,FALSE,FALSE
@@ -2074,16 +2075,16 @@
 25,6643,,,,,,,,FALSE,"GE","Vernier","Vernier","Vernier","Vernier GE","Vernier (GE)","Vernier GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6644,,,,,,,,FALSE,"GE","Versoix","Versoix","Versoix","Versoix GE","Versoix (GE)","Versoix GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6645,,,,,,,,FALSE,"GE","Veyrier","Veyrier","Veyrier","Veyrier GE","Veyrier (GE)","Veyrier GE","Genf","Genève","Ginevra",,FALSE,FALSE
-25,6615,,,,,,,,FALSE,"GE","Collex-Bossy","Collex-Bossy","Collex-Bossy","Collex-Bossy GE","Collex-Bossy (GE)","Collex-Bossy GE","Genf","Genève","Ginevra",,FALSE,FALSE
 26,6702,,,,,,,,FALSE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt JU","Jura","Jura","Giura",,FALSE,FALSE
+26,6703,,,,,,,,FALSE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6704,,,,,,,,FALSE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6706,,,,,,,,FALSE,"JU","Courchapoix","Courchapoix","Courchapoix","Courchapoix JU","Courchapoix (JU)","Courchapoix JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6708,,,,,,,,FALSE,"JU","Courrendlin","Courrendlin","Courrendlin","Courrendlin JU","Courrendlin (JU)","Courrendlin JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6703,,,,,,,,FALSE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon JU","Jura","Jura","Giura",,FALSE,FALSE
+26,6709,,,,,,,,FALSE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6710,,,,,,,,FALSE,"JU","Courtételle","Courtételle","Courtételle","Courtételle JU","Courtételle (JU)","Courtételle JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6711,,,,,,,,FALSE,"JU","Delsberg","Delémont","Delsberg","Delsberg JU","Delémont (JU)","Delsberg JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6712,,,,,,,,FALSE,"JU","Develier","Develier","Develier","Develier JU","Develier (JU)","Develier JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6709,,,,,,,,FALSE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux JU","Jura","Jura","Giura",,FALSE,FALSE
+26,6713,,,,,,,,FALSE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6715,,,,,,,,FALSE,"JU","Mervelier","Mervelier","Mervelier","Mervelier JU","Mervelier (JU)","Mervelier JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6716,,,,,,,,FALSE,"JU","Mettembert","Mettembert","Mettembert","Mettembert JU","Mettembert (JU)","Mettembert JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6718,,,,,,,,FALSE,"JU","Movelier","Movelier","Movelier","Movelier JU","Movelier (JU)","Movelier JU","Jura","Jura","Giura",,FALSE,FALSE
@@ -2123,4 +2124,4 @@
 26,6809,,,,,,,,FALSE,"JU","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie JU","Haute-Ajoie (JU)","Haute-Ajoie JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6810,,,,,,,,FALSE,"JU","La Baroche","La Baroche","La Baroche","La Baroche JU","La Baroche (JU)","La Baroche JU","Jura","Jura","Giura",,FALSE,FALSE
 26,6811,,,,,,,,FALSE,"JU","Damphreux-Lugnez","Damphreux-Lugnez","Damphreux-Lugnez","Damphreux-Lugnez JU","Damphreux-Lugnez (JU)","Damphreux-Lugnez JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6713,,,,,,,,FALSE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler JU","Jura","Jura","Giura",,FALSE,FALSE
+26,6812,,,,,,,,FALSE,"JU","Basse-Vendline","Basse-Vendline","Basse-Vendline","Basse-Vendline JU","Basse-Vendline (JU)","Basse-Vendline JU","Jura","Jura","Giura",,FALSE,FALSE
