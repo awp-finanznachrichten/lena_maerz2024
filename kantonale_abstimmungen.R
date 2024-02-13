@@ -55,7 +55,7 @@ for (k in 1:length(kantonal_short) ) {
     #Intros generieren
     results <- normal_intro(results)
     
-#Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
+#Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden)
     
     if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == TRUE) {
       
