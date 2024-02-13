@@ -14,9 +14,6 @@ results <- get_results_kantonal(json_data_kantone,
                                   k,
                                   i)
 
-#Simulation Gemeinden
-   #source("data_simulation_gemeinden.R")
-
 results <- treat_gemeinden(results)
 results <- format_data_g(results)
 
@@ -24,9 +21,7 @@ Ja_Stimmen_Kanton <- get_results_kantonal(json_data_kantone,
                                           k,
                                           i,
                                           "kantonal")
-#Ja_Stimmen_Kanton Simulation 
-  #Ja_Stimmen_Kanton <- sample(1:100,1)  
-
+ 
 #Titel aus Spreadsheet
 titel_all <- Vorlagen_Titel %>%
   filter(Kanton == kantone_list$geoLevelname[k],

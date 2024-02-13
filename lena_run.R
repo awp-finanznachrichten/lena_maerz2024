@@ -12,6 +12,12 @@ source("./Funktionen/functions_output.R", encoding = "UTF-8")
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("CONFIG.R",encoding = "UTF-8")
 
+#Simulate Data (if needed)
+simulation <- FALSE
+if (simulation == TRUE) {
+source("./Simulation/data_simulation.R")  
+}  
+
 #Aktualisierungs-Check: Gibt es neue Daten?
 timestamp_national <- read.csv("./Timestamp/timestamp_national.txt",header=FALSE)[1,1]
 timestamp_kantonal <- read.csv("./Timestamp/timestamp_kantonal.txt",header=FALSE)[1,1]

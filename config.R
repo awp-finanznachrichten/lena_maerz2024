@@ -22,18 +22,18 @@ abstimmung_date <- "Maerz2024"
 res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-eidgAbstimmung.json")
 json_data <- fromJSON(rawToChar(res$content), flatten = TRUE)
 
-#download.file("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20230618-eidgAbstimmung.json",
-#              destfile = "Data/sd-t-17-02-20230618-eidgAbstimmung.json",
+#download.file("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-eidgAbstimmung.json,
+#              destfile = "Data/sd-t-17-02-20240303-eidgAbstimmung.json",
 #              method = "curl")
-#json_data <- fromJSON("Data/sd-t-17-02-20230618-eidgAbstimmung.json", flatten = TRUE)
+#json_data <- fromJSON("Data/sd-t-17-02-20240303-eidgAbstimmung.json, flatten = TRUE)
 
 res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-kantAbstimmung.json")
 json_data_kantone <- fromJSON(rawToChar(res$content), flatten = TRUE)
 
-#download.file("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20230618-kantAbstimmung.json",
-#              destfile = "Data/sd-t-17-02-20230618-eidgAbstimmung.json",
+#download.file("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-kantAbstimmung.json",
+#              destfile = "Data/sd-t-17-02-20240303-kantAbstimmung.json"",
 #              method = "curl")
-#json_data_kantone <- fromJSON("Data/sd-t-17-02-20230618-kantAbstimmung.json", flatten = TRUE)
+#json_data_kantone <- fromJSON("Data/sd-t-17-02-20240303-kantAbstimmung.json", flatten = TRUE)
 
 cat("Aktuelle Abstimmungsdaten geladen\n")
 

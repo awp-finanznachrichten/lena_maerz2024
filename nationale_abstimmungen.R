@@ -9,25 +9,15 @@ for (i in 1:length(vorlagen_short)) {
   ###Nationale Resultate aus JSON auslesen
   results_national <- get_results(json_data,i,level="national")
 
-###Nationale Resultate simulieren
-#set.seed(i)
-#results_national$jaStimmenInProzent <- sample(0:100,1)
-
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
 
-#Simulation Gemeinden
-#source("data_simulation_gemeinden.R")
-  
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)
   results <- format_data_g(results)
   
   #Kantonsdaten hinzufügen
   results_kantone <- get_results(json_data,i,"cantonal")
-  
-#Simulation Kantone
-#source("data_simulation_kantone.R")
   
   Ja_Stimmen_Kanton <- results_kantone %>%
     select(Kantons_Nr,jaStimmenInProzent) %>%
@@ -85,12 +75,9 @@ for (i in 1:length(vorlagen_short)) {
     other_check <- TRUE
     if (vorlagen$id[i] == "6590") {
       results_othervote <- get_results(json_data,i+1)
-#Simulation Gemeinden
-#source("data_simulation_gemeinden_other.R")
+
     } else if (vorlagen$id[i] == "6600") {
       results_othervote <- get_results(json_data,i-1)
-#Simulation Gemeinden
-#source("data_simulation_gemeinden_other.R")     
     }
     results_othervote <- results_othervote %>%
       select(Gemeinde_Nr,
@@ -138,13 +125,13 @@ for (i in 1:length(vorlagen_short)) {
     #Vergleich innerhalb des Kantons (falls alle Daten vom Kanton vorhanden)
     
     #Check Vorlagen-ID
-    if (vorlagen$id[i] == "6620") {
+#    if (vorlagen$id[i] == "6620") {
       
       #Falls mindestens ein Kanton ausgezählt -> Stories für die Kantone finden
       if (length(unique(results_notavailable$Kantons_Nr)) < 26) {
         results <- kanton_storyfinder(results)
       }
-    }
+#    }
 
     ###Storybuilder
     
@@ -257,7 +244,7 @@ for (i in 1:length(vorlagen_short)) {
   undertitel_fr <- "Aucun résultat n'est encore connu."
   undertitel_it <- "Nessun risultato è ancora noto."
 
-hold <- TRUE
+hold <- FALSE
 if (hold == FALSE) {
    
   if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
