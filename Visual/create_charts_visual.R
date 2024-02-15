@@ -5,11 +5,11 @@ library(zip)
 library(RCurl)
 
 #Working Directory definieren
-setwd("C:/Users/simon/OneDrive/LENA_Project/20230618_LENA_Abstimmungen")
+setwd("C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")
-source("functions_readin.R", encoding = "UTF-8")
+source("./Funktionen/functions_readin.R", encoding = "UTF-8")
 
 #Vorlagen Codes
 vorlage_gemeinde <- c("kDkMR","5NIK3","Idw6B")
@@ -21,28 +21,9 @@ folder_fr <- "117143"
 folder_it <- "117144"
 
 #Datum
-datum_de <- "18. Juni 2023"
-datum_fr <- "18 juin 2023"
-datum_it <- "18 percentuale sì 2023"
-
-#Vorlagen einlesen und Klammern entfernen
-##Deutsch
-vorlagen <- get_vorlagen(json_data,"de")
-vorlagen$text[1] <- "Abstimmung über OECD-Mindeststeuer (Verfassungsänderung)"
-vorlagen$text[2] <- "Abstimmung über Klimagesetz (Referendum)"
-vorlagen$text[3] <- "Abstimmung über Covid-19-Gesetz (Referendum)"
-
-#Französisch
-vorlagen_fr <- get_vorlagen(json_data,"fr")
-vorlagen_fr$text[1] <- "Réforme de l'imposition minimale selon les standards de l'OCDE"
-vorlagen_fr$text[2] <- "Loi sur le climat"
-vorlagen_fr$text[3] <- "Modification de la loi sur le Covid"
-
-vorlagen_it <- get_vorlagen(json_data,"it")
-
-#vorlagen$text <- str_replace(vorlagen$text, "\\s*\\([^\\)]+\\)", "")
-#vorlagen_fr$text <- str_replace(vorlagen_fr$text, "\\s*\\([^\\)]+\\)", "")
-vorlagen_it$text <- str_replace(vorlagen_it$text, "\\s*\\([^\\)]+\\)", "")
+datum_de <- "3. März 2024"
+datum_fr <- "3 mars 2024"
+datum_it <- "3 marzo 2024"
 
 for (i in 1:length(vorlagen_short) ) {
 
