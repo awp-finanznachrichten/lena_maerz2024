@@ -5,7 +5,7 @@ output_dw_zentralschweiz <- results[results$Kanton_Short == "LU" |
                                       results$Kanton_Short == "NW" |
                                       results$Kanton_Short == "ZG" |
                                       results$Kanton_Short == "UR" ,
-                                      #results$ID < 15,
+                                      #results$Gemeinde_Nr < 15,
                                     ]
 
 output_dw_zentralschweiz_kantone <- get_output_kantone(output_dw_zentralschweiz)
@@ -26,13 +26,13 @@ write.csv(output_dw_FM1_today,paste0("Output_Regions/",vorlagen_short[i],"_dw_FM
 
 ###Output generieren für Datawrapper ZOL
 output_dw_ZOL <- results %>%
-  filter(ID %in% 111:121 |
-           ID %in% 171:200 |
-           ID == 226 |
-           ID == 228 |
-           ID == 231 |
-           ID == 296 |
-           ID == 297)
+  filter(Gemeinde_Nr %in% 111:121 |
+           Gemeinde_Nr %in% 171:200 |
+           Gemeinde_Nr == 226 |
+           Gemeinde_Nr == 228 |
+           Gemeinde_Nr == 231 |
+           Gemeinde_Nr == 296 |
+           Gemeinde_Nr == 297)
 
 output_dw_ZOL <- get_output_gemeinden(output_dw_ZOL,language = "de")
 write.csv(output_dw_ZOL,paste0("Output_Regions/",vorlagen_short[i],"_dw_ZOL.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")

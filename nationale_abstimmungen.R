@@ -232,7 +232,7 @@ for (i in 1:length(vorlagen_short)) {
   
   #Log Kantone
   cat(paste0("\n\n",Sys.time()," ",vorlagen_short[i],"\n"),file="Logfiles/log_file.txt",append = TRUE)
-  
+
   #Output Abstimmungen Kantone
   output_dw_kantone <- get_output_kantone(results)
   write.csv(output_dw_kantone,paste0("Output_Switzerland/",vorlagen_short[i],"_dw_kantone.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")

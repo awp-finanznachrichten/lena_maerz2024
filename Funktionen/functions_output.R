@@ -52,23 +52,30 @@ for (y in 1:nrow(output_dw_kantone)) {
   
   if (output_dw_kantone$Gemeinden_counted[y] == 0) { 
     
+    if (is.na(output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y]) == TRUE) {
+    
     output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y] <- 0
     output_dw_kantone$Nein_Stimmen_In_Prozent_Kanton[y] <- 0
     output_dw_kantone$Kanton_color[y] <- 50
     output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
+    } else {
+      output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
+      if (output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y] > 50) {
+        output_dw_kantone$Kanton_color[y] <- 100
+      } else {
+        output_dw_kantone$Kanton_color[y] <- 0
+      }  
+      
+    }  
     
   } else if (output_dw_kantone$Gemeinden_counted[y] < output_dw_kantone$Gemeinden_overall[y]) {
     
     output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
     
     if (output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y] > 50) {
-      
       output_dw_kantone$Kanton_color[y] <- 100
-      
     } else {
-      
       output_dw_kantone$Kanton_color[y] <- 0
-      
     }  
     
   } else {
