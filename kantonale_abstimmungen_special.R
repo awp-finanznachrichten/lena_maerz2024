@@ -1,6 +1,6 @@
 for (s in 1:length(kantonal_short_special) ) {
 #i <- k
-
+  
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short_special[s],"\n"))
   
   results <- get_results_kantonal(json_data_kantone,
@@ -191,7 +191,7 @@ for (s in 1:length(kantonal_short_special) ) {
                               round(results_kantonal_special_stichentscheid,1)," %</b> Initiative, <b>",
                               round(100-results_kantonal_special_stichentscheid,1)," %</b> Gegenvorschlag"
                               )
-   
+      
       undertitel_fr <- paste0("Les résultats de <b>",sum(results$Gebiet_Ausgezaehlt),"</b> des <b>",nrow(results),
                               "</b> communes sont connus.<br>Etat initiative: <b>",
                               round(results_kantonal_special_initiative,1)," %</b> oui, <b>",
@@ -204,6 +204,13 @@ for (s in 1:length(kantonal_short_special) ) {
                               round(100-results_kantonal_special_stichentscheid,1)," %</b> contre-proposition"
       )
       
+      if (kantonal_short_special[s] == "VS_Verfassung") {
+      undertitel_de <- gsub("Initiative","Entwurf",undertitel_de)
+      undertitel_de <- gsub("Gegenvorschlag","Variante",undertitel_de)
+      undertitel_fr <- gsub("initiative","project",undertitel_fr)
+      undertitel_fr <- gsub("contre[-]proposition","variante",undertitel_fr)
+      }  
+        
     }  
     
     datawrapper_codes_vorlage <- datawrapper_codes_kantonal[datawrapper_codes_kantonal$Vorlage == kantonal_short_special[s],]
