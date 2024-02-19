@@ -4,19 +4,22 @@ get_output_gemeinden <- function(dta,
   if (language == "de") {
   output_dw <- dta %>%
     select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_d,Text_d) %>%
-    rename(Gemeinde_de = Gemeinde_KT_d,
+    rename(ID = Gemeinde_Nr,
+      Gemeinde_de = Gemeinde_KT_d,
            Text_de = Text_d)
   }
   if (language == "fr") {
     output_dw <- dta %>%
       select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_f,Text_f) %>%
-      rename(Gemeinde_fr = Gemeinde_KT_f,
+      rename(ID = Gemeinde_Nr,
+        Gemeinde_fr = Gemeinde_KT_f,
              Text_fr = Text_f)
   }
   if (language == "it") {
     output_dw <- dta %>%
       select(Gemeinde_Nr,Gemeinde_color,Ja_Stimmen_In_Prozent,Nein_Stimmen_In_Prozent,Gemeinde_KT_i,Text_i) %>%
-      rename(Gemeinde_it = Gemeinde_KT_i,
+      rename(ID = Gemeinde_Nr,
+        Gemeinde_it = Gemeinde_KT_i,
              Text_it = Text_i)
   }
   

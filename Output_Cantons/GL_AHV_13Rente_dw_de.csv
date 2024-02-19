@@ -1,4 +1,4 @@
-"Gemeinde_Nr","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_de","Text_de"
-1630,70.7,70.7,29.3,"Glarus Nord GL","70,7 Prozent der Abstimmenden in der Gemeinde Glarus Nord haben Ja gesagt zur Initiative für eine 13. AHV-Rente. Glarus Nord hat damit bei dieser Vorlage den höchsten Ja-Anteil im Kanton Glarus."
-1631,19.7,19.7,80.3,"Glarus Süd GL","Nein zu einer 13. AHV-Rente in Glarus Süd. Die Gemeinde hat die Initiative mit 80,3 Prozent abgelehnt. Glarus Süd hat damit bei dieser Vorlage den höchsten Nein-Anteil im Kanton Glarus."
-1632,50.4,50.4,49.6,"Glarus GL","Ja zur Initiative für eine 13. AHV-Rente in Glarus. Die Gemeinde hat das Volksbegehren mit 50,4 Prozent der Stimmen angenommen. Glarus hat damit anders abgestimmt als der Kanton Glarus, der die Vorlage abgelehnt hat."
+"ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_de","Text_de"
+1630,20.2,20.2,79.8,"Glarus Nord GL","Keine Mehrheit für die Initiative für eine 13. AHV-Rente in Glarus Nord: Mit 7'529 Nein-Stimmen zu 1'910 Ja-Stimmen oder 79,8 Prozent hat die Gemeinde das Volksbegehren verworfen. Glarus Nord hat damit anders abgestimmt als der Kanton Glarus, der die Vorlage angenommen hat."
+1631,39.4,39.4,60.6,"Glarus Süd GL","Nein zu einer 13. AHV-Rente in Glarus Süd. Die Gemeinde hat die Initiative mit 60,6 Prozent abgelehnt."
+1632,9.9,9.9,90.1,"Glarus GL","Glarus hat die Initiative für eine 13. AHV-Rente mit 90,1 Prozent abgelehnt. Glarus hat damit bei dieser Vorlage den höchsten Nein-Anteil im Kanton Glarus."
