@@ -247,3 +247,36 @@ Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, 
 
 
 2024-02-20 09:50:00 Kantonale Abstimmungen GE
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-02-20 09:52:46 AHV_13Rente
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Zug, 
+
+2024-02-20 09:53:20 AHV_Renteninitiative
+Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, 
+
+2024-02-20 09:54:51 Kantonale Abstimmungen ZH
+
+
+2024-02-20 09:54:55 Kantonale Abstimmungen BE
+
+
+2024-02-20 09:54:58 Kantonale Abstimmungen LU
+
+
+2024-02-20 09:55:00 Kantonale Abstimmungen UR
+
+
+2024-02-20 09:55:02 Kantonale Abstimmungen ZG
+
+
+2024-02-20 09:55:18 Kantonale Abstimmungen FR
+
+
+2024-02-20 09:55:21 Kantonale Abstimmungen SO
+
+
+2024-02-20 09:55:26 Kantonale Abstimmungen VS
+
+
+2024-02-20 09:55:29 Kantonale Abstimmungen GE

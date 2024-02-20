@@ -123,7 +123,7 @@ for (k in 1:length(kantonal_short) ) {
   undertitel_fr <- "Aucun résultat n'est encore connu."
   undertitel_it <- "Nessun risultato è ancora noto."
   
-  hold <- TRUE
+  hold <- FALSE
   if (hold == FALSE) {
     
     if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {

@@ -1,7 +1,7 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende"
-3,"Luzern","Lucerne","Lucerna",12.8,87.2,12.8,80,80,
-4,"Uri","Uri","Uri",79.9,20.1,79.9,19,19,
-5,"Schwyz","Schwyz","Svitto",81.3,18.7,81.3,30,30,
-6,"Obwalden","Obwald","Obvaldo",27.2,72.8,27.2,7,7,
-7,"Nidwalden","Nidwald","Nidvaldo",29.7,70.3,29.7,11,11,
-9,"Zug","Zoug","Zugo",32.8,67.2,32.8,11,11,
+3,"Luzern","Lucerne","Lucerna",89.8,10.2,89.8,80,80,
+4,"Uri","Uri","Uri",59.3,40.7,59.3,19,19,
+5,"Schwyz","Schwyz","Svitto",81.8,18.2,81.8,30,30,
+6,"Obwalden","Obwald","Obvaldo",47.7,52.3,47.7,7,7,
+7,"Nidwalden","Nidwald","Nidvaldo",39.7,60.3,39.7,11,11,
+9,"Zug","Zoug","Zugo",58.6,41.4,58.6,11,11,
