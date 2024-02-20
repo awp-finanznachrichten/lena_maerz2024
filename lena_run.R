@@ -13,7 +13,7 @@ source("./Funktionen/functions_output.R", encoding = "UTF-8")
 source("CONFIG.R",encoding = "UTF-8")
 
 #Simulate Data (if needed)
-simulation <- TRUE
+simulation <- FALSE
 if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  

@@ -1,123 +1,123 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
-6002,85.2,85.2,14.8,"Briga-Glis VS",
-6004,35.5,35.5,64.5,"Eggerberg VS",
-6007,36.2,36.2,63.8,"Naters VS",
-6008,69.7,69.7,30.3,"Ried-Brig VS",
-6009,14.1,14.1,85.9,"Sempione VS",
-6010,72.6,72.6,27.4,"Termen VS",
-6011,36.7,36.7,63.3,"Zwischbergen VS",
-6021,16,16,84,"Ardon VS",
-6022,29,29,71,"Chamoson VS",
-6023,27.6,27.6,72.4,"Conthey VS",
-6024,92.1,92.1,7.9,"Nendaz VS",
-6025,43.7,43.7,56.3,"Vétroz VS",
-6032,68.3,68.3,31.7,"Bourg-Saint-Pierre VS",
-6033,44.5,44.5,55.5,"Liddes VS",
-6034,96.6,96.6,3.4,"Orsières VS",
-6035,93.7,93.7,6.3,"Sembrancher VS",
-6037,58.9,58.9,41.1,"Val de Bagnes VS",
-6052,58.3,58.3,41.7,"Bellwald VS",
-6054,5.8,5.8,94.2,"Binn VS",
-6056,34.5,34.5,65.5,"Ernen VS",
-6057,58,58,42,"Fiesch VS",
-6058,42.7,42.7,57.3,"Fieschertal VS",
-6061,54.5,54.5,45.5,"Lax VS",
-6076,78.5,78.5,21.5,"Obergoms VS",
-6077,76,76,24,"Goms VS",
-6082,56.3,56.3,43.7,"Ayent VS",
-6083,19.2,19.2,80.8,"Evolène VS",
-6084,23.5,23.5,76.5,"Hérémence VS",
-6087,21.2,21.2,78.8,"Saint-Martin VS",
-6089,42.4,42.4,57.6,"Vex VS",
-6090,75,75,25,"Mont-Noble VS",
-6101,22.1,22.1,77.9,"Agarn VS",
-6102,51,51,49,"Albinen VS",
-6104,39.8,39.8,60.2,"Ergisch VS",
-6109,64.5,64.5,35.5,"Inden VS",
-6110,33,33,67,"Leuk VS",
-6111,77.3,77.3,22.7,"Leukerbad VS",
-6112,68.2,68.2,31.8,"Oberems VS",
-6113,83.4,83.4,16.6,"Salgesch VS",
-6116,19.2,19.2,80.8,"Varen VS",
-6117,31.6,31.6,68.4,"Guttet-Feschel VS",
-6118,36.1,36.1,63.9,"Gampel-Bratsch VS",
-6119,45.6,45.6,54.4,"Turtmann-Unterems VS",
-6131,47.9,47.9,52.1,"Bovernier VS",
-6133,54.4,54.4,45.6,"Fully VS",
-6134,24.6,24.6,75.4,"Isérables VS",
-6135,12,12,88,"Leytron VS",
-6136,50.4,50.4,49.6,"Martigny VS",
-6137,10.9,10.9,89.1,"Martigny-Combe VS",
-6139,63.8,63.8,36.2,"Riddes VS",
-6140,51.4,51.4,48.6,"Saillon VS",
-6141,45.6,45.6,54.4,"Saxon VS",
-6142,53.5,53.5,46.5,"Trient VS","le droit pour les étrangers détenant un permis C de voter et d'être élu au niveau communal"
-6151,36.5,36.5,63.5,"Champéry VS",
-6152,14.6,14.6,85.4,"Collombey-Muraz VS",
-6153,58,58,42,"Monthey VS",
-6154,69,69,31,"Port-Valais VS",
-6155,92.5,92.5,7.5,"Saint-Gingolph VS",
-6156,58.4,58.4,41.6,"Troistorrents VS",
-6157,67.1,67.1,32.9,"Val-d'Illiez VS",
-6158,62.5,62.5,37.5,"Vionnaz VS",
-6159,1.7,1.7,98.3,"Vouvry VS",
-6172,49.9,49.9,50.1,"Bister VS",
-6173,60.3,60.3,39.7,"Bitsch VS",
-6177,49,49,51,"Grengiols VS",
-6181,52.2,52.2,47.8,"Riederalp VS",
-6191,95.7,95.7,4.3,"Ausserberg VS",
-6192,32,32,68,"Blatten VS",
-6193,99.6,99.6,0.4,"Bürchen VS",
-6194,92.7,92.7,7.3,"Eischoll VS",
-6195,82.2,82.2,17.8,"Ferden VS",
-6197,53.3,53.3,46.7,"Kippel VS",
-6198,19.1,19.1,80.9,"Niedergesteln VS",
-6199,38.2,38.2,61.8,"Raron VS",
-6201,67.5,67.5,32.5,"Unterbäch VS",
-6202,15.7,15.7,84.3,"Wiler (Lötschen) VS",
-6203,26.7,26.7,73.3,"Mörel-Filet VS",
-6204,65.3,65.3,34.7,"Steg-Hohtenn VS",
-6205,43.4,43.4,56.6,"Bettmeralp VS",
-6211,68.1,68.1,31.9,"Collonges VS",
-6212,77.8,77.8,22.2,"Dorénaz VS",
-6213,15.1,15.1,84.9,"Evionnaz VS",
-6214,58.8,58.8,41.2,"Finhaut VS",
-6215,30.8,30.8,69.2,"Massongex VS",
-6217,44.4,44.4,55.6,"Saint-Maurice VS",
-6218,0.5,0.5,99.5,"Salvan VS",
-6219,15.9,15.9,84.1,"Vernayaz VS",
-6220,40.7,40.7,59.3,"Vérossaz VS",
-6232,40.9,40.9,59.1,"Chalais VS",
-6235,11.1,11.1,88.9,"Chippis VS",
-6238,72.3,72.3,27.7,"Grône VS",
-6239,72.9,72.9,27.1,"Icogne VS",
-6240,27.2,27.2,72.8,"Lens VS",
-6246,91.4,91.4,8.6,"Saint-Léonard VS",
-6248,57.5,57.5,42.5,"Siders VS",
-6252,43.3,43.3,56.7,"Anniviers VS",
-6253,51.7,51.7,48.3,"Crans-Montana VS","le droit pour les étrangers détenant un permis C de voter et d'être élu au niveau communal"
-6254,28.3,28.3,71.7,"Noble-Contrée VS",
-6261,78.1,78.1,21.9,"Arbaz VS","le droit pour les étrangers détenant un permis C de voter et d'être élu au niveau communal"
-6263,78.8,78.8,21.2,"Grimisuat VS",
-6265,49.9,49.9,50.1,"Savièse VS",
-6266,46.1,46.1,53.9,"Sitten VS",
-6267,75.2,75.2,24.8,"Veysonnaz VS",
-6281,57.7,57.7,42.3,"Baltschieder VS",
-6282,27.8,27.8,72.2,"Eisten VS",
-6283,91.6,91.6,8.4,"Embd VS","le droit pour les étrangers détenant un permis C de voter et d'être élu au niveau communal"
-6285,1.5,1.5,98.5,"Grächen VS",
-6286,18.3,18.3,81.7,"Lalden VS",
-6287,54,54,46,"Randa VS",
-6288,19.1,19.1,80.9,"Saas-Almagell VS",
-6289,34.5,34.5,65.5,"Saas-Balen VS",
-6290,67.7,67.7,32.3,"Saas-Fee VS",
-6291,57.6,57.6,42.4,"Saas-Grund VS",
-6292,46.3,46.3,53.7,"St. Niklaus VS",
-6293,11.3,11.3,88.7,"Stalden VS",
-6294,43.5,43.5,56.5,"Staldenried VS",
-6295,75,75,25,"Täsch VS",
-6296,85.4,85.4,14.6,"Törbel VS","le droit pour les étrangers détenant un permis C de voter et d'être élu au niveau communal"
-6297,57.6,57.6,42.4,"Visp VS",
-6298,39.2,39.2,60.8,"Visperterminen VS",
-6299,15,15,85,"Zeneggen VS",
-6300,45.6,45.6,54.4,"Zermatt VS",
+6002,50,0,0,"Briga-Glis VS","I resultati di questa comune non sono ancora noti."
+6004,50,0,0,"Eggerberg VS","I resultati di questa comune non sono ancora noti."
+6007,50,0,0,"Naters VS","I resultati di questa comune non sono ancora noti."
+6008,50,0,0,"Ried-Brig VS","I resultati di questa comune non sono ancora noti."
+6009,50,0,0,"Sempione VS","I resultati di questa comune non sono ancora noti."
+6010,50,0,0,"Termen VS","I resultati di questa comune non sono ancora noti."
+6011,50,0,0,"Zwischbergen VS","I resultati di questa comune non sono ancora noti."
+6021,50,0,0,"Ardon VS","I resultati di questa comune non sono ancora noti."
+6022,50,0,0,"Chamoson VS","I resultati di questa comune non sono ancora noti."
+6023,50,0,0,"Conthey VS","I resultati di questa comune non sono ancora noti."
+6024,50,0,0,"Nendaz VS","I resultati di questa comune non sono ancora noti."
+6025,50,0,0,"Vétroz VS","I resultati di questa comune non sono ancora noti."
+6032,50,0,0,"Bourg-Saint-Pierre VS","I resultati di questa comune non sono ancora noti."
+6033,50,0,0,"Liddes VS","I resultati di questa comune non sono ancora noti."
+6034,50,0,0,"Orsières VS","I resultati di questa comune non sono ancora noti."
+6035,50,0,0,"Sembrancher VS","I resultati di questa comune non sono ancora noti."
+6037,50,0,0,"Val de Bagnes VS","I resultati di questa comune non sono ancora noti."
+6052,50,0,0,"Bellwald VS","I resultati di questa comune non sono ancora noti."
+6054,50,0,0,"Binn VS","I resultati di questa comune non sono ancora noti."
+6056,50,0,0,"Ernen VS","I resultati di questa comune non sono ancora noti."
+6057,50,0,0,"Fiesch VS","I resultati di questa comune non sono ancora noti."
+6058,50,0,0,"Fieschertal VS","I resultati di questa comune non sono ancora noti."
+6061,50,0,0,"Lax VS","I resultati di questa comune non sono ancora noti."
+6076,50,0,0,"Obergoms VS","I resultati di questa comune non sono ancora noti."
+6077,50,0,0,"Goms VS","I resultati di questa comune non sono ancora noti."
+6082,50,0,0,"Ayent VS","I resultati di questa comune non sono ancora noti."
+6083,50,0,0,"Evolène VS","I resultati di questa comune non sono ancora noti."
+6084,50,0,0,"Hérémence VS","I resultati di questa comune non sono ancora noti."
+6087,50,0,0,"Saint-Martin VS","I resultati di questa comune non sono ancora noti."
+6089,50,0,0,"Vex VS","I resultati di questa comune non sono ancora noti."
+6090,50,0,0,"Mont-Noble VS","I resultati di questa comune non sono ancora noti."
+6101,50,0,0,"Agarn VS","I resultati di questa comune non sono ancora noti."
+6102,50,0,0,"Albinen VS","I resultati di questa comune non sono ancora noti."
+6104,50,0,0,"Ergisch VS","I resultati di questa comune non sono ancora noti."
+6109,50,0,0,"Inden VS","I resultati di questa comune non sono ancora noti."
+6110,50,0,0,"Leuk VS","I resultati di questa comune non sono ancora noti."
+6111,50,0,0,"Leukerbad VS","I resultati di questa comune non sono ancora noti."
+6112,50,0,0,"Oberems VS","I resultati di questa comune non sono ancora noti."
+6113,50,0,0,"Salgesch VS","I resultati di questa comune non sono ancora noti."
+6116,50,0,0,"Varen VS","I resultati di questa comune non sono ancora noti."
+6117,50,0,0,"Guttet-Feschel VS","I resultati di questa comune non sono ancora noti."
+6118,50,0,0,"Gampel-Bratsch VS","I resultati di questa comune non sono ancora noti."
+6119,50,0,0,"Turtmann-Unterems VS","I resultati di questa comune non sono ancora noti."
+6131,50,0,0,"Bovernier VS","I resultati di questa comune non sono ancora noti."
+6133,50,0,0,"Fully VS","I resultati di questa comune non sono ancora noti."
+6134,50,0,0,"Isérables VS","I resultati di questa comune non sono ancora noti."
+6135,50,0,0,"Leytron VS","I resultati di questa comune non sono ancora noti."
+6136,50,0,0,"Martigny VS","I resultati di questa comune non sono ancora noti."
+6137,50,0,0,"Martigny-Combe VS","I resultati di questa comune non sono ancora noti."
+6139,50,0,0,"Riddes VS","I resultati di questa comune non sono ancora noti."
+6140,50,0,0,"Saillon VS","I resultati di questa comune non sono ancora noti."
+6141,50,0,0,"Saxon VS","I resultati di questa comune non sono ancora noti."
+6142,50,0,0,"Trient VS","I resultati di questa comune non sono ancora noti."
+6151,50,0,0,"Champéry VS","I resultati di questa comune non sono ancora noti."
+6152,50,0,0,"Collombey-Muraz VS","I resultati di questa comune non sono ancora noti."
+6153,50,0,0,"Monthey VS","I resultati di questa comune non sono ancora noti."
+6154,50,0,0,"Port-Valais VS","I resultati di questa comune non sono ancora noti."
+6155,50,0,0,"Saint-Gingolph VS","I resultati di questa comune non sono ancora noti."
+6156,50,0,0,"Troistorrents VS","I resultati di questa comune non sono ancora noti."
+6157,50,0,0,"Val-d'Illiez VS","I resultati di questa comune non sono ancora noti."
+6158,50,0,0,"Vionnaz VS","I resultati di questa comune non sono ancora noti."
+6159,50,0,0,"Vouvry VS","I resultati di questa comune non sono ancora noti."
+6172,50,0,0,"Bister VS","I resultati di questa comune non sono ancora noti."
+6173,50,0,0,"Bitsch VS","I resultati di questa comune non sono ancora noti."
+6177,50,0,0,"Grengiols VS","I resultati di questa comune non sono ancora noti."
+6181,50,0,0,"Riederalp VS","I resultati di questa comune non sono ancora noti."
+6191,50,0,0,"Ausserberg VS","I resultati di questa comune non sono ancora noti."
+6192,50,0,0,"Blatten VS","I resultati di questa comune non sono ancora noti."
+6193,50,0,0,"Bürchen VS","I resultati di questa comune non sono ancora noti."
+6194,50,0,0,"Eischoll VS","I resultati di questa comune non sono ancora noti."
+6195,50,0,0,"Ferden VS","I resultati di questa comune non sono ancora noti."
+6197,50,0,0,"Kippel VS","I resultati di questa comune non sono ancora noti."
+6198,50,0,0,"Niedergesteln VS","I resultati di questa comune non sono ancora noti."
+6199,50,0,0,"Raron VS","I resultati di questa comune non sono ancora noti."
+6201,50,0,0,"Unterbäch VS","I resultati di questa comune non sono ancora noti."
+6202,50,0,0,"Wiler (Lötschen) VS","I resultati di questa comune non sono ancora noti."
+6203,50,0,0,"Mörel-Filet VS","I resultati di questa comune non sono ancora noti."
+6204,50,0,0,"Steg-Hohtenn VS","I resultati di questa comune non sono ancora noti."
+6205,50,0,0,"Bettmeralp VS","I resultati di questa comune non sono ancora noti."
+6211,50,0,0,"Collonges VS","I resultati di questa comune non sono ancora noti."
+6212,50,0,0,"Dorénaz VS","I resultati di questa comune non sono ancora noti."
+6213,50,0,0,"Evionnaz VS","I resultati di questa comune non sono ancora noti."
+6214,50,0,0,"Finhaut VS","I resultati di questa comune non sono ancora noti."
+6215,50,0,0,"Massongex VS","I resultati di questa comune non sono ancora noti."
+6217,50,0,0,"Saint-Maurice VS","I resultati di questa comune non sono ancora noti."
+6218,50,0,0,"Salvan VS","I resultati di questa comune non sono ancora noti."
+6219,50,0,0,"Vernayaz VS","I resultati di questa comune non sono ancora noti."
+6220,50,0,0,"Vérossaz VS","I resultati di questa comune non sono ancora noti."
+6232,50,0,0,"Chalais VS","I resultati di questa comune non sono ancora noti."
+6235,50,0,0,"Chippis VS","I resultati di questa comune non sono ancora noti."
+6238,50,0,0,"Grône VS","I resultati di questa comune non sono ancora noti."
+6239,50,0,0,"Icogne VS","I resultati di questa comune non sono ancora noti."
+6240,50,0,0,"Lens VS","I resultati di questa comune non sono ancora noti."
+6246,50,0,0,"Saint-Léonard VS","I resultati di questa comune non sono ancora noti."
+6248,50,0,0,"Siders VS","I resultati di questa comune non sono ancora noti."
+6252,50,0,0,"Anniviers VS","I resultati di questa comune non sono ancora noti."
+6253,50,0,0,"Crans-Montana VS","I resultati di questa comune non sono ancora noti."
+6254,50,0,0,"Noble-Contrée VS","I resultati di questa comune non sono ancora noti."
+6261,50,0,0,"Arbaz VS","I resultati di questa comune non sono ancora noti."
+6263,50,0,0,"Grimisuat VS","I resultati di questa comune non sono ancora noti."
+6265,50,0,0,"Savièse VS","I resultati di questa comune non sono ancora noti."
+6266,50,0,0,"Sitten VS","I resultati di questa comune non sono ancora noti."
+6267,50,0,0,"Veysonnaz VS","I resultati di questa comune non sono ancora noti."
+6281,50,0,0,"Baltschieder VS","I resultati di questa comune non sono ancora noti."
+6282,50,0,0,"Eisten VS","I resultati di questa comune non sono ancora noti."
+6283,50,0,0,"Embd VS","I resultati di questa comune non sono ancora noti."
+6285,50,0,0,"Grächen VS","I resultati di questa comune non sono ancora noti."
+6286,50,0,0,"Lalden VS","I resultati di questa comune non sono ancora noti."
+6287,50,0,0,"Randa VS","I resultati di questa comune non sono ancora noti."
+6288,50,0,0,"Saas-Almagell VS","I resultati di questa comune non sono ancora noti."
+6289,50,0,0,"Saas-Balen VS","I resultati di questa comune non sono ancora noti."
+6290,50,0,0,"Saas-Fee VS","I resultati di questa comune non sono ancora noti."
+6291,50,0,0,"Saas-Grund VS","I resultati di questa comune non sono ancora noti."
+6292,50,0,0,"St. Niklaus VS","I resultati di questa comune non sono ancora noti."
+6293,50,0,0,"Stalden VS","I resultati di questa comune non sono ancora noti."
+6294,50,0,0,"Staldenried VS","I resultati di questa comune non sono ancora noti."
+6295,50,0,0,"Täsch VS","I resultati di questa comune non sono ancora noti."
+6296,50,0,0,"Törbel VS","I resultati di questa comune non sono ancora noti."
+6297,50,0,0,"Visp VS","I resultati di questa comune non sono ancora noti."
+6298,50,0,0,"Visperterminen VS","I resultati di questa comune non sono ancora noti."
+6299,50,0,0,"Zeneggen VS","I resultati di questa comune non sono ancora noti."
+6300,50,0,0,"Zermatt VS","I resultati di questa comune non sono ancora noti."

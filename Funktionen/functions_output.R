@@ -82,9 +82,9 @@ for (y in 1:nrow(output_dw_kantone)) {
   } else if (output_dw_kantone$Gemeinden_counted[y] < output_dw_kantone$Gemeinden_overall[y]) {
     
     output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
-    output_dw_kantone$Text_de <- paste0("Es sind <b>",output_dw_kantone$Gemeinden_counted[y],"</b> von <b>",output_dw_kantone$Gemeinden_overall[y],"</b> Gemeinden ausgezählt.")
-    output_dw_kantone$Text_fr <- paste0("Le résultats de <b>",output_dw_kantone$Gemeinden_counted[y],"</b> des <b>",output_dw_kantone$Gemeinden_overall[y],"</b> communes sont connus.")
-    output_dw_kantone$Text_it <- paste0("I risultati di <b>",output_dw_kantone$Gemeinden_counted[y],"</b> dei <b>",output_dw_kantone$Gemeinden_overall[y],"</b>  comuni sono noti.")
+    output_dw_kantone$Text_de <- paste0("Es sind ",output_dw_kantone$Gemeinden_counted[y]," von ",output_dw_kantone$Gemeinden_overall[y],"</b> Gemeinden ausgezählt.")
+    output_dw_kantone$Text_fr <- paste0("Le résultats de ",output_dw_kantone$Gemeinden_counted[y]," des ",output_dw_kantone$Gemeinden_overall[y]," communes sont connus.")
+    output_dw_kantone$Text_it <- paste0("I risultati di ",output_dw_kantone$Gemeinden_counted[y]," dei ",output_dw_kantone$Gemeinden_overall[y]," comuni sono noti.")
     
     if (output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y] > 50) {
       output_dw_kantone$Kanton_color[y] <- 100
