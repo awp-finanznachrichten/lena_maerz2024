@@ -8,6 +8,7 @@ source("./Funktionen/functions_readin.R", encoding = "UTF-8")
 source("./Funktionen/functions_storyfinder.R", encoding = "UTF-8")
 source("./Funktionen/functions_storybuilder.R", encoding = "UTF-8")
 source("./Funktionen/functions_output.R", encoding = "UTF-8")
+source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("CONFIG.R",encoding = "UTF-8")

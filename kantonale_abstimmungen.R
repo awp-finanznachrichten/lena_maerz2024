@@ -1,5 +1,11 @@
+completed_votes <- read_rds("completed_votes.RDS")
+#completed_votes <- c("") 
+#write_rds(completed_votes,"completed_votes.RDS")
+
 for (k in 1:length(kantonal_short) ) {
-#i <- k
+  
+  if (sum(grepl(kantonal_short[k],completed_votes) == 0)) {
+
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short[k],"\n"))
   
   results <- get_results_kantonal(json_data_kantone,
@@ -140,7 +146,6 @@ for (k in 1:length(kantonal_short) ) {
                               round(100-Ja_Stimmen_Kanton,1)," %</b> no")
       
     if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
-      
       undertitel_de <- paste0("Es sind <b>",sum(results$Gebiet_Ausgezaehlt),"</b> von <b>",nrow(results),
                               "</b> Gemeinden ausgezählt.<br>Stand: <b>",
                               round(Ja_Stimmen_Kanton,1)," %</b> Ja, <b>",
@@ -156,7 +161,8 @@ for (k in 1:length(kantonal_short) ) {
                               round(Ja_Stimmen_Kanton,1)," %</b> sì, <b>",
                               round(100-Ja_Stimmen_Kanton,1)," %</b> no")
       
-    }  
+    } 
+      
     }
     
     datawrapper_codes_vorlage <- datawrapper_codes_kantonal[datawrapper_codes_kantonal$Vorlage == kantonal_short[k],]
@@ -175,5 +181,12 @@ for (k in 1:length(kantonal_short) ) {
       }
     }
     
+    if (sum(results$Gebiet_Ausgezaehlt) == nrow(results)) {
+      completed_votes <- c(completed_votes,kantonal_short[k]) 
+      write_rds(completed_votes,"completed_votes.RDS")
+      print(paste0("Alle Daten der Abstimmung ",kantonal_short[k]," vorhanden"))
+    }
+    
+  }  
   }  
 }

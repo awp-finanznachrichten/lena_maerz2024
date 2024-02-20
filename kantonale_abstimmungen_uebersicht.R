@@ -1,6 +1,11 @@
 kantone_list <- json_data_kantone[["kantone"]]
+completed_cantons <- read_rds("completed_cantons.RDS")
+#completed_cantons <- c("") 
+#write_rds(completed_cantons,"completed_cantons.RDS")
 
 for (k in 1:nrow(kantone_list)) {
+
+if (sum(grepl(kantone_list$geoLevelname[k],completed_cantons) == 0)) {
   
 data_overview <- data.frame(50,50,"Abstimmung_de","Abstimmung_fr","Abstimmung_it")
 colnames(data_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")  
@@ -116,11 +121,24 @@ dw_publish_chart(datawrapper_ids$ID[d])
 
 if (sum(check_counted) == nrow(vorlagen)) {
 cat(paste0("Alle Abstimmungen aus dem Kanton ",kantone_list$geoLevelname[k]," sind ausgezählt!\n\n")) 
-  
+
+completed_cantons <- c(completed_cantons,kantone_list$geoLevelname[k]) 
+write_rds(completed_cantons,"completed_cantons.RDS")
+
+
+#Send Mail
+Subject <- paste0("Kanton ",kantone_list$geoLevelname[k],": Kantonale Abstimmungen komplett")
+Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
+               "Die Ergebnisse der kantonalen Abstimmungen im Kanton ",kantone_list$geoLevelname[k]," sind bekannt. ",
+               "Ihr findet die Übersichts-Grafiken unter folgenden Links:\n",
+               paste(paste0("https://datawrapper.dwcdn.net/",datawrapper_ids$ID),collapse = "\n"),
+               "\n\nBitte falls gewünscht die Übersichtsgrafik sowie die Karten (falls vorhanden) ins Visual hochladen.\n\n",
+               "Liebe Grüsse\n\nLENA")
+send_notification(Subject,Body,DEFAULT_MAILS)
+
 #Log Kantonale Abstimmungen
 cat(paste0("\n\n",Sys.time()," Kantonale Abstimmungen ",kantone_list$geoLevelname[k],"\n"),file="Logfiles/log_file.txt",append = TRUE)
+}
+}  
+}  
 
-}  
-  
-  
-}  

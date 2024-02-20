@@ -1,6 +1,8 @@
+completed_votes <- read_rds("completed_votes.RDS")
+
 for (s in 1:length(kantonal_short_special) ) {
 #i <- k
-  
+  if (sum(grepl(kantonal_short_special[s],completed_votes) == 0)) {
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short_special[s],"\n"))
   
   results <- get_results_kantonal(json_data_kantone,
@@ -226,12 +228,17 @@ for (s in 1:length(kantonal_short_special) ) {
                               round(100-results_kantonal_special_stichentscheid,1)," %</b> contre-proposition"
       )
     }
-      if (kantonal_short_special[s] == "VS_Verfassung") {
+    if (kantonal_short_special[s] == "VS_Verfassung") {
       undertitel_de <- gsub("Initiative","Entwurf",undertitel_de)
       undertitel_de <- gsub("Gegenvorschlag","Variante",undertitel_de)
       undertitel_fr <- gsub("initiative","project",undertitel_fr)
       undertitel_fr <- gsub("contre[-]proposition","variante",undertitel_fr)
-      }  
+    }
+      if (sum(results$Gebiet_Ausgezaehlt) == nrow(results)) {
+        completed_votes <- c(completed_votes,kantonal_short_special[s]) 
+        write_rds(completed_votes,"completed_votes.RDS")
+        print(paste0("Alle Daten der Abstimmung ",kantonal_short_special[s]," vorhanden"))
+      }
     }    
 
     
@@ -249,5 +256,6 @@ for (s in 1:length(kantonal_short_special) ) {
     }
     
   }  
+  }
 }
 
