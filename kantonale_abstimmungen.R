@@ -125,7 +125,20 @@ for (k in 1:length(kantonal_short) ) {
   
   hold <- FALSE
   if (hold == FALSE) {
-    
+ 
+    if (is.na(Ja_Stimmen_Kanton) == FALSE) {
+      undertitel_de <- paste0("Die brieflichen Stimmen sind ausgezählt.<br>Stand: <b>",
+                              round(Ja_Stimmen_Kanton,1)," %</b> Ja, <b>",
+                              round(100-Ja_Stimmen_Kanton,1)," %</b> Nein")
+      
+      undertitel_fr <- paste0("Les votes par correspondance ont été dépouillés.<br>Etat: <b>",
+                              round(Ja_Stimmen_Kanton,1)," %</b> oui, <b>",
+                              round(100-Ja_Stimmen_Kanton,1)," %</b> non")
+      
+      undertitel_it <- paste0("I voti per corrispondenza sono stati scrutinati.<br>Stato: <b>",
+                              round(Ja_Stimmen_Kanton,1)," %</b> sì, <b>",
+                              round(100-Ja_Stimmen_Kanton,1)," %</b> no")
+      
     if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
       
       undertitel_de <- paste0("Es sind <b>",sum(results$Gebiet_Ausgezaehlt),"</b> von <b>",nrow(results),
@@ -144,6 +157,7 @@ for (k in 1:length(kantonal_short) ) {
                               round(100-Ja_Stimmen_Kanton,1)," %</b> no")
       
     }  
+    }
     
     datawrapper_codes_vorlage <- datawrapper_codes_kantonal[datawrapper_codes_kantonal$Vorlage == kantonal_short[k],]
     

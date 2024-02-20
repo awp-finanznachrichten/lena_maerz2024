@@ -1,7 +1,7 @@
-"Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende"
-3,"Luzern","Lucerne","Lucerna",30.3,69.7,30.3,80,80,
-4,"Uri","Uri","Uri",97.7,2.3,97.7,19,19,
-5,"Schwyz","Schwyz","Svitto",88.1,11.9,88.1,30,30,
-6,"Obwalden","Obwald","Obvaldo",6.5,93.5,6.5,7,7,
-7,"Nidwalden","Nidwald","Nidvaldo",82.8,17.2,82.8,11,11,
-9,"Zug","Zoug","Zugo",1.8,98.2,1.8,11,11,
+"Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende","Text_de","Text_fr","Text_it"
+3,"Luzern","Lucerne","Lucerna",10.6,89.4,10.6,80,80,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+4,"Uri","Uri","Uri",47.6,52.4,47.6,19,19,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+5,"Schwyz","Schwyz","Svitto",7.4,92.6,7.4,30,30,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+6,"Obwalden","Obwald","Obvaldo",31.5,68.5,31.5,7,7,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+7,"Nidwalden","Nidwald","Nidvaldo",16.7,83.3,16.7,11,11,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+9,"Zug","Zoug","Zugo",43.4,56.6,43.4,11,11,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."

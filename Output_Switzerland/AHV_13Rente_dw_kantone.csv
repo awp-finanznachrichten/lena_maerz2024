@@ -1,27 +1,27 @@
-"Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende"
-1,"Zürich","Zurich","Zurigo",96.6,3.4,96.6,160,160,
-2,"Bern","Berne","Berna",17.7,82.3,17.7,330,330,
-3,"Luzern","Lucerne","Lucerna",89.8,10.2,89.8,80,80,
-4,"Uri","Uri","Uri",59.3,40.7,59.3,19,19,
-5,"Schwyz","Schwyz","Svitto",81.8,18.2,81.8,30,30,
-6,"Obwalden","Obwald","Obvaldo",47.7,52.3,47.7,7,7,
-7,"Nidwalden","Nidwald","Nidvaldo",39.7,60.3,39.7,11,11,
-8,"Glarus","Glaris","Glarona",68.6,31.4,68.6,3,3,
-9,"Zug","Zoug","Zugo",58.6,41.4,58.6,11,11,
-10,"Freiburg","Fribourg","Friburgo",36.4,63.6,36.4,126,126,
-11,"Solothurn","Soleure","Soletta",88.4,11.6,88.4,106,106,
-12,"Basel-Stadt","Bâle-Ville","Basilea Città",14.5,85.5,14.5,3,3,
-13,"Basel-Landschaft","Bâle-Campagne","Basilea Campagna",9.2,90.8,9.2,86,86,
-14,"Schaffhausen","Schaffhouse","Sciaffusa",15.3,84.7,15.3,26,26,
-15,"Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",7.1,92.9,7.1,20,20,
-16,"Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",56.5,43.5,56.5,5,5,
-17,"St. Gallen","Saint-Gall","San Gallo",55.3,44.7,55.3,75,75,
-18,"Graubünden","Grisons","Grigioni",59.7,40.3,59.7,101,101,
-19,"Aargau","Argovie","Argovia",18,82,18,197,197,
-20,"Thurgau","Thurgovie","Turgovia",50.8,49.2,50.8,80,80,
-21,"Tessin","Tessin","Ticino",89.9,10.1,89.9,106,106,
-22,"Waadt","Vaud","Vaud",11.4,88.6,11.4,300,300,
-23,"Wallis","Valais","Vallese",55.9,44.1,55.9,122,122,
-24,"Neuenburg","Neuchâtel","Neuchâtel",19,81,19,27,27,
-25,"Genf","Genève","Ginevra",53.5,46.5,53.5,45,45,
-26,"Jura","Jura","Giura",68.4,31.6,68.4,50,50,
+"Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende","Text_de","Text_fr","Text_it"
+1,"Zürich","Zurich","Zurigo",21.3,78.7,21.3,160,160,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+2,"Bern","Berne","Berna",78,22,78,330,330,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+3,"Luzern","Lucerne","Lucerna",41.2,58.8,41.2,80,80,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+4,"Uri","Uri","Uri",53.9,46.1,53.9,19,19,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+5,"Schwyz","Schwyz","Svitto",66.5,33.5,66.5,30,30,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+6,"Obwalden","Obwald","Obvaldo",58.4,41.6,58.4,7,7,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+7,"Nidwalden","Nidwald","Nidvaldo",37.2,62.8,37.2,11,11,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+8,"Glarus","Glaris","Glarona",93.6,6.4,93.6,3,3,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+9,"Zug","Zoug","Zugo",78.1,21.9,78.1,11,11,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+10,"Freiburg","Fribourg","Friburgo",34.8,65.2,34.8,126,126,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+11,"Solothurn","Soleure","Soletta",12.6,87.4,12.6,106,106,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+12,"Basel-Stadt","Bâle-Ville","Basilea Città",89.4,10.6,89.4,3,3,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+13,"Basel-Landschaft","Bâle-Campagne","Basilea Campagna",30.8,69.2,30.8,86,86,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+14,"Schaffhausen","Schaffhouse","Sciaffusa",93.2,6.8,93.2,26,26,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+15,"Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",49.9,50.1,49.9,20,20,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+16,"Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",0.4,99.6,0.4,5,5,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+17,"St. Gallen","Saint-Gall","San Gallo",51.2,48.8,51.2,75,75,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+18,"Graubünden","Grisons","Grigioni",75.6,24.4,75.6,101,101,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+19,"Aargau","Argovie","Argovia",99.4,0.6,99.4,197,197,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+20,"Thurgau","Thurgovie","Turgovia",45.5,54.5,45.5,80,80,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+21,"Tessin","Tessin","Ticino",24.4,75.6,24.4,106,106,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+22,"Waadt","Vaud","Vaud",83.3,16.7,83.3,300,300,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+23,"Wallis","Valais","Vallese",78.6,21.4,78.6,122,122,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+24,"Neuenburg","Neuchâtel","Neuchâtel",48,52,48,27,27,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+25,"Genf","Genève","Ginevra",33.5,66.5,33.5,45,45,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
+26,"Jura","Jura","Giura",47.7,52.3,47.7,50,50,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."

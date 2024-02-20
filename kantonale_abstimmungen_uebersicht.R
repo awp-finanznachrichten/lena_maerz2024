@@ -39,6 +39,15 @@ uebersicht_text_it <- paste0("<b>",titel_all$Vorlage_i[1],"</b><br>",
 Ja_Anteil <- 50
 Nein_Anteil <- 50
 
+if (is.na(Ja_Stimmen_Kanton) == FALSE) {
+  uebersicht_text_de <- paste0("<b>",titel_all$Vorlage_d[1],"</b><br>",
+                               "Die brieflichen Stimmen sind ausgezählt.")
+  
+  uebersicht_text_fr <- paste0("<b>",titel_all$Vorlage_f[1],"</b><br>",
+                               "Les votes par correspondance ont été dépouillés.")
+  
+  uebersicht_text_it <- paste0("<b>",titel_all$Vorlage_i[1],"</b><br>",
+                               "I voti per corrispondenza sono stati scrutinati.")
 if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {  
   
   uebersicht_text_de <- paste0("<b>",titel_all$Vorlage_d[1],"</b><br>",
@@ -76,6 +85,7 @@ if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
   Ja_Anteil <- round(Ja_Stimmen_Kanton,1)
   Nein_Anteil <- round(100-Ja_Stimmen_Kanton,1)
 }
+}  
 
 entry_overview <- data.frame(Ja_Anteil,Nein_Anteil,uebersicht_text_de,uebersicht_text_fr,uebersicht_text_it)
 colnames(entry_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")
