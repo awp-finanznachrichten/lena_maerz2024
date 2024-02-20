@@ -81,10 +81,9 @@ if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
                  titel_all$Vorlage_i[1],"\n\n"))
     check_counted[i] <- TRUE
   }  
-  
+}
   Ja_Anteil <- round(Ja_Stimmen_Kanton,1)
   Nein_Anteil <- round(100-Ja_Stimmen_Kanton,1)
-}
 }  
 
 entry_overview <- data.frame(Ja_Anteil,Nein_Anteil,uebersicht_text_de,uebersicht_text_fr,uebersicht_text_it)

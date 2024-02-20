@@ -177,9 +177,31 @@ for (s in 1:length(kantonal_short_special) ) {
   
   hold <- FALSE
   if (hold == FALSE) {
+    if (is.na(results_kantonal_special_initiative) == FALSE) {
+      
+      undertitel_de <- paste0("Die brieflichen Stimmen sind ausgezählt.<br>Stand Initiative: <b>",
+                              round(results_kantonal_special_initiative,1)," %</b> Ja, <b>",
+                              round(100-results_kantonal_special_initiative,1)," %</b> Nein<br>",
+                              "Stand Gegenvorschlag: <b>",
+                              round(results_kantonal_special_gegenvorschlag,1)," %</b> Ja, <b>",
+                              round(100-results_kantonal_special_gegenvorschlag,1)," %</b> Nein<br>",
+                              "Stand Stichentscheid: <b>",
+                              round(results_kantonal_special_stichentscheid,1)," %</b> Initiative, <b>",
+                              round(100-results_kantonal_special_stichentscheid,1)," %</b> Gegenvorschlag"
+      )
+      
+      undertitel_fr <- paste0("Les votes par correspondance ont été dépouillés.<br>Etat initiative: <b>",
+                              round(results_kantonal_special_initiative,1)," %</b> oui, <b>",
+                              round(100-results_kantonal_special_initiative,1)," %</b> non<br>",
+                              "Etat contre-proposition: <b>",
+                              round(results_kantonal_special_gegenvorschlag,1)," %</b> oui, <b>",
+                              round(100-results_kantonal_special_gegenvorschlag,1)," %</b> non<br>",
+                              "Etat question subsidiaire: <b>",
+                              round(results_kantonal_special_stichentscheid,1)," %</b> initiative, <b>",
+                              round(100-results_kantonal_special_stichentscheid,1)," %</b> contre-proposition"
+      )
     
     if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
-      
       undertitel_de <- paste0("Es sind <b>",sum(results$Gebiet_Ausgezaehlt),"</b> von <b>",nrow(results),
                               "</b> Gemeinden ausgezählt.<br>Stand Initiative: <b>",
                               round(results_kantonal_special_initiative,1)," %</b> Ja, <b>",
@@ -203,15 +225,15 @@ for (s in 1:length(kantonal_short_special) ) {
                               round(results_kantonal_special_stichentscheid,1)," %</b> initiative, <b>",
                               round(100-results_kantonal_special_stichentscheid,1)," %</b> contre-proposition"
       )
-      
+    }
       if (kantonal_short_special[s] == "VS_Verfassung") {
       undertitel_de <- gsub("Initiative","Entwurf",undertitel_de)
       undertitel_de <- gsub("Gegenvorschlag","Variante",undertitel_de)
       undertitel_fr <- gsub("initiative","project",undertitel_fr)
       undertitel_fr <- gsub("contre[-]proposition","variante",undertitel_fr)
       }  
-        
-    }  
+    }    
+
     
     datawrapper_codes_vorlage <- datawrapper_codes_kantonal[datawrapper_codes_kantonal$Vorlage == kantonal_short_special[s],]
 
@@ -227,7 +249,5 @@ for (s in 1:length(kantonal_short_special) ) {
     }
     
   }  
-  
-  
 }
 
