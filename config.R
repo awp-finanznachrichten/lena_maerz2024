@@ -29,7 +29,7 @@ json_data <- fromJSON(rawToChar(res$content), flatten = TRUE)
 
 res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-kantAbstimmung.json")
 json_data_kantone <- fromJSON(rawToChar(res$content), flatten = TRUE)
-
+View(json_data_kantone)
 #download.file("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-kantAbstimmung.json",
 #              destfile = "Data/sd-t-17-02-20240303-kantAbstimmung.json"",
 #              method = "curl")
@@ -40,18 +40,18 @@ cat("Aktuelle Abstimmungsdaten geladen\n")
 excel_sheets <- excel_sheets(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"))
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
 vorlagen_short <- excel_sheets[2:3]
-
+vorlagen_short
 ###Kurznamen und Nummern kantonale Vorlagen
-kantonal_short <- excel_sheets[c(4:8,10:11,14:15)]
+kantonal_short <- excel_sheets[c(4:9,11:12,15:16)]
 
 #Nummer in JSON 
-kantonal_number <- c(6,9,9,9,9,3,8,1,1) 
+kantonal_number <- c(2,6,9,9,9,9,3,8,1,1) 
 
 #Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-kantonal_add <- c(1,2,3,4,5,1,2,6,5)
+kantonal_add <- c(1,1,2,3,4,5,1,2,6,5)
 
 ###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
-kantonal_short_special <- excel_sheets[c(9,12,13)]
+kantonal_short_special <- excel_sheets[c(10,13,14)]
 
 #Nummer in JSON 
 kantonal_number_special <- c(9,8,1) 
