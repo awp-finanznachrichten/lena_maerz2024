@@ -4,7 +4,7 @@ completed_votes <- read_rds("completed_votes.RDS")
 
 for (k in 1:length(kantonal_short) ) {
   
-  if (sum(grepl(kantonal_short[k],completed_votes) == 0)) {
+  if (sum(grepl(kantonal_short[k],completed_votes)) == 0) {
 
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",kantonal_short[k],"\n"))
   
@@ -188,5 +188,7 @@ for (k in 1:length(kantonal_short) ) {
     }
     
   }  
+  } else {
+    cat(paste0("\nVorlage ",kantonal_short[k]," bereits komplett\n"))  
   }  
 }

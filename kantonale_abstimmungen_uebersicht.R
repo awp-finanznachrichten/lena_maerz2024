@@ -5,7 +5,7 @@ completed_cantons <- read_rds("completed_cantons.RDS")
 
 for (k in 1:nrow(kantone_list)) {
 
-if (sum(grepl(kantone_list$geoLevelname[k],completed_cantons) == 0)) {
+if (sum(grepl(kantone_list$geoLevelname[k],completed_cantons)) == 0) {
   
 data_overview <- data.frame(50,50,"Abstimmung_de","Abstimmung_fr","Abstimmung_it")
 colnames(data_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")  
@@ -139,6 +139,8 @@ send_notification(Subject,Body,DEFAULT_MAILS)
 #Log Kantonale Abstimmungen
 cat(paste0("\n\n",Sys.time()," Kantonale Abstimmungen ",kantone_list$geoLevelname[k],"\n"),file="Logfiles/log_file.txt",append = TRUE)
 }
+}  else {
+  cat(paste0("\nKanton ",kantone_list$geoLevelname[k]," bereits komplett\n"))  
 }  
 }  
 
