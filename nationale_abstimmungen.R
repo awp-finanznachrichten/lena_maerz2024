@@ -314,7 +314,7 @@ uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
                           round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
                           "%)<br>",
                           "Kantone: ",results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)," Ja, ",
-                          results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " Nein.")
+                          results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " Nein")
                           
 
 uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],"</b><br>Les résultats de ",
@@ -322,14 +322,14 @@ uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],"</b><br>Les résultats d
                              round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
                              "%)<br>",
                              "Cantons: ",results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)," oui, ",
-                             results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " non.")
+                             results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " non")
 
 uebersicht_text_it <- paste0("<b>",vorlagen_it$text[i],"</b><br>",
                              sum(results$Gebiet_Ausgezaehlt)," dei ",nrow(results)," comuni sono noti (",
                              round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
                              "%)<br>",
                              "Cantoni: ",results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)," sì, ",
-                             results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " no.")
+                             results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " no")
 
 Ja_Anteil <- round(results_national$jaStimmenInProzent,1)
 Nein_Anteil <- round(100-results_national$jaStimmenInProzent,1)
