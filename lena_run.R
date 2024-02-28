@@ -1,6 +1,6 @@
 #repeat{
 
-MAIN_PATH <- "C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen"
+MAIN_PATH <- "C:/Users/simon/OneDrive/LENA_Project/20240303_LENA_Abstimmungen"
 
 #Working Directory definieren
 setwd(MAIN_PATH)
@@ -16,7 +16,7 @@ source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 source("CONFIG.R",encoding = "UTF-8")
 
 #Simulate Data (if needed)
-simulation <- TRUE
+simulation <- FALSE
 if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  
@@ -60,7 +60,7 @@ source("kantonale_abstimmungen_special.R", encoding="UTF-8")
 
 #Make Commit
 git2r::config(user.name = "awp-finanznachrichten",user.email = "sw@awp.ch")
-token <- read.csv("C:/Users/sw/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
+token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
 git2r::cred_token(token)
 gitadd()
 gitcommit()
@@ -71,7 +71,7 @@ if (time_check_national == FALSE) {
 source("votations_mars_2024/top_flop/top_flop_run.R", encoding="UTF-8")
 
 #Make Commit
-token <- read.csv("C:/Users/sw/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
+token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
 git2r::cred_token(token)
 gitadd()
 gitcommit()
