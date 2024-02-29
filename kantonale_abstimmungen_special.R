@@ -134,8 +134,8 @@ for (s in 1:length(kantonal_short_special) ) {
   }
   
 #Texte speichern
-library(xlsx)
-write.xlsx(results,paste0(kantonal_short_special[s],"_texte.xlsx"))
+#library(xlsx)
+#write.xlsx(results,paste0(kantonal_short_special[s],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   #Output Abstimmungen Gemeinde

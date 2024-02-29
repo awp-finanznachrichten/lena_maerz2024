@@ -101,8 +101,8 @@ for (k in 1:length(kantonal_short) ) {
   }
 
 #Texte speichern
-library(xlsx)
-write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
+#library(xlsx)
+#write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   #Output Abstimmungen Gemeinde
@@ -128,7 +128,7 @@ write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
   undertitel_de <- "Es sind noch keine Gemeinden ausgezählt."
   undertitel_fr <- "Aucun résultat n'est encore connu."
   undertitel_it <- "Nessun risultato è ancora noto."
-  
+
   hold <- FALSE
   if (hold == FALSE) {
  
