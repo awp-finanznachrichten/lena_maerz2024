@@ -1,5 +1,4 @@
 #repeat{
-
 MAIN_PATH <- "C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen"
 
 #Working Directory definieren
@@ -14,6 +13,7 @@ source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("CONFIG.R",encoding = "UTF-8")
+
 
 #Simulate Data (if needed)
 simulation <- FALSE
