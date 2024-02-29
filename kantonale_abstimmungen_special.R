@@ -14,9 +14,6 @@ for (s in 1:length(kantonal_short_special) ) {
                                                    kantonal_add_special[s],
                                                    level="kantonal")
   
-#Simulation Gemeinden
-#source("data_simulation_gemeinden.R")
- 
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)
   results <- format_data_g(results)
@@ -57,9 +54,6 @@ for (s in 1:length(kantonal_short_special) ) {
                                                                      kantonal_add_special[s]+1),
                                                               level="kantonal")
   
-  
-#Simulation Gemeinden
-#source("data_simulation_gegenvorschlag.R")
 
   results_gegenvorschlag <- results_gegenvorschlag[,c(3:6,11)]
   results_gegenvorschlag$neinStimmenInProzent <- 100-results_gegenvorschlag$jaStimmenInProzent
@@ -83,10 +77,6 @@ for (s in 1:length(kantonal_short_special) ) {
                                                                          kantonal_add_special[s]+3,
                                                                          kantonal_add_special[s]+2),
                                                                   level="kantonal")
-  
-  
-#Simulation Gemeinden
-#source("data_simulation_stichentscheid.R")
   
   results_stichentscheid  <- results_stichentscheid[,c(3:4,11)]
   results_stichentscheid$neinStimmenInProzent <- 100-results_stichentscheid$jaStimmenInProzent
@@ -144,8 +134,8 @@ for (s in 1:length(kantonal_short_special) ) {
   }
   
 #Texte speichern
-#library(xlsx)
-#write.xlsx(results,paste0(kantonal_short_special[s],"_texte.xlsx"))
+library(xlsx)
+write.xlsx(results,paste0(kantonal_short_special[s],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   #Output Abstimmungen Gemeinde
