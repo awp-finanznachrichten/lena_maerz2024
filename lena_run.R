@@ -16,7 +16,7 @@ source("./tools/Funktionen/Utils.R", encoding = "UTF-8")
 source("CONFIG.R",encoding = "UTF-8")
 
 #Simulate Data (if needed)
-simulation <- TRUE
+simulation <- FALSE
 if (simulation == TRUE) {
 source("./Simulation/data_simulation.R")  
 }  
@@ -39,6 +39,14 @@ time_start <- Sys.time()
 if (time_check_national == FALSE) {
 ###Nationale Abstimmungen###
 source("nationale_abstimmungen.R", encoding="UTF-8")
+
+#Abstimmung komplett?
+mail_sent_report <- read_rds("mail_sent_report.RDS")
+if ((mail_sent_report == FALSE) & (sum(json_data[["schweiz"]][["vorlagen"]][["vorlageBeendet"]] == FALSE) == 0) ) {
+print("Alle Abstimmungsresultate komplett!")
+source("report_election_completed.R", encoding="UTF-8") 
+}  
+  
 }
   
 if (time_check_kantonal == FALSE) {  

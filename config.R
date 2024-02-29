@@ -99,6 +99,12 @@ cantons_overview <- readRDS("./Data/cantons_overview.RDS")
 
 cat("Metadaten zu Gemeinden und Kantonen geladen\n")
 
+#E-Mail-Adressen Kantone
+mydb <- connectDB(db_name="sda_elections")
+rs <- dbSendQuery(mydb, "SELECT area_ID,mail_KeySDA FROM areas_metadata WHERE area_type = 'canton'")
+mail_cantons <- fetch(rs,n=-1)
+dbDisconnectAll()
+
 #Datawrapper-Codes
 datawrapper_codes <- as.data.frame(read_excel("Data/metadaten_grafiken_eidgenössische_Abstimmungen.xlsx"))
 datawrapper_codes_kantonal <- as.data.frame(read_excel("Data/metadaten_grafiken_kantonale_Abstimmungen.xlsx"))

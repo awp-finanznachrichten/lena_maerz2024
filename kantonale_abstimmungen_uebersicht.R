@@ -127,6 +127,9 @@ write_rds(completed_cantons,"completed_cantons.RDS")
 
 
 #Send Mail
+selected_mail <- mail_cantons %>%
+  filter(area_ID == kantone_list$geoLevelname[k])
+
 Subject <- paste0("Kanton ",kantone_list$geoLevelname[k],": Kantonale Abstimmungen komplett")
 Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
                "Die Ergebnisse der kantonalen Abstimmungen im Kanton ",kantone_list$geoLevelname[k]," sind bekannt. ",
@@ -134,7 +137,8 @@ Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
                paste(paste0("https://datawrapper.dwcdn.net/",datawrapper_ids$ID),collapse = "\n"),
                "\n\nBitte falls gewünscht die Übersichtsgrafik sowie die Karten (falls vorhanden) ins Visual hochladen.\n\n",
                "Liebe Grüsse\n\nLENA")
-send_notification(Subject,Body,DEFAULT_MAILS)
+send_notification(Subject,Body,
+                  paste0(DEFAULT_MAILS,",",selected_mail$mail_KeySDA[1]))
 
 #Log Kantonale Abstimmungen
 cat(paste0("\n\n",Sys.time()," Kantonale Abstimmungen ",kantone_list$geoLevelname[k],"\n"),file="Logfiles/log_file.txt",append = TRUE)
