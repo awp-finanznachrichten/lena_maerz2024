@@ -1,161 +1,161 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
-1,79.4,79.4,20.6,"Aeugst am Albis (ZH)",
-2,62.4,62.4,37.6,"Affoltern am Albis (ZH)",
-3,60.9,60.9,39.1,"Bonstetten (ZH)",
-4,33.1,33.1,66.9,"Hausen am Albis (ZH)",
-5,17.7,17.7,82.3,"Hedingen (ZH)",
-6,70.6,70.6,29.4,"Kappel am Albis (ZH)",
-7,60.4,60.4,39.6,"Knonau (ZH)",
-8,37,37,63,"Maschwanden (ZH)",
-9,16.9,16.9,83.1,"Mettmenstetten (ZH)",
-10,49.4,49.4,50.6,"Obfelden (ZH)",
-11,51.1,51.1,48.9,"Ottenbach (ZH)",
-12,39.1,39.1,60.9,"Rifferswil (ZH)",
-13,42.5,42.5,57.5,"Stallikon (ZH)",
-14,45.9,45.9,54.1,"Wettswil am Albis (ZH)",
-22,43.8,43.8,56.2,"Benken (ZH)",
-23,95.9,95.9,4.1,"Berg am Irchel (ZH)",
-24,27.9,27.9,72.1,"Buch am Irchel (ZH)",
-25,28.9,28.9,71.1,"Dachsen (ZH)",
-26,71,71,29,"Dorf (ZH)",
-27,44,44,56,"Feuerthalen (ZH)",
-28,42.7,42.7,57.3,"Flaach (ZH)",
-29,57.4,57.4,42.6,"Flurlingen (ZH)",
-31,59.7,59.7,40.3,"Henggart (ZH)",
-33,37.2,37.2,62.8,"Kleinandelfingen (ZH)",
-34,63.5,63.5,36.5,"Laufen-Uhwiesen (ZH)",
-35,30.6,30.6,69.4,"Marthalen (ZH)",
-37,84.2,84.2,15.8,"Ossingen (ZH)",
-38,13.8,13.8,86.2,"Rheinau (ZH)",
-39,34.8,34.8,65.2,"Thalheim an der Thur (ZH)",
-40,23.2,23.2,76.8,"Trüllikon (ZH)",
-41,39.2,39.2,60.8,"Truttikon (ZH)",
-43,39.9,39.9,60.1,"Volken (ZH)",
-51,21.6,21.6,78.4,"Bachenbülach (ZH)",
-52,51.9,51.9,48.1,"Bassersdorf (ZH)",
-53,81.6,81.6,18.4,"Bülach (ZH)",
-54,43.3,43.3,56.7,"Dietlikon (ZH)",
-55,83.7,83.7,16.3,"Eglisau (ZH)",
-56,8,8,92,"Embrach (ZH)",
-57,48.6,48.6,51.4,"Freienstein-Teufen (ZH)",
-58,56.3,56.3,43.7,"Glattfelden (ZH)",
-59,42.4,42.4,57.6,"Hochfelden (ZH)",
-60,69.5,69.5,30.5,"Höri (ZH)",
-61,52.8,52.8,47.2,"Hüntwangen (ZH)",
-62,62.8,62.8,37.2,"Kloten (ZH)",
-63,57.3,57.3,42.7,"Lufingen (ZH)",
-64,51.5,51.5,48.5,"Nürensdorf (ZH)",
-65,59.8,59.8,40.2,"Oberembrach (ZH)",
-66,33.9,33.9,66.1,"Opfikon (ZH)",
-67,60.8,60.8,39.2,"Rafz (ZH)",
-68,20.9,20.9,79.1,"Rorbas (ZH)",
-69,59.4,59.4,40.6,"Wallisellen (ZH)",
-70,49.7,49.7,50.3,"Wasterkingen (ZH)",
-71,15.8,15.8,84.2,"Wil (ZH)",
-72,7.5,7.5,92.5,"Winkel (ZH)",
-81,22.9,22.9,77.1,"Bachs (ZH)",
-82,64.9,64.9,35.1,"Boppelsen (ZH)",
-83,58.3,58.3,41.7,"Buchs (ZH)",
-84,5,5,95,"Dällikon (ZH)",
-85,21.5,21.5,78.5,"Dänikon (ZH)",
-86,90,90,10,"Dielsdorf (ZH)",
-87,45.2,45.2,54.8,"Hüttikon (ZH)",
-88,14.6,14.6,85.4,"Neerach (ZH)",
-89,52.7,52.7,47.3,"Niederglatt (ZH)",
-90,43.5,43.5,56.5,"Niederhasli (ZH)",
-91,44.1,44.1,55.9,"Niederweningen (ZH)",
-92,75,75,25,"Oberglatt (ZH)",
-93,20.9,20.9,79.1,"Oberweningen (ZH)",
-94,6.6,6.6,93.4,"Otelfingen (ZH)",
-95,16,16,84,"Regensberg (ZH)",
-96,96.2,96.2,3.8,"Regensdorf (ZH)",
-97,7.2,7.2,92.8,"Rümlang (ZH)",
-98,49,49,51,"Schleinikon (ZH)",
-99,31.3,31.3,68.7,"Schöfflisdorf (ZH)",
-100,70,70,30,"Stadel (ZH)",
-101,3,3,97,"Steinmaur (ZH)",
-102,49.8,49.8,50.2,"Weiach (ZH)",
-111,77.4,77.4,22.6,"Bäretswil (ZH)",
-112,18.4,18.4,81.6,"Bubikon (ZH)",
-113,49.3,49.3,50.7,"Dürnten (ZH)",
-114,16.6,16.6,83.4,"Fischenthal (ZH)",
-115,95.3,95.3,4.7,"Gossau (ZH)",
-116,35.6,35.6,64.4,"Grüningen (ZH)",
-117,71.6,71.6,28.4,"Hinwil (ZH)",
-118,34.8,34.8,65.2,"Rüti (ZH)",
-119,57.6,57.6,42.4,"Seegräben (ZH)",
-120,61.1,61.1,38.9,"Wald (ZH)",
-121,25.2,25.2,74.8,"Wetzikon (ZH)",
-131,81.5,81.5,18.5,"Adliswil (ZH)",
-135,1.4,1.4,98.6,"Kilchberg (ZH)",
-136,32.8,32.8,67.2,"Langnau am Albis (ZH)",
-137,40.6,40.6,59.4,"Oberrieden (ZH)",
-138,59.6,59.6,40.4,"Richterswil (ZH)",
-139,36,36,64,"Rüschlikon (ZH)",
-141,92.5,92.5,7.5,"Thalwil (ZH)",
-151,58.4,58.4,41.6,"Erlenbach (ZH)",
-152,34.2,34.2,65.8,"Herrliberg (ZH)",
-153,32.3,32.3,67.7,"Hombrechtikon (ZH)",
-154,8.3,8.3,91.7,"Küsnacht (ZH)",
-155,58.2,58.2,41.8,"Männedorf (ZH)",
-156,28.2,28.2,71.8,"Meilen (ZH)",
-157,46.3,46.3,53.7,"Oetwil am See (ZH)",
-158,29.1,29.1,70.9,"Stäfa (ZH)",
-159,61.4,61.4,38.6,"Uetikon am See (ZH)",
-160,78.9,78.9,21.1,"Zumikon (ZH)",
-161,95.9,95.9,4.1,"Zollikon (ZH)",
-172,67.1,67.1,32.9,"Fehraltorf (ZH)",
-173,89.9,89.9,10.1,"Hittnau (ZH)",
-176,52.9,52.9,47.1,"Lindau (ZH)",
-177,63.3,63.3,36.7,"Pfäffikon (ZH)",
-178,11.3,11.3,88.7,"Russikon (ZH)",
-180,39.6,39.6,60.4,"Weisslingen (ZH)",
-181,53,53,47,"Wila (ZH)",
-182,51.8,51.8,48.2,"Wildberg (ZH)",
-191,13.1,13.1,86.9,"Dübendorf (ZH)",
-192,18.7,18.7,81.3,"Egg (ZH)",
-193,77.1,77.1,22.9,"Fällanden (ZH)",
-194,77.3,77.3,22.7,"Greifensee (ZH)",
-195,59,59,41,"Maur (ZH)",
-196,33.1,33.1,66.9,"Mönchaltorf (ZH)",
-197,39.5,39.5,60.5,"Schwerzenbach (ZH)",
-198,45.8,45.8,54.2,"Uster (ZH)",
-199,59.9,59.9,40.1,"Volketswil (ZH)",
-200,39.4,39.4,60.6,"Wangen-Brüttisellen (ZH)",
-211,5.8,5.8,94.2,"Altikon (ZH)",
-213,69.5,69.5,30.5,"Brütten (ZH)",
-214,47.4,47.4,52.6,"Dägerlen (ZH)",
-215,53.7,53.7,46.3,"Dättlikon (ZH)",
-216,56.5,56.5,43.5,"Dinhard (ZH)",
-218,39.8,39.8,60.2,"Ellikon an der Thur (ZH)",
-219,36.2,36.2,63.8,"Elsau (ZH)",
-220,15.1,15.1,84.9,"Hagenbuch (ZH)",
-221,91.8,91.8,8.2,"Hettlingen (ZH)",
-223,75.7,75.7,24.3,"Neftenbach (ZH)",
-224,36.9,36.9,63.1,"Pfungen (ZH)",
-225,40.4,40.4,59.6,"Rickenbach (ZH)",
-226,93.4,93.4,6.6,"Schlatt (ZH)",
-227,62.3,62.3,37.7,"Seuzach (ZH)",
-228,88.2,88.2,11.8,"Turbenthal (ZH)",
-230,1.7,1.7,98.3,"Winterthour (ZH)",
-231,74.5,74.5,25.5,"Zell (ZH)",
-241,87.3,87.3,12.7,"Aesch (ZH)",
-242,71.3,71.3,28.7,"Birmensdorf (ZH)",
-243,41.3,41.3,58.7,"Dietikon (ZH)",
-244,75.4,75.4,24.6,"Geroldswil (ZH)",
-245,36.7,36.7,63.3,"Oberengstringen (ZH)",
-246,50.6,50.6,49.4,"Oetwil an der Limmat (ZH)",
-247,55.3,55.3,44.7,"Schlieren (ZH)",
-248,35.4,35.4,64.6,"Uitikon (ZH)",
-249,73.5,73.5,26.5,"Unterengstringen (ZH)",
-250,59.9,59.9,40.1,"Urdorf (ZH)",
-251,84.1,84.1,15.9,"Weiningen (ZH)",
-261,59.7,59.7,40.3,"Zurich (ZH)",
-291,15.6,15.6,84.4,"Andelfingen (ZH)",
-292,46.7,46.7,53.3,"Stammheim (ZH)",
-293,67.7,67.7,32.3,"Wädenswil (ZH)",
-294,89.7,89.7,10.3,"Elgg (ZH)",
-295,56.8,56.8,43.2,"Horgen (ZH)",
-296,71.9,71.9,28.1,"Illnau-Effretikon (ZH)",
-297,28.9,28.9,71.1,"Bauma (ZH)",
-298,27.9,27.9,72.1,"Wiesendangen (ZH)",
+1,50,0,0,"Aeugst am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+2,50,0,0,"Affoltern am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+3,50,0,0,"Bonstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+4,50,0,0,"Hausen am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+5,50,0,0,"Hedingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+6,50,0,0,"Kappel am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+7,50,0,0,"Knonau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+8,50,0,0,"Maschwanden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+9,50,0,0,"Mettmenstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+10,50,0,0,"Obfelden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+11,50,0,0,"Ottenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+12,50,0,0,"Rifferswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+13,50,0,0,"Stallikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+14,50,0,0,"Wettswil am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+22,50,0,0,"Benken (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+23,50,0,0,"Berg am Irchel (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+24,50,0,0,"Buch am Irchel (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+25,50,0,0,"Dachsen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+26,50,0,0,"Dorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+27,50,0,0,"Feuerthalen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+28,50,0,0,"Flaach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+29,50,0,0,"Flurlingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+31,50,0,0,"Henggart (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+33,50,0,0,"Kleinandelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+34,50,0,0,"Laufen-Uhwiesen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+35,50,0,0,"Marthalen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+37,50,0,0,"Ossingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+38,50,0,0,"Rheinau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+39,50,0,0,"Thalheim an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+40,50,0,0,"Trüllikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+41,50,0,0,"Truttikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+43,50,0,0,"Volken (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+51,50,0,0,"Bachenbülach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+52,50,0,0,"Bassersdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+53,50,0,0,"Bülach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+54,50,0,0,"Dietlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+55,50,0,0,"Eglisau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+56,50,0,0,"Embrach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+57,50,0,0,"Freienstein-Teufen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+58,50,0,0,"Glattfelden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+59,50,0,0,"Hochfelden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+60,50,0,0,"Höri (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+61,50,0,0,"Hüntwangen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+62,50,0,0,"Kloten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+63,50,0,0,"Lufingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+64,50,0,0,"Nürensdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+65,50,0,0,"Oberembrach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+66,50,0,0,"Opfikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+67,50,0,0,"Rafz (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+68,50,0,0,"Rorbas (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+69,50,0,0,"Wallisellen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+70,50,0,0,"Wasterkingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+71,50,0,0,"Wil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+72,50,0,0,"Winkel (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+81,50,0,0,"Bachs (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+82,50,0,0,"Boppelsen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+83,50,0,0,"Buchs (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+84,50,0,0,"Dällikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+85,50,0,0,"Dänikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+86,50,0,0,"Dielsdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+87,50,0,0,"Hüttikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+88,50,0,0,"Neerach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+89,50,0,0,"Niederglatt (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+90,50,0,0,"Niederhasli (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+91,50,0,0,"Niederweningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+92,50,0,0,"Oberglatt (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+93,50,0,0,"Oberweningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+94,50,0,0,"Otelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+95,50,0,0,"Regensberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+96,50,0,0,"Regensdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+97,50,0,0,"Rümlang (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+98,50,0,0,"Schleinikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+99,50,0,0,"Schöfflisdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+100,50,0,0,"Stadel (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+101,50,0,0,"Steinmaur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+102,50,0,0,"Weiach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+111,50,0,0,"Bäretswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+112,50,0,0,"Bubikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+113,50,0,0,"Dürnten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+114,50,0,0,"Fischenthal (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+115,50,0,0,"Gossau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+116,50,0,0,"Grüningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+117,50,0,0,"Hinwil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+118,50,0,0,"Rüti (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+119,50,0,0,"Seegräben (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+120,50,0,0,"Wald (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+121,50,0,0,"Wetzikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+131,50,0,0,"Adliswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+135,50,0,0,"Kilchberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+136,50,0,0,"Langnau am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+137,50,0,0,"Oberrieden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+138,50,0,0,"Richterswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+139,50,0,0,"Rüschlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+141,50,0,0,"Thalwil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+151,50,0,0,"Erlenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+152,50,0,0,"Herrliberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+153,50,0,0,"Hombrechtikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+154,50,0,0,"Küsnacht (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+155,50,0,0,"Männedorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+156,50,0,0,"Meilen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+157,50,0,0,"Oetwil am See (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+158,50,0,0,"Stäfa (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+159,50,0,0,"Uetikon am See (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+160,50,0,0,"Zumikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+161,50,0,0,"Zollikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+172,50,0,0,"Fehraltorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+173,50,0,0,"Hittnau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+176,50,0,0,"Lindau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+177,50,0,0,"Pfäffikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+178,50,0,0,"Russikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+180,50,0,0,"Weisslingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+181,50,0,0,"Wila (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+182,50,0,0,"Wildberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+191,50,0,0,"Dübendorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+192,50,0,0,"Egg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+193,50,0,0,"Fällanden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+194,50,0,0,"Greifensee (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+195,50,0,0,"Maur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+196,50,0,0,"Mönchaltorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+197,50,0,0,"Schwerzenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+198,50,0,0,"Uster (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+199,50,0,0,"Volketswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+200,50,0,0,"Wangen-Brüttisellen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+211,50,0,0,"Altikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+213,50,0,0,"Brütten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+214,50,0,0,"Dägerlen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+215,50,0,0,"Dättlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+216,50,0,0,"Dinhard (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+218,50,0,0,"Ellikon an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+219,50,0,0,"Elsau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+220,50,0,0,"Hagenbuch (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+221,50,0,0,"Hettlingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+223,50,0,0,"Neftenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+224,50,0,0,"Pfungen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+225,50,0,0,"Rickenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+226,50,0,0,"Schlatt (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+227,50,0,0,"Seuzach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+228,50,0,0,"Turbenthal (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+230,50,0,0,"Winterthour (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+231,50,0,0,"Zell (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+241,50,0,0,"Aesch (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+242,50,0,0,"Birmensdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+243,50,0,0,"Dietikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+244,50,0,0,"Geroldswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+245,50,0,0,"Oberengstringen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+246,50,0,0,"Oetwil an der Limmat (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+247,50,0,0,"Schlieren (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+248,50,0,0,"Uitikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+249,50,0,0,"Unterengstringen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+250,50,0,0,"Urdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+251,50,0,0,"Weiningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+261,50,0,0,"Zurich (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+291,50,0,0,"Andelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+292,50,0,0,"Stammheim (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+293,50,0,0,"Wädenswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+294,50,0,0,"Elgg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+295,50,0,0,"Horgen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+296,50,0,0,"Illnau-Effretikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+297,50,0,0,"Bauma (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+298,50,0,0,"Wiesendangen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
