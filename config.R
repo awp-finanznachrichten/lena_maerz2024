@@ -90,8 +90,7 @@ vorlagen_it$text[2] <- Vorlagen_Titel$Vorlage_i[2]
 #daten_co2_bfs <- read_excel("Data/daten_co2_bfs.xlsx",skip=5)
 #daten_covid1_bfs <- read_excel("Data/daten_covid1_bfs.xlsx",skip=5)
 #daten_covid2_bfs <- read_excel("Data/daten_covid2_bfs.xlsx",skip=5)
-
-cat("Daten zu historischen Abstimmungen geladen\n")
+#cat("Daten zu historischen Abstimmungen geladen\n")
 
 #Metadaten Gemeinden und Kantone
 meta_gmd_kt <- read_csv("Data/MASTERFILE_GDE.csv")
