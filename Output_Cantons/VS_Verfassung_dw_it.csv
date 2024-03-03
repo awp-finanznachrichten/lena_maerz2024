@@ -1,19 +1,19 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
-6002,50,0,0,"Briga-Glis VS","I resultati di questa comune non sono ancora noti."
+6002,14.6,14.6,85.4,"Briga-Glis VS",
 6004,50,0,0,"Eggerberg VS","I resultati di questa comune non sono ancora noti."
 6007,50,0,0,"Naters VS","I resultati di questa comune non sono ancora noti."
-6008,50,0,0,"Ried-Brig VS","I resultati di questa comune non sono ancora noti."
+6008,10.4,10.4,89.6,"Ried-Brig VS",
 6009,50,0,0,"Sempione VS","I resultati di questa comune non sono ancora noti."
 6010,12.9,12.9,87.1,"Termen VS",
-6011,50,0,0,"Zwischbergen VS","I resultati di questa comune non sono ancora noti."
-6021,50,0,0,"Ardon VS","I resultati di questa comune non sono ancora noti."
+6011,0,0,100,"Zwischbergen VS",
+6021,29.2,29.2,70.8,"Ardon VS",
 6022,30.3,30.3,69.7,"Chamoson VS",
 6023,50,0,0,"Conthey VS","I resultati di questa comune non sono ancora noti."
 6024,30.2,30.2,69.8,"Nendaz VS",
-6025,50,0,0,"Vétroz VS","I resultati di questa comune non sono ancora noti."
+6025,,,,"Vétroz VS",
 6032,8.7,8.7,91.3,"Bourg-Saint-Pierre VS",
 6033,22.4,22.4,77.6,"Liddes VS",
-6034,50,0,0,"Orsières VS","I resultati di questa comune non sono ancora noti."
+6034,24.5,24.5,75.5,"Orsières VS",
 6035,50,0,0,"Sembrancher VS","I resultati di questa comune non sono ancora noti."
 6037,50,0,0,"Val de Bagnes VS","I resultati di questa comune non sono ancora noti."
 6052,11.7,11.7,88.3,"Bellwald VS",
@@ -34,7 +34,7 @@
 6102,24.4,24.4,75.6,"Albinen VS",
 6104,10.4,10.4,89.6,"Ergisch VS",
 6109,11.1,11.1,88.9,"Inden VS",
-6110,50,0,0,"Leuk VS","I resultati di questa comune non sono ancora noti."
+6110,12.8,12.8,87.2,"Leuk VS",
 6111,50,0,0,"Leukerbad VS","I resultati di questa comune non sono ancora noti."
 6112,11.5,11.5,88.5,"Oberems VS",
 6113,50,0,0,"Salgesch VS","I resultati di questa comune non sono ancora noti."
@@ -43,15 +43,15 @@
 6118,8,8,92,"Gampel-Bratsch VS",
 6119,12,12,88,"Turtmann-Unterems VS",
 6131,27.7,27.7,72.3,"Bovernier VS",
-6133,50,0,0,"Fully VS","I resultati di questa comune non sono ancora noti."
+6133,37.1,37.1,62.9,"Fully VS",
 6134,22.3,22.3,77.7,"Isérables VS",
 6135,50,0,0,"Leytron VS","I resultati di questa comune non sono ancora noti."
 6136,50,0,0,"Martigny VS","I resultati di questa comune non sono ancora noti."
-6137,50,0,0,"Martigny-Combe VS","I resultati di questa comune non sono ancora noti."
+6137,34.7,34.7,65.3,"Martigny-Combe VS",
 6139,50,0,0,"Riddes VS","I resultati di questa comune non sono ancora noti."
 6140,31.9,31.9,68.1,"Saillon VS",
 6141,50,0,0,"Saxon VS","I resultati di questa comune non sono ancora noti."
-6142,50,0,0,"Trient VS","I resultati di questa comune non sono ancora noti."
+6142,48.8,48.8,51.2,"Trient VS",
 6151,33.4,33.4,66.6,"Champéry VS",
 6152,50,0,0,"Collombey-Muraz VS","I resultati di questa comune non sono ancora noti."
 6153,50,0,0,"Monthey VS","I resultati di questa comune non sono ancora noti."
@@ -60,11 +60,11 @@
 6156,50,0,0,"Troistorrents VS","I resultati di questa comune non sono ancora noti."
 6157,50,0,0,"Val-d'Illiez VS","I resultati di questa comune non sono ancora noti."
 6158,34.3,34.3,65.7,"Vionnaz VS",
-6159,50,0,0,"Vouvry VS","I resultati di questa comune non sono ancora noti."
+6159,38.3,38.3,61.7,"Vouvry VS",
 6172,8.7,8.7,91.3,"Bister VS",
 6173,50,0,0,"Bitsch VS","I resultati di questa comune non sono ancora noti."
 6177,20.7,20.7,79.3,"Grengiols VS",
-6181,50,0,0,"Riederalp VS","I resultati di questa comune non sono ancora noti."
+6181,21.2,21.2,78.8,"Riederalp VS",
 6191,11.7,11.7,88.3,"Ausserberg VS",
 6192,4.6,4.6,95.4,"Blatten VS",
 6193,17.8,17.8,82.2,"Bürchen VS",
@@ -78,7 +78,7 @@
 6203,19.8,19.8,80.2,"Mörel-Filet VS",
 6204,9.7,9.7,90.3,"Steg-Hohtenn VS",
 6205,18.7,18.7,81.3,"Bettmeralp VS",
-6211,50,0,0,"Collonges VS","I resultati di questa comune non sono ancora noti."
+6211,35.7,35.7,64.3,"Collonges VS",
 6212,50,0,0,"Dorénaz VS","I resultati di questa comune non sono ancora noti."
 6213,50,0,0,"Evionnaz VS","I resultati di questa comune non sono ancora noti."
 6214,38,38,62,"Finhaut VS",
@@ -89,15 +89,15 @@
 6220,50,0,0,"Vérossaz VS","I resultati di questa comune non sono ancora noti."
 6232,33.1,33.1,66.9,"Chalais VS",
 6235,35.5,35.5,64.5,"Chippis VS",
-6238,50,0,0,"Grône VS","I resultati di questa comune non sono ancora noti."
-6239,50,0,0,"Icogne VS","I resultati di questa comune non sono ancora noti."
-6240,50,0,0,"Lens VS","I resultati di questa comune non sono ancora noti."
+6238,29.6,29.6,70.4,"Grône VS",
+6239,45.9,45.9,54.1,"Icogne VS",
+6240,29.8,29.8,70.2,"Lens VS",
 6246,29.6,29.6,70.4,"Saint-Léonard VS",
 6248,50,0,0,"Siders VS","I resultati di questa comune non sono ancora noti."
 6252,34,34,66,"Anniviers VS",
 6253,50,0,0,"Crans-Montana VS","I resultati di questa comune non sono ancora noti."
 6254,50,0,0,"Noble-Contrée VS","I resultati di questa comune non sono ancora noti."
-6261,50,0,0,"Arbaz VS","I resultati di questa comune non sono ancora noti."
+6261,36.7,36.7,63.3,"Arbaz VS",
 6263,38.1,38.1,61.9,"Grimisuat VS",
 6265,31,31,69,"Savièse VS",
 6266,50,0,0,"Sitten VS","I resultati di questa comune non sono ancora noti."
@@ -107,17 +107,17 @@
 6283,7.4,7.4,92.6,"Embd VS",
 6285,9.3,9.3,90.7,"Grächen VS",
 6286,8.3,8.3,91.7,"Lalden VS",
-6287,50,0,0,"Randa VS","I resultati di questa comune non sono ancora noti."
+6287,8.3,8.3,91.7,"Randa VS",
 6288,50,0,0,"Saas-Almagell VS","I resultati di questa comune non sono ancora noti."
 6289,50,0,0,"Saas-Balen VS","I resultati di questa comune non sono ancora noti."
 6290,14,14,86,"Saas-Fee VS",
-6291,50,0,0,"Saas-Grund VS","I resultati di questa comune non sono ancora noti."
+6291,4.7,4.7,95.3,"Saas-Grund VS",
 6292,50,0,0,"St. Niklaus VS","I resultati di questa comune non sono ancora noti."
-6293,50,0,0,"Stalden VS","I resultati di questa comune non sono ancora noti."
+6293,4,4,96,"Stalden VS",
 6294,14.5,14.5,85.5,"Staldenried VS",
 6295,16.3,16.3,83.7,"Täsch VS",
 6296,5.2,5.2,94.8,"Törbel VS",
-6297,50,0,0,"Visp VS","I resultati di questa comune non sono ancora noti."
+6297,12.8,12.8,87.2,"Visp VS",
 6298,17.5,17.5,82.5,"Visperterminen VS",
-6299,50,0,0,"Zeneggen VS","I resultati di questa comune non sono ancora noti."
-6300,50,0,0,"Zermatt VS","I resultati di questa comune non sono ancora noti."
+6299,23.3,23.3,76.7,"Zeneggen VS",
+6300,11.6,11.6,88.4,"Zermatt VS",

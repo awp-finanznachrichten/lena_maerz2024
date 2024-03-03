@@ -1,7 +1,7 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
 1,50,0,0,"Aeugst am Albis ZH","I risultati di questo comune non sono ancora noti."
 2,69.5,69.5,30.5,"Affoltern am Albis ZH",
-3,50,0,0,"Bonstetten ZH","I risultati di questo comune non sono ancora noti."
+3,70.8,70.8,29.2,"Bonstetten ZH",
 4,61.2,61.2,38.8,"Hausen am Albis ZH",
 5,67.4,67.4,32.6,"Hedingen ZH",
 6,64.9,64.9,35.1,"Kappel am Albis ZH",
@@ -40,7 +40,7 @@
 57,55.5,55.5,44.5,"Freienstein-Teufen ZH",
 58,50,0,0,"Glattfelden ZH","I risultati di questo comune non sono ancora noti."
 59,34.9,34.9,65.1,"Hochfelden ZH",
-60,50,0,0,"Höri ZH","I risultati di questo comune non sono ancora noti."
+60,35.3,35.3,64.7,"Höri ZH",
 61,57.4,57.4,42.6,"Hüntwangen ZH",
 62,50,0,0,"Kloten ZH","I risultati di questo comune non sono ancora noti."
 63,72.4,72.4,27.6,"Lufingen ZH",
@@ -123,7 +123,7 @@
 199,50,0,0,"Volketswil ZH","I risultati di questo comune non sono ancora noti."
 200,50,0,0,"Wangen-Brüttisellen ZH","I risultati di questo comune non sono ancora noti."
 211,64.2,64.2,35.8,"Altikon ZH",
-213,50,0,0,"Brütten ZH","I risultati di questo comune non sono ancora noti."
+213,56.9,56.9,43.1,"Brütten ZH",
 214,61.4,61.4,38.6,"Dägerlen ZH",
 215,62.6,62.6,37.4,"Dättlikon ZH",
 216,63.2,63.2,36.8,"Dinhard ZH",
@@ -133,7 +133,7 @@
 221,61.5,61.5,38.5,"Hettlingen ZH",
 223,50,0,0,"Neftenbach ZH","I risultati di questo comune non sono ancora noti."
 224,50,0,0,"Pfungen ZH","I risultati di questo comune non sono ancora noti."
-225,50,0,0,"Rickenbach ZH","I risultati di questo comune non sono ancora noti."
+225,63.9,63.9,36.1,"Rickenbach ZH",
 226,50,0,0,"Schlatt ZH","I risultati di questo comune non sono ancora noti."
 227,50,0,0,"Seuzach ZH","I risultati di questo comune non sono ancora noti."
 228,50,0,0,"Turbenthal ZH","I risultati di questo comune non sono ancora noti."
@@ -142,14 +142,14 @@
 241,50,0,0,"Aesch ZH","I risultati di questo comune non sono ancora noti."
 242,50,0,0,"Birmensdorf ZH","I risultati di questo comune non sono ancora noti."
 243,50,0,0,"Dietikon ZH","I risultati di questo comune non sono ancora noti."
-244,50,0,0,"Geroldswil ZH","I risultati di questo comune non sono ancora noti."
+244,69.3,69.3,30.7,"Geroldswil ZH",
 245,50,0,0,"Oberengstringen ZH","I risultati di questo comune non sono ancora noti."
 246,73.4,73.4,26.6,"Oetwil an der Limmat ZH",
 247,50,0,0,"Schlieren ZH","I risultati di questo comune non sono ancora noti."
 248,50,0,0,"Uitikon ZH","I risultati di questo comune non sono ancora noti."
 249,50,0,0,"Unterengstringen ZH","I risultati di questo comune non sono ancora noti."
 250,50,0,0,"Urdorf ZH","I risultati di questo comune non sono ancora noti."
-251,50,0,0,"Weiningen ZH","I risultati di questo comune non sono ancora noti."
+251,66.1,66.1,33.9,"Weiningen ZH",
 261,50,0,0,"Zurigo ZH","I risultati di questo comune non sono ancora noti."
 291,50,0,0,"Andelfingen ZH","I risultati di questo comune non sono ancora noti."
 292,60.5,60.5,39.5,"Stammheim ZH",
