@@ -125,3 +125,10 @@ Luzern, Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Ausserrhoden,
 Luzern, Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, 
 
 2024-03-03 13:59:54 Kantonale Abstimmungen LU
+Luzern, Uri, Nidwalden, 
+
+2024-03-03 14:04:08 AHV_13Rente
+Luzern, Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, Luzern, Uri, Nidwalden, 
+
+2024-03-03 14:04:49 AHV_Renteninitiative
+Luzern, Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, 
