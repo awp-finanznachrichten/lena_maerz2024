@@ -110,4 +110,10 @@ Uri, Nidwalden,
 Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Neuenburg, Jura, Uri, Nidwalden, 
 
 2024-03-03 13:44:49 AHV_Renteninitiative
-Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Neuenburg, Jura, 
+Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Neuenburg, Jura, Uri, Nidwalden, 
+
+2024-03-03 13:53:08 AHV_13Rente
+Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, Uri, Nidwalden, 
+
+2024-03-03 13:53:51 AHV_Renteninitiative
+Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, 

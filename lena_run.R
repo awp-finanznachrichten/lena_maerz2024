@@ -1,4 +1,4 @@
-#repeat{
+repeat{
 MAIN_PATH <- "C:/Users/simon/OneDrive/LENA_Project/20240303_LENA_Abstimmungen"
 
 #Working Directory definieren
@@ -97,6 +97,6 @@ time_end <- Sys.time()
 cat(time_end-time_start)
 }
 
-#Sys.sleep(60)
-#}
+Sys.sleep(60)
+}
 
