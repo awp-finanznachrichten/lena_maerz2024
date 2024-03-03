@@ -5,7 +5,7 @@ library(zip)
 library(RCurl)
 
 #Working Directory definieren
-setwd("C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
+setwd("C:/Users/simon/OneDrive/LENA_Project/20240303_LENA_Abstimmungen")
 
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")

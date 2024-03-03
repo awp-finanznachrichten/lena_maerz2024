@@ -1,161 +1,161 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
-1,28.7,28.7,71.3,"Aeugst am Albis (ZH)",
-2,32.9,32.9,67.1,"Affoltern am Albis (ZH)",
-3,30,30,70,"Bonstetten (ZH)",
-4,32.8,32.8,67.2,"Hausen am Albis (ZH)",
-5,35.6,35.6,64.4,"Hedingen (ZH)",
-6,24.9,24.9,75.1,"Kappel am Albis (ZH)",
-7,31.5,31.5,68.5,"Knonau (ZH)",
-8,30.6,30.6,69.4,"Maschwanden (ZH)",
-9,30.6,30.6,69.4,"Mettmenstetten (ZH)",
-10,31.8,31.8,68.2,"Obfelden (ZH)",
-11,29.7,29.7,70.3,"Ottenbach (ZH)",
-12,42.2,42.2,57.8,"Rifferswil (ZH)",
-13,28.1,28.1,71.9,"Stallikon (ZH)",
-14,26.7,26.7,73.3,"Wettswil am Albis (ZH)",
-22,21.6,21.6,78.4,"Benken (ZH)",
-23,20.8,20.8,79.2,"Berg am Irchel (ZH)",
-24,21.8,21.8,78.2,"Buch am Irchel (ZH)",
-25,36.9,36.9,63.1,"Dachsen (ZH)",
-26,20.8,20.8,79.2,"Dorf (ZH)",
-27,34.7,34.7,65.3,"Feuerthalen (ZH)",
-28,22.2,22.2,77.8,"Flaach (ZH)",
-29,33.4,33.4,66.6,"Flurlingen (ZH)",
-31,28.4,28.4,71.6,"Henggart (ZH)",
-33,26.8,26.8,73.2,"Kleinandelfingen (ZH)",
-34,30,30,70,"Laufen-Uhwiesen (ZH)",
-35,24.9,24.9,75.1,"Marthalen (ZH)",
-37,29.1,29.1,70.9,"Ossingen (ZH)",
-38,34.1,34.1,65.9,"Rheinau (ZH)",
-39,26.5,26.5,73.5,"Thalheim an der Thur (ZH)",
-40,27.9,27.9,72.1,"Trüllikon (ZH)",
-41,25.4,25.4,74.6,"Truttikon (ZH)",
-43,20.8,20.8,79.2,"Volken (ZH)",
-51,31.6,31.6,68.4,"Bachenbülach (ZH)",
-52,31.2,31.2,68.8,"Bassersdorf (ZH)",
-53,33.2,33.2,66.8,"Bülach (ZH)",
-54,31.4,31.4,68.6,"Dietlikon (ZH)",
-55,30.4,30.4,69.6,"Eglisau (ZH)",
-56,26.5,26.5,73.5,"Embrach (ZH)",
-57,23.7,23.7,76.3,"Freienstein-Teufen (ZH)",
-58,27.8,27.8,72.2,"Glattfelden (ZH)",
-59,24.3,24.3,75.7,"Hochfelden (ZH)",
-60,28.3,28.3,71.7,"Höri (ZH)",
-61,28.6,28.6,71.4,"Hüntwangen (ZH)",
-62,32,32,68,"Kloten (ZH)",
-63,23.8,23.8,76.2,"Lufingen (ZH)",
-64,22.9,22.9,77.1,"Nürensdorf (ZH)",
-65,23.3,23.3,76.7,"Oberembrach (ZH)",
-66,33.7,33.7,66.3,"Opfikon (ZH)",
-67,31.3,31.3,68.7,"Rafz (ZH)",
-68,29.3,29.3,70.7,"Rorbas (ZH)",
-69,32.8,32.8,67.2,"Wallisellen (ZH)",
-70,28.8,28.8,71.2,"Wasterkingen (ZH)",
-71,25.6,25.6,74.4,"Wil (ZH)",
-72,22.6,22.6,77.4,"Winkel (ZH)",
-81,23.6,23.6,76.4,"Bachs (ZH)",
-82,23.4,23.4,76.6,"Boppelsen (ZH)",
-83,25.3,25.3,74.7,"Buchs (ZH)",
-84,26.5,26.5,73.5,"Dällikon (ZH)",
-85,26.4,26.4,73.6,"Dänikon (ZH)",
-86,30.2,30.2,69.8,"Dielsdorf (ZH)",
-87,23.3,23.3,76.7,"Hüttikon (ZH)",
-88,24.4,24.4,75.6,"Neerach (ZH)",
-89,25.4,25.4,74.6,"Niederglatt (ZH)",
-90,26.5,26.5,73.5,"Niederhasli (ZH)",
-91,32.3,32.3,67.7,"Niederweningen (ZH)",
-92,32.3,32.3,67.7,"Oberglatt (ZH)",
-93,29.6,29.6,70.4,"Oberweningen (ZH)",
-94,26.9,26.9,73.1,"Otelfingen (ZH)",
-95,28.8,28.8,71.2,"Regensberg (ZH)",
-96,29.6,29.6,70.4,"Regensdorf (ZH)",
-97,28,28,72,"Rümlang (ZH)",
-98,31.2,31.2,68.8,"Schleinikon (ZH)",
-99,27.3,27.3,72.7,"Schöfflisdorf (ZH)",
-100,23.6,23.6,76.4,"Stadel (ZH)",
-101,26.1,26.1,73.9,"Steinmaur (ZH)",
-102,24.4,24.4,75.6,"Weiach (ZH)",
-111,25.9,25.9,74.1,"Bäretswil (ZH)",
-112,30.2,30.2,69.8,"Bubikon (ZH)",
-113,28.3,28.3,71.7,"Dürnten (ZH)",
-114,22.1,22.1,77.9,"Fischenthal (ZH)",
-115,26.5,26.5,73.5,"Gossau (ZH)",
-116,23.7,23.7,76.3,"Grüningen (ZH)",
-117,27.3,27.3,72.7,"Hinwil (ZH)",
-118,32.1,32.1,67.9,"Rüti (ZH)",
-119,30.8,30.8,69.2,"Seegräben (ZH)",
-120,33.2,33.2,66.8,"Wald (ZH)",
-121,32.2,32.2,67.8,"Wetzikon (ZH)",
-131,34.9,34.9,65.1,"Adliswil (ZH)",
-135,27.7,27.7,72.3,"Kilchberg (ZH)",
-136,28.8,28.8,71.2,"Langnau am Albis (ZH)",
-137,31,31,69,"Oberrieden (ZH)",
-138,35.9,35.9,64.1,"Richterswil (ZH)",
-139,28.5,28.5,71.5,"Rüschlikon (ZH)",
-141,50,0,0,"Thalwil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-151,23.7,23.7,76.3,"Erlenbach (ZH)",
-152,21.3,21.3,78.7,"Herrliberg (ZH)",
-153,27.2,27.2,72.8,"Hombrechtikon (ZH)",
-154,25.2,25.2,74.8,"Küsnacht (ZH)",
-155,33.6,33.6,66.4,"Männedorf (ZH)",
-156,26.9,26.9,73.1,"Meilen (ZH)",
-157,25.7,25.7,74.3,"Oetwil am See (ZH)",
-158,31.1,31.1,68.9,"Stäfa (ZH)",
-159,31.3,31.3,68.7,"Uetikon am See (ZH)",
-160,20.3,20.3,79.7,"Zumikon (ZH)",
-161,26.8,26.8,73.2,"Zollikon (ZH)",
-172,28.1,28.1,71.9,"Fehraltorf (ZH)",
-173,26.9,26.9,73.1,"Hittnau (ZH)",
-176,25.2,25.2,74.8,"Lindau (ZH)",
-177,32.8,32.8,67.2,"Pfäffikon (ZH)",
-178,24.8,24.8,75.2,"Russikon (ZH)",
-180,26.1,26.1,73.9,"Weisslingen (ZH)",
-181,25.7,25.7,74.3,"Wila (ZH)",
-182,22.7,22.7,77.3,"Wildberg (ZH)",
-191,32.2,32.2,67.8,"Dübendorf (ZH)",
-192,28.4,28.4,71.6,"Egg (ZH)",
-193,30,30,70,"Fällanden (ZH)",
-194,33,33,67,"Greifensee (ZH)",
-195,24.8,24.8,75.2,"Maur (ZH)",
-196,29.3,29.3,70.7,"Mönchaltorf (ZH)",
-197,31.4,31.4,68.6,"Schwerzenbach (ZH)",
-198,36.4,36.4,63.6,"Uster (ZH)",
-199,26.9,26.9,73.1,"Volketswil (ZH)",
-200,26.8,26.8,73.2,"Wangen-Brüttisellen (ZH)",
-211,24.3,24.3,75.7,"Altikon (ZH)",
-213,23.5,23.5,76.5,"Brütten (ZH)",
-214,27.3,27.3,72.7,"Dägerlen (ZH)",
-215,23.2,23.2,76.8,"Dättlikon (ZH)",
-216,25.5,25.5,74.5,"Dinhard (ZH)",
-218,28.1,28.1,71.9,"Ellikon an der Thur (ZH)",
-219,30.3,30.3,69.7,"Elsau (ZH)",
-220,31.2,31.2,68.8,"Hagenbuch (ZH)",
-221,28,28,72,"Hettlingen (ZH)",
-223,27.5,27.5,72.5,"Neftenbach (ZH)",
-224,29,29,71,"Pfungen (ZH)",
-225,26.9,26.9,73.1,"Rickenbach (ZH)",
-226,34.6,34.6,65.4,"Schlatt (ZH)",
-227,26,26,74,"Seuzach (ZH)",
-228,31.5,31.5,68.5,"Turbenthal (ZH)",
-230,44.2,44.2,55.8,"Winterthour (ZH)",
-231,33.3,33.3,66.7,"Zell (ZH)",
-241,21.5,21.5,78.5,"Aesch (ZH)",
-242,30.2,30.2,69.8,"Birmensdorf (ZH)",
-243,37.7,37.7,62.3,"Dietikon (ZH)",
-244,26.2,26.2,73.8,"Geroldswil (ZH)",
-245,33.1,33.1,66.9,"Oberengstringen (ZH)",
-246,26.2,26.2,73.8,"Oetwil an der Limmat (ZH)",
-247,37.9,37.9,62.1,"Schlieren (ZH)",
-248,22.3,22.3,77.7,"Uitikon (ZH)",
-249,25.5,25.5,74.5,"Unterengstringen (ZH)",
-250,33.3,33.3,66.7,"Urdorf (ZH)",
-251,29.6,29.6,70.4,"Weiningen (ZH)",
-261,50,0,0,"Zurich (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-291,25,25,75,"Andelfingen (ZH)",
-292,28.8,28.8,71.2,"Stammheim (ZH)",
-293,34.9,34.9,65.1,"Wädenswil (ZH)",
-294,31.4,31.4,68.6,"Elgg (ZH)",
-295,32,32,68,"Horgen (ZH)",
-296,32.9,32.9,67.1,"Illnau-Effretikon (ZH)",
-297,24.3,24.3,75.7,"Bauma (ZH)",
-298,27.9,27.9,72.1,"Wiesendangen (ZH)",
+1,28.7,28.7,71.3,"Aeugst am Albis (ZH)","NA NA"
+2,32.9,32.9,67.1,"Affoltern am Albis (ZH)","NA NA"
+3,30,30,70,"Bonstetten (ZH)","NA NA"
+4,32.8,32.8,67.2,"Hausen am Albis (ZH)","NA NA"
+5,35.6,35.6,64.4,"Hedingen (ZH)","NA NA"
+6,24.9,24.9,75.1,"Kappel am Albis (ZH)","NA NA"
+7,31.5,31.5,68.5,"Knonau (ZH)","NA NA"
+8,30.6,30.6,69.4,"Maschwanden (ZH)","NA NA"
+9,30.6,30.6,69.4,"Mettmenstetten (ZH)","NA NA"
+10,31.8,31.8,68.2,"Obfelden (ZH)","NA NA"
+11,29.7,29.7,70.3,"Ottenbach (ZH)","NA NA"
+12,42.2,42.2,57.8,"Rifferswil (ZH)","NA NA"
+13,28.1,28.1,71.9,"Stallikon (ZH)","NA NA"
+14,26.7,26.7,73.3,"Wettswil am Albis (ZH)","NA NA"
+22,21.6,21.6,78.4,"Benken (ZH)","NA NA"
+23,20.8,20.8,79.2,"Berg am Irchel (ZH)","NA NA"
+24,21.8,21.8,78.2,"Buch am Irchel (ZH)","NA NA"
+25,36.9,36.9,63.1,"Dachsen (ZH)","NA NA"
+26,20.8,20.8,79.2,"Dorf (ZH)","NA NA"
+27,34.7,34.7,65.3,"Feuerthalen (ZH)","NA NA"
+28,22.2,22.2,77.8,"Flaach (ZH)","NA NA"
+29,33.4,33.4,66.6,"Flurlingen (ZH)","NA NA"
+31,28.4,28.4,71.6,"Henggart (ZH)","NA NA"
+33,26.8,26.8,73.2,"Kleinandelfingen (ZH)","NA NA"
+34,30,30,70,"Laufen-Uhwiesen (ZH)","NA NA"
+35,24.9,24.9,75.1,"Marthalen (ZH)","NA NA"
+37,29.1,29.1,70.9,"Ossingen (ZH)","NA NA"
+38,34.1,34.1,65.9,"Rheinau (ZH)","NA NA"
+39,26.5,26.5,73.5,"Thalheim an der Thur (ZH)","NA NA"
+40,27.9,27.9,72.1,"Trüllikon (ZH)","NA NA"
+41,25.4,25.4,74.6,"Truttikon (ZH)","NA NA"
+43,20.8,20.8,79.2,"Volken (ZH)","NA NA"
+51,31.6,31.6,68.4,"Bachenbülach (ZH)","NA NA"
+52,31.2,31.2,68.8,"Bassersdorf (ZH)","NA NA"
+53,33.2,33.2,66.8,"Bülach (ZH)","NA NA"
+54,31.4,31.4,68.6,"Dietlikon (ZH)","NA NA"
+55,30.4,30.4,69.6,"Eglisau (ZH)","NA NA"
+56,26.5,26.5,73.5,"Embrach (ZH)","NA NA"
+57,23.7,23.7,76.3,"Freienstein-Teufen (ZH)","NA NA"
+58,27.8,27.8,72.2,"Glattfelden (ZH)","NA NA"
+59,24.3,24.3,75.7,"Hochfelden (ZH)","NA NA"
+60,28.3,28.3,71.7,"Höri (ZH)","NA NA"
+61,28.6,28.6,71.4,"Hüntwangen (ZH)","NA NA"
+62,32,32,68,"Kloten (ZH)","NA NA"
+63,23.8,23.8,76.2,"Lufingen (ZH)","NA NA"
+64,22.9,22.9,77.1,"Nürensdorf (ZH)","NA NA"
+65,23.3,23.3,76.7,"Oberembrach (ZH)","NA NA"
+66,33.7,33.7,66.3,"Opfikon (ZH)","NA NA"
+67,31.3,31.3,68.7,"Rafz (ZH)","NA NA"
+68,29.3,29.3,70.7,"Rorbas (ZH)","NA NA"
+69,32.8,32.8,67.2,"Wallisellen (ZH)","NA NA"
+70,28.8,28.8,71.2,"Wasterkingen (ZH)","NA NA"
+71,25.6,25.6,74.4,"Wil (ZH)","NA NA"
+72,22.6,22.6,77.4,"Winkel (ZH)","NA NA"
+81,23.6,23.6,76.4,"Bachs (ZH)","NA NA"
+82,23.4,23.4,76.6,"Boppelsen (ZH)","NA NA"
+83,25.3,25.3,74.7,"Buchs (ZH)","NA NA"
+84,26.5,26.5,73.5,"Dällikon (ZH)","NA NA"
+85,26.4,26.4,73.6,"Dänikon (ZH)","NA NA"
+86,30.2,30.2,69.8,"Dielsdorf (ZH)","NA NA"
+87,23.3,23.3,76.7,"Hüttikon (ZH)","NA NA"
+88,24.4,24.4,75.6,"Neerach (ZH)","NA NA"
+89,25.4,25.4,74.6,"Niederglatt (ZH)","NA NA"
+90,26.5,26.5,73.5,"Niederhasli (ZH)","NA NA"
+91,32.3,32.3,67.7,"Niederweningen (ZH)","NA NA"
+92,32.3,32.3,67.7,"Oberglatt (ZH)","NA NA"
+93,29.6,29.6,70.4,"Oberweningen (ZH)","NA NA"
+94,26.9,26.9,73.1,"Otelfingen (ZH)","NA NA"
+95,28.8,28.8,71.2,"Regensberg (ZH)","NA NA"
+96,29.6,29.6,70.4,"Regensdorf (ZH)","NA NA"
+97,28,28,72,"Rümlang (ZH)","NA NA"
+98,31.2,31.2,68.8,"Schleinikon (ZH)","NA NA"
+99,27.3,27.3,72.7,"Schöfflisdorf (ZH)","NA NA"
+100,23.6,23.6,76.4,"Stadel (ZH)","NA NA"
+101,26.1,26.1,73.9,"Steinmaur (ZH)","NA NA"
+102,24.4,24.4,75.6,"Weiach (ZH)","NA NA"
+111,25.9,25.9,74.1,"Bäretswil (ZH)","NA NA"
+112,30.2,30.2,69.8,"Bubikon (ZH)","NA NA"
+113,28.3,28.3,71.7,"Dürnten (ZH)","NA NA"
+114,22.1,22.1,77.9,"Fischenthal (ZH)","NA NA"
+115,26.5,26.5,73.5,"Gossau (ZH)","NA NA"
+116,23.7,23.7,76.3,"Grüningen (ZH)","NA NA"
+117,27.3,27.3,72.7,"Hinwil (ZH)","NA NA"
+118,32.1,32.1,67.9,"Rüti (ZH)","NA NA"
+119,30.8,30.8,69.2,"Seegräben (ZH)","NA NA"
+120,33.2,33.2,66.8,"Wald (ZH)","NA NA"
+121,32.2,32.2,67.8,"Wetzikon (ZH)","NA NA"
+131,34.9,34.9,65.1,"Adliswil (ZH)","NA NA"
+135,27.7,27.7,72.3,"Kilchberg (ZH)","NA NA"
+136,28.8,28.8,71.2,"Langnau am Albis (ZH)","NA NA"
+137,31,31,69,"Oberrieden (ZH)","NA NA"
+138,35.9,35.9,64.1,"Richterswil (ZH)","NA NA"
+139,28.5,28.5,71.5,"Rüschlikon (ZH)","NA NA"
+141,36.1,36.1,63.9,"Thalwil (ZH)","NA NA"
+151,23.7,23.7,76.3,"Erlenbach (ZH)","NA NA"
+152,21.3,21.3,78.7,"Herrliberg (ZH)","NA NA"
+153,27.2,27.2,72.8,"Hombrechtikon (ZH)","NA NA"
+154,25.2,25.2,74.8,"Küsnacht (ZH)","NA NA"
+155,33.6,33.6,66.4,"Männedorf (ZH)","NA NA"
+156,26.9,26.9,73.1,"Meilen (ZH)","NA NA"
+157,25.7,25.7,74.3,"Oetwil am See (ZH)","NA NA"
+158,31.1,31.1,68.9,"Stäfa (ZH)","NA NA"
+159,31.3,31.3,68.7,"Uetikon am See (ZH)","NA NA"
+160,20.3,20.3,79.7,"Zumikon (ZH)","NA NA"
+161,26.8,26.8,73.2,"Zollikon (ZH)","NA NA"
+172,28.1,28.1,71.9,"Fehraltorf (ZH)","NA NA"
+173,26.9,26.9,73.1,"Hittnau (ZH)","NA NA"
+176,25.2,25.2,74.8,"Lindau (ZH)","NA NA"
+177,32.8,32.8,67.2,"Pfäffikon (ZH)","NA NA"
+178,24.8,24.8,75.2,"Russikon (ZH)","NA NA"
+180,26.1,26.1,73.9,"Weisslingen (ZH)","NA NA"
+181,25.7,25.7,74.3,"Wila (ZH)","NA NA"
+182,22.7,22.7,77.3,"Wildberg (ZH)","NA NA"
+191,32.2,32.2,67.8,"Dübendorf (ZH)","NA NA"
+192,28.4,28.4,71.6,"Egg (ZH)","NA NA"
+193,30,30,70,"Fällanden (ZH)","NA NA"
+194,33,33,67,"Greifensee (ZH)","NA NA"
+195,24.8,24.8,75.2,"Maur (ZH)","NA NA"
+196,29.3,29.3,70.7,"Mönchaltorf (ZH)","NA NA"
+197,31.4,31.4,68.6,"Schwerzenbach (ZH)","NA NA"
+198,36.4,36.4,63.6,"Uster (ZH)","NA NA"
+199,26.9,26.9,73.1,"Volketswil (ZH)","NA NA"
+200,26.8,26.8,73.2,"Wangen-Brüttisellen (ZH)","NA NA"
+211,24.3,24.3,75.7,"Altikon (ZH)","NA NA"
+213,23.5,23.5,76.5,"Brütten (ZH)","NA NA"
+214,27.3,27.3,72.7,"Dägerlen (ZH)","NA NA"
+215,23.2,23.2,76.8,"Dättlikon (ZH)","NA NA"
+216,25.5,25.5,74.5,"Dinhard (ZH)","NA NA"
+218,28.1,28.1,71.9,"Ellikon an der Thur (ZH)","NA NA"
+219,30.3,30.3,69.7,"Elsau (ZH)","NA NA"
+220,31.2,31.2,68.8,"Hagenbuch (ZH)","NA NA"
+221,28,28,72,"Hettlingen (ZH)","NA NA"
+223,27.5,27.5,72.5,"Neftenbach (ZH)","NA NA"
+224,29,29,71,"Pfungen (ZH)","NA NA"
+225,26.9,26.9,73.1,"Rickenbach (ZH)","NA NA"
+226,34.6,34.6,65.4,"Schlatt (ZH)","NA NA"
+227,26,26,74,"Seuzach (ZH)","NA NA"
+228,31.5,31.5,68.5,"Turbenthal (ZH)","NA NA"
+230,44.2,44.2,55.8,"Winterthour (ZH)","NA NA"
+231,33.3,33.3,66.7,"Zell (ZH)","NA NA"
+241,21.5,21.5,78.5,"Aesch (ZH)","NA NA"
+242,30.2,30.2,69.8,"Birmensdorf (ZH)","NA NA"
+243,37.7,37.7,62.3,"Dietikon (ZH)","NA NA"
+244,26.2,26.2,73.8,"Geroldswil (ZH)","NA NA"
+245,33.1,33.1,66.9,"Oberengstringen (ZH)","NA NA"
+246,26.2,26.2,73.8,"Oetwil an der Limmat (ZH)","NA NA"
+247,37.9,37.9,62.1,"Schlieren (ZH)","NA NA"
+248,22.3,22.3,77.7,"Uitikon (ZH)","NA NA"
+249,25.5,25.5,74.5,"Unterengstringen (ZH)","NA NA"
+250,33.3,33.3,66.7,"Urdorf (ZH)","NA NA"
+251,29.6,29.6,70.4,"Weiningen (ZH)","NA NA"
+261,49.9,49.9,50.1,"Zurich (ZH)",
+291,25,25,75,"Andelfingen (ZH)","NA NA"
+292,28.8,28.8,71.2,"Stammheim (ZH)","NA NA"
+293,34.9,34.9,65.1,"Wädenswil (ZH)","NA NA"
+294,31.4,31.4,68.6,"Elgg (ZH)","NA NA"
+295,32,32,68,"Horgen (ZH)","NA NA"
+296,32.9,32.9,67.1,"Illnau-Effretikon (ZH)","NA NA"
+297,24.3,24.3,75.7,"Bauma (ZH)","NA NA"
+298,27.9,27.9,72.1,"Wiesendangen (ZH)","NA NA"
