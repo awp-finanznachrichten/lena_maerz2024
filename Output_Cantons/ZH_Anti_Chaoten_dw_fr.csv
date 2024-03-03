@@ -1,6 +1,6 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
 1,50,0,0,"Aeugst am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-2,50,0,0,"Affoltern am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+2,44.3,44.3,55.7,"Affoltern am Albis (ZH)",
 3,50,0,0,"Bonstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 4,38.7,38.7,61.3,"Hausen am Albis (ZH)",
 5,39.5,39.5,60.5,"Hedingen (ZH)",
@@ -107,7 +107,7 @@
 172,50,0,0,"Fehraltorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 173,50,0,0,"Hittnau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 176,50,0,0,"Lindau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-177,50,0,0,"Pfäffikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+177,42.3,42.3,57.7,"Pfäffikon (ZH)",
 178,50,0,0,"Russikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 180,50,0,0,"Weisslingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 181,50,0,0,"Wila (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -126,7 +126,7 @@
 213,50,0,0,"Brütten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 214,51.4,51.4,48.6,"Dägerlen (ZH)",
 215,38.3,38.3,61.7,"Dättlikon (ZH)",
-216,50,0,0,"Dinhard (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+216,49.2,49.2,50.8,"Dinhard (ZH)",
 218,50,0,0,"Ellikon an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 219,50,0,0,"Elsau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 220,51.5,51.5,48.5,"Hagenbuch (ZH)",
