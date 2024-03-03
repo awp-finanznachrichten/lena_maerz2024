@@ -1,5 +1,5 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende","Text_de","Text_fr","Text_it"
-3,"Luzern","Lucerne","Lucerna",45.9,54.1,0,80,79,"79/80","Es sind <b>79 von 80</b> Gemeinden ausgezählt.","Le résultats de <b>79 des 80 communes sont connus.","I risultati di <b>79 dei 80 comuni sono noti."
+3,"Luzern","Lucerne","Lucerna",46.6,53.4,46.6,80,80,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
 4,"Uri","Uri","Uri",43.6,56.4,43.6,19,19,,"Es sind alle Gemeinden ausgezählt.","Toutes les communes sont connues.","Tutti i comuni sono noti."
 5,"Schwyz","Schwyz","Svitto",42.4,57.6,0,30,23,"23/30","Es sind <b>23 von 30</b> Gemeinden ausgezählt.","Le résultats de <b>23 des 30 communes sont connus.","I risultati di <b>23 dei 30 comuni sono noti."
 6,"Obwalden","Obwald","Obvaldo",39.3,60.7,0,7,6,"6/7","Es sind <b>6 von 7</b> Gemeinden ausgezählt.","Le résultats de <b>6 des 7 communes sont connus.","I risultati di <b>6 dei 7 comuni sono noti."
