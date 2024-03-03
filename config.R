@@ -145,5 +145,3 @@ gitpush <- function(dir = getwd()){
   cmd <- paste(unlist(cmd_list),collapse = " & ")
   shell(cmd)
 }
-
-

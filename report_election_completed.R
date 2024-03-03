@@ -14,7 +14,7 @@ Body <- paste0("Liebes Keystone-SDA-Team,\n\n",
                "Liebe Grüsse\n\nLENA")
 send_notification(Subject,
                   Body,
-                  paste0(DEFAULT_MAILS,",inland@keystone-ats.ch,suisse@keystone-ats.ch"))
+                  paste0(DEFAULT_MAILS,",inland@keystone-sda.ch,suisse@keystone-ats.ch"))
 
 mail_sent_report <- TRUE
 write_rds(mail_sent_report,"mail_sent_report.RDS")
