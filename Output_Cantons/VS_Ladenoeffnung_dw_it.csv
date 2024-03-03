@@ -15,16 +15,16 @@
 6033,23.6,23.6,76.4,"Liddes VS",
 6034,31.6,31.6,68.4,"Orsières VS",
 6035,21.1,21.1,78.9,"Sembrancher VS",
-6037,50,0,0,"Val de Bagnes VS","I risultati di questo comune non sono ancora noti."
+6037,40.4,40.4,59.6,"Val de Bagnes VS",
 6052,27.8,27.8,72.2,"Bellwald VS",
 6054,37.9,37.9,62.1,"Binn VS",
-6056,50,0,0,"Ernen VS","I risultati di questo comune non sono ancora noti."
+6056,31.3,31.3,68.7,"Ernen VS",
 6057,26,26,74,"Fiesch VS",
 6058,17.2,17.2,82.8,"Fieschertal VS",
 6061,38.2,38.2,61.8,"Lax VS",
 6076,40.6,40.6,59.4,"Obergoms VS",
 6077,34.2,34.2,65.8,"Goms VS",
-6082,50,0,0,"Ayent VS","I risultati di questo comune non sono ancora noti."
+6082,31.7,31.7,68.3,"Ayent VS",
 6083,39.6,39.6,60.4,"Evolène VS",
 6084,43.9,43.9,56.1,"Hérémence VS",
 6087,26.8,26.8,73.2,"Saint-Martin VS",
@@ -37,8 +37,8 @@
 6110,32.1,32.1,67.9,"Leuk VS",
 6111,50,0,0,"Leukerbad VS","I risultati di questo comune non sono ancora noti."
 6112,17.7,17.7,82.3,"Oberems VS",
-6113,50,0,0,"Salgesch VS","I risultati di questo comune non sono ancora noti."
-6116,50,0,0,"Varen VS","I risultati di questo comune non sono ancora noti."
+6113,33.7,33.7,66.3,"Salgesch VS",
+6116,28.1,28.1,71.9,"Varen VS",
 6117,29,29,71,"Guttet-Feschel VS",
 6118,26.9,26.9,73.1,"Gampel-Bratsch VS",
 6119,28.9,28.9,71.1,"Turtmann-Unterems VS",
@@ -48,21 +48,21 @@
 6135,34.6,34.6,65.4,"Leytron VS",
 6136,34.5,34.5,65.5,"Martigny VS",
 6137,32.3,32.3,67.7,"Martigny-Combe VS",
-6139,50,0,0,"Riddes VS","I risultati di questo comune non sono ancora noti."
+6139,33.5,33.5,66.5,"Riddes VS",
 6140,37.3,37.3,62.7,"Saillon VS",
 6141,31.2,31.2,68.8,"Saxon VS",
 6142,43.8,43.8,56.2,"Trient VS",
 6151,52.1,52.1,47.9,"Champéry VS",
-6152,50,0,0,"Collombey-Muraz VS","I risultati di questo comune non sono ancora noti."
-6153,50,0,0,"Monthey VS","I risultati di questo comune non sono ancora noti."
-6154,50,0,0,"Port-Valais VS","I risultati di questo comune non sono ancora noti."
+6152,37,37,63,"Collombey-Muraz VS",
+6153,38.2,38.2,61.8,"Monthey VS",
+6154,51.6,51.6,48.4,"Port-Valais VS",
 6155,50,0,0,"Saint-Gingolph VS","I risultati di questo comune non sono ancora noti."
 6156,37.9,37.9,62.1,"Troistorrents VS",
-6157,50,0,0,"Val-d'Illiez VS","I risultati di questo comune non sono ancora noti."
+6157,32.7,32.7,67.3,"Val-d'Illiez VS",
 6158,45.6,45.6,54.4,"Vionnaz VS",
 6159,44.1,44.1,55.9,"Vouvry VS",
 6172,13.6,13.6,86.4,"Bister VS",
-6173,50,0,0,"Bitsch VS","I risultati di questo comune non sono ancora noti."
+6173,70.1,70.1,29.9,"Bitsch VS",
 6177,17.5,17.5,82.5,"Grengiols VS",
 6181,32.7,32.7,67.3,"Riederalp VS",
 6191,22.8,22.8,77.2,"Ausserberg VS",
@@ -80,20 +80,20 @@
 6205,40.9,40.9,59.1,"Bettmeralp VS",
 6211,22.1,22.1,77.9,"Collonges VS",
 6212,35.9,35.9,64.1,"Dorénaz VS",
-6213,50,0,0,"Evionnaz VS","I risultati di questo comune non sono ancora noti."
+6213,23.5,23.5,76.5,"Evionnaz VS",
 6214,29.4,29.4,70.6,"Finhaut VS",
 6215,32.7,32.7,67.3,"Massongex VS",
 6217,32.5,32.5,67.5,"Saint-Maurice VS",
-6218,50,0,0,"Salvan VS","I risultati di questo comune non sono ancora noti."
+6218,31.8,31.8,68.2,"Salvan VS",
 6219,27.4,27.4,72.6,"Vernayaz VS",
-6220,50,0,0,"Vérossaz VS","I risultati di questo comune non sono ancora noti."
+6220,34.9,34.9,65.1,"Vérossaz VS",
 6232,33,33,67,"Chalais VS",
 6235,29,29,71,"Chippis VS",
 6238,26.7,26.7,73.3,"Grône VS",
 6239,46.6,46.6,53.4,"Icogne VS",
 6240,45.9,45.9,54.1,"Lens VS",
 6246,31.9,31.9,68.1,"Saint-Léonard VS",
-6248,50,0,0,"Siders VS","I risultati di questo comune non sono ancora noti."
+6248,34.1,34.1,65.9,"Siders VS",
 6252,41.6,41.6,58.4,"Anniviers VS",
 6253,50.1,50.1,49.9,"Crans-Montana VS",
 6254,50,0,0,"Noble-Contrée VS","I risultati di questo comune non sono ancora noti."
@@ -112,7 +112,7 @@
 6289,24.1,24.1,75.9,"Saas-Balen VS",
 6290,49.3,49.3,50.7,"Saas-Fee VS",
 6291,34.3,34.3,65.7,"Saas-Grund VS",
-6292,50,0,0,"St. Niklaus VS","I risultati di questo comune non sono ancora noti."
+6292,29.9,29.9,70.1,"St. Niklaus VS",
 6293,26.2,26.2,73.8,"Stalden VS",
 6294,19.3,19.3,80.7,"Staldenried VS",
 6295,36.1,36.1,63.9,"Täsch VS",
