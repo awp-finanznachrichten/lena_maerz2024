@@ -1,5 +1,5 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_fr","Text_fr"
-1,50,0,0,"Aeugst am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+1,28.7,28.7,71.3,"Aeugst am Albis (ZH)",
 2,32.9,32.9,67.1,"Affoltern am Albis (ZH)",
 3,30,30,70,"Bonstetten (ZH)",
 4,32.8,32.8,67.2,"Hausen am Albis (ZH)",
@@ -34,7 +34,7 @@
 51,31.6,31.6,68.4,"Bachenbülach (ZH)",
 52,50,0,0,"Bassersdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 53,50,0,0,"Bülach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-54,50,0,0,"Dietlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+54,31.4,31.4,68.6,"Dietlikon (ZH)",
 55,30.4,30.4,69.6,"Eglisau (ZH)",
 56,50,0,0,"Embrach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 57,23.7,23.7,76.3,"Freienstein-Teufen (ZH)",
@@ -94,7 +94,7 @@
 139,50,0,0,"Rüschlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 141,50,0,0,"Thalwil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 151,23.7,23.7,76.3,"Erlenbach (ZH)",
-152,50,0,0,"Herrliberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+152,21.3,21.3,78.7,"Herrliberg (ZH)",
 153,50,0,0,"Hombrechtikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 154,50,0,0,"Küsnacht (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 155,50,0,0,"Männedorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -127,7 +127,7 @@
 214,27.3,27.3,72.7,"Dägerlen (ZH)",
 215,23.2,23.2,76.8,"Dättlikon (ZH)",
 216,25.5,25.5,74.5,"Dinhard (ZH)",
-218,50,0,0,"Ellikon an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+218,28.1,28.1,71.9,"Ellikon an der Thur (ZH)",
 219,50,0,0,"Elsau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 220,31.2,31.2,68.8,"Hagenbuch (ZH)",
 221,28,28,72,"Hettlingen (ZH)",
@@ -151,7 +151,7 @@
 250,50,0,0,"Urdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 251,29.6,29.6,70.4,"Weiningen (ZH)",
 261,50,0,0,"Zurich (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-291,50,0,0,"Andelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+291,25,25,75,"Andelfingen (ZH)",
 292,28.8,28.8,71.2,"Stammheim (ZH)",
 293,50,0,0,"Wädenswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 294,31.4,31.4,68.6,"Elgg (ZH)",

@@ -71,4 +71,10 @@ Nidwalden, Glarus, Appenzell Innerrhoden, Graubünden, Nidwalden,
 Nidwalden, Glarus, Appenzell Innerrhoden, Graubünden, Nidwalden, 
 
 2024-03-03 13:10:17 AHV_Renteninitiative
-Nidwalden, Glarus, Appenzell Innerrhoden, Graubünden, 
+Nidwalden, Glarus, Appenzell Innerrhoden, Graubünden, Nidwalden, 
+
+2024-03-03 13:13:58 AHV_13Rente
+Nidwalden, Glarus, Appenzell Innerrhoden, Graubünden, Neuenburg, Nidwalden, 
+
+2024-03-03 13:14:33 AHV_Renteninitiative
+Nidwalden, Glarus, Appenzell Innerrhoden, Graubünden, Neuenburg, 
