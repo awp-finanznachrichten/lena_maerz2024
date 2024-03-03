@@ -152,4 +152,10 @@ Luzern, Uri, Obwalden, Nidwalden,
 Luzern, Uri, Obwalden, Nidwalden, Glarus, Freiburg, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, Luzern, Uri, Obwalden, Nidwalden, 
 
 2024-03-03 14:21:01 AHV_Renteninitiative
-Luzern, Uri, Obwalden, Nidwalden, Glarus, Freiburg, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, 
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Freiburg, Solothurn, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, Luzern, Uri, Obwalden, Nidwalden, 
+
+2024-03-03 14:25:53 AHV_13Rente
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Freiburg, Solothurn, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, Luzern, Uri, Obwalden, Nidwalden, 
+
+2024-03-03 14:26:40 AHV_Renteninitiative
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Freiburg, Solothurn, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Neuenburg, Jura, 
