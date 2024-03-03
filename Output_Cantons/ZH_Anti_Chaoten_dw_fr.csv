@@ -16,7 +16,7 @@
 22,46.9,46.9,53.1,"Benken (ZH)",
 23,48.6,48.6,51.4,"Berg am Irchel (ZH)",
 24,49.9,49.9,50.1,"Buch am Irchel (ZH)",
-25,50,0,0,"Dachsen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+25,40.3,40.3,59.7,"Dachsen (ZH)",
 26,51.2,51.2,48.8,"Dorf (ZH)",
 27,50,0,0,"Feuerthalen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 28,51.3,51.3,48.7,"Flaach (ZH)",
@@ -48,7 +48,7 @@
 65,55.9,55.9,44.1,"Oberembrach (ZH)",
 66,50,0,0,"Opfikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 67,47.1,47.1,52.9,"Rafz (ZH)",
-68,50,0,0,"Rorbas (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+68,48,48,52,"Rorbas (ZH)",
 69,50,0,0,"Wallisellen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 70,47.4,47.4,52.6,"Wasterkingen (ZH)",
 71,44.3,44.3,55.7,"Wil (ZH)",
@@ -58,7 +58,7 @@
 83,48.5,48.5,51.5,"Buchs (ZH)",
 84,52.6,52.6,47.4,"Dällikon (ZH)",
 85,48.2,48.2,51.8,"Dänikon (ZH)",
-86,50,0,0,"Dielsdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+86,49,49,51,"Dielsdorf (ZH)",
 87,49.8,49.8,50.2,"Hüttikon (ZH)",
 88,50,0,0,"Neerach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 89,50,0,0,"Niederglatt (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -76,8 +76,8 @@
 101,49.3,49.3,50.7,"Steinmaur (ZH)",
 102,53.5,53.5,46.5,"Weiach (ZH)",
 111,50,0,0,"Bäretswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-112,50,0,0,"Bubikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-113,50,0,0,"Dürnten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+112,45.8,45.8,54.2,"Bubikon (ZH)",
+113,47.7,47.7,52.3,"Dürnten (ZH)",
 114,50,0,0,"Fischenthal (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 115,50,0,0,"Gossau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 116,50,0,0,"Grüningen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -157,5 +157,5 @@
 294,42.5,42.5,57.5,"Elgg (ZH)",
 295,50,0,0,"Horgen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 296,50,0,0,"Illnau-Effretikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-297,50,0,0,"Bauma (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-298,50,0,0,"Wiesendangen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+297,50.7,50.7,49.3,"Bauma (ZH)",
+298,45.2,45.2,54.8,"Wiesendangen (ZH)",
