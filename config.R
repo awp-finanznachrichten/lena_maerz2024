@@ -20,7 +20,7 @@ cat("Benoetigte Bibliotheken geladen\n")
 abstimmung_date <- "Maerz2024"
 
 #Mail
-DEFAULT_MAILS <- "sw@awp.ch"
+DEFAULT_MAILS <- "ontentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
 
 res <- GET("https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20240303-eidgAbstimmung.json")
 json_data <- fromJSON(rawToChar(res$content), flatten = TRUE)
