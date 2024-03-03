@@ -95,4 +95,12 @@ Nidwalden, Glarus, Appenzell Innerrhoden, Graubünden, Neuenburg, Nidwalden,
 Nidwalden, Glarus, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Neuenburg, Nidwalden, 
 
 2024-03-03 13:35:32 AHV_Renteninitiative
-Nidwalden, Glarus, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Neuenburg, 
+Nidwalden, Glarus, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Neuenburg, Uri, Nidwalden, 
+
+2024-03-03 13:39:23 AHV_13Rente
+Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Neuenburg, Jura, Uri, Nidwalden, 
+
+2024-03-03 13:39:59 AHV_Renteninitiative
+Uri, Nidwalden, Glarus, Solothurn, Schaffhausen, Appenzell Innerrhoden, Graubünden, Aargau, Neuenburg, Jura, 
+
+2024-03-03 13:41:07 Kantonale Abstimmungen SO
