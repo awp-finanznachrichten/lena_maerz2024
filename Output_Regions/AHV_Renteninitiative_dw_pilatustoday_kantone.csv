@@ -1,5 +1,5 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende","Text_de","Text_fr","Text_it"
-3,"Luzern","Lucerne","Lucerna",26.9,73.1,0,80,59,"59/80","Es sind noch keine Gemeinden ausgezählt","Aucun résultat n'est encore connu.","Nessun risultato è ancora noto."
+3,"Luzern","Lucerne","Lucerna",27,73,0,80,69,"69/80","Es sind noch keine Gemeinden ausgezählt","Aucun résultat n'est encore connu.","Nessun risultato è ancora noto."
 4,"Uri","Uri","Uri",0,0,50,19,0,"0/19","Es sind noch keine Gemeinden ausgezählt","Aucun résultat n'est encore connu.","Nessun risultato è ancora noto."
 5,"Schwyz","Schwyz","Svitto",28.2,71.8,0,30,5,"5/30","Es sind noch keine Gemeinden ausgezählt","Aucun résultat n'est encore connu.","Nessun risultato è ancora noto."
 6,"Obwalden","Obwald","Obvaldo",0,0,50,7,0,"0/7","Es sind noch keine Gemeinden ausgezählt","Aucun résultat n'est encore connu.","Nessun risultato è ancora noto."
