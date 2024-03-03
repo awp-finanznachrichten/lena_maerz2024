@@ -8,11 +8,11 @@
 7,31.5,31.5,68.5,"Knonau ZH",
 8,30.6,30.6,69.4,"Maschwanden ZH",
 9,50,0,0,"Mettmenstetten ZH","I risultati di questo comune non sono ancora noti."
-10,50,0,0,"Obfelden ZH","I risultati di questo comune non sono ancora noti."
+10,31.8,31.8,68.2,"Obfelden ZH",
 11,29.7,29.7,70.3,"Ottenbach ZH",
 12,42.2,42.2,57.8,"Rifferswil ZH",
 13,28.1,28.1,71.9,"Stallikon ZH",
-14,50,0,0,"Wettswil am Albis ZH","I risultati di questo comune non sono ancora noti."
+14,26.7,26.7,73.3,"Wettswil am Albis ZH",
 22,21.6,21.6,78.4,"Benken ZH",
 23,20.8,20.8,79.2,"Berg am Irchel ZH",
 24,21.8,21.8,78.2,"Buch am Irchel ZH",
@@ -22,7 +22,7 @@
 28,22.2,22.2,77.8,"Flaach ZH",
 29,50,0,0,"Flurlingen ZH","I risultati di questo comune non sono ancora noti."
 31,50,0,0,"Henggart ZH","I risultati di questo comune non sono ancora noti."
-33,50,0,0,"Kleinandelfingen ZH","I risultati di questo comune non sono ancora noti."
+33,26.8,26.8,73.2,"Kleinandelfingen ZH",
 34,30,30,70,"Laufen-Uhwiesen ZH",
 35,50,0,0,"Marthalen ZH","I risultati di questo comune non sono ancora noti."
 37,29.1,29.1,70.9,"Ossingen ZH",
@@ -47,7 +47,7 @@
 64,50,0,0,"Nürensdorf ZH","I risultati di questo comune non sono ancora noti."
 65,23.3,23.3,76.7,"Oberembrach ZH",
 66,50,0,0,"Opfikon ZH","I risultati di questo comune non sono ancora noti."
-67,50,0,0,"Rafz ZH","I risultati di questo comune non sono ancora noti."
+67,31.3,31.3,68.7,"Rafz ZH",
 68,50,0,0,"Rorbas ZH","I risultati di questo comune non sono ancora noti."
 69,50,0,0,"Wallisellen ZH","I risultati di questo comune non sono ancora noti."
 70,28.8,28.8,71.2,"Wasterkingen ZH",
@@ -63,8 +63,8 @@
 88,50,0,0,"Neerach ZH","I risultati di questo comune non sono ancora noti."
 89,50,0,0,"Niederglatt ZH","I risultati di questo comune non sono ancora noti."
 90,50,0,0,"Niederhasli ZH","I risultati di questo comune non sono ancora noti."
-91,50,0,0,"Niederweningen ZH","I risultati di questo comune non sono ancora noti."
-92,50,0,0,"Oberglatt ZH","I risultati di questo comune non sono ancora noti."
+91,32.3,32.3,67.7,"Niederweningen ZH",
+92,32.3,32.3,67.7,"Oberglatt ZH",
 93,29.6,29.6,70.4,"Oberweningen ZH",
 94,50,0,0,"Otelfingen ZH","I risultati di questo comune non sono ancora noti."
 95,28.8,28.8,71.2,"Regensberg ZH",
@@ -111,7 +111,7 @@
 178,50,0,0,"Russikon ZH","I risultati di questo comune non sono ancora noti."
 180,50,0,0,"Weisslingen ZH","I risultati di questo comune non sono ancora noti."
 181,50,0,0,"Wila ZH","I risultati di questo comune non sono ancora noti."
-182,50,0,0,"Wildberg ZH","I risultati di questo comune non sono ancora noti."
+182,22.7,22.7,77.3,"Wildberg ZH",
 191,50,0,0,"Dübendorf ZH","I risultati di questo comune non sono ancora noti."
 192,50,0,0,"Egg ZH","I risultati di questo comune non sono ancora noti."
 193,50,0,0,"Fällanden ZH","I risultati di questo comune non sono ancora noti."
@@ -129,7 +129,7 @@
 216,50,0,0,"Dinhard ZH","I risultati di questo comune non sono ancora noti."
 218,50,0,0,"Ellikon an der Thur ZH","I risultati di questo comune non sono ancora noti."
 219,50,0,0,"Elsau ZH","I risultati di questo comune non sono ancora noti."
-220,50,0,0,"Hagenbuch ZH","I risultati di questo comune non sono ancora noti."
+220,31.2,31.2,68.8,"Hagenbuch ZH",
 221,28,28,72,"Hettlingen ZH",
 223,50,0,0,"Neftenbach ZH","I risultati di questo comune non sono ancora noti."
 224,50,0,0,"Pfungen ZH","I risultati di questo comune non sono ancora noti."
@@ -144,7 +144,7 @@
 243,50,0,0,"Dietikon ZH","I risultati di questo comune non sono ancora noti."
 244,50,0,0,"Geroldswil ZH","I risultati di questo comune non sono ancora noti."
 245,50,0,0,"Oberengstringen ZH","I risultati di questo comune non sono ancora noti."
-246,50,0,0,"Oetwil an der Limmat ZH","I risultati di questo comune non sono ancora noti."
+246,26.2,26.2,73.8,"Oetwil an der Limmat ZH",
 247,50,0,0,"Schlieren ZH","I risultati di questo comune non sono ancora noti."
 248,50,0,0,"Uitikon ZH","I risultati di questo comune non sono ancora noti."
 249,50,0,0,"Unterengstringen ZH","I risultati di questo comune non sono ancora noti."
@@ -154,7 +154,7 @@
 291,50,0,0,"Andelfingen ZH","I risultati di questo comune non sono ancora noti."
 292,28.8,28.8,71.2,"Stammheim ZH",
 293,50,0,0,"Wädenswil ZH","I risultati di questo comune non sono ancora noti."
-294,50,0,0,"Elgg ZH","I risultati di questo comune non sono ancora noti."
+294,31.4,31.4,68.6,"Elgg ZH",
 295,50,0,0,"Horgen ZH","I risultati di questo comune non sono ancora noti."
 296,50,0,0,"Illnau-Effretikon ZH","I risultati di questo comune non sono ancora noti."
 297,50,0,0,"Bauma ZH","I risultati di questo comune non sono ancora noti."

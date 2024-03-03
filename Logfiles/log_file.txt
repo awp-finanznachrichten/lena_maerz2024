@@ -41,4 +41,10 @@ Nidwalden,
 Nidwalden, Nidwalden, 
 
 2024-03-03 12:36:34 AHV_Renteninitiative
-Nidwalden, 
+Nidwalden, Nidwalden, 
+
+2024-03-03 12:47:18 AHV_13Rente
+Nidwalden, Glarus, Nidwalden, 
+
+2024-03-03 12:47:54 AHV_Renteninitiative
+Nidwalden, Glarus, 
