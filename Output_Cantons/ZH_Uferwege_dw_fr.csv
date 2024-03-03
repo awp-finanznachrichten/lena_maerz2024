@@ -2,10 +2,10 @@
 1,50,0,0,"Aeugst am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 2,50,0,0,"Affoltern am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 3,50,0,0,"Bonstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-4,50,0,0,"Hausen am Albis (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-5,50,0,0,"Hedingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+4,32.8,32.8,67.2,"Hausen am Albis (ZH)",
+5,35.6,35.6,64.4,"Hedingen (ZH)",
 6,24.9,24.9,75.1,"Kappel am Albis (ZH)",
-7,50,0,0,"Knonau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+7,31.5,31.5,68.5,"Knonau (ZH)",
 8,30.6,30.6,69.4,"Maschwanden (ZH)",
 9,50,0,0,"Mettmenstetten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 10,50,0,0,"Obfelden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -23,19 +23,19 @@
 29,50,0,0,"Flurlingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 31,50,0,0,"Henggart (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 33,50,0,0,"Kleinandelfingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-34,50,0,0,"Laufen-Uhwiesen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+34,30,30,70,"Laufen-Uhwiesen (ZH)",
 35,50,0,0,"Marthalen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 37,29.1,29.1,70.9,"Ossingen (ZH)",
 38,50,0,0,"Rheinau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 39,50,0,0,"Thalheim an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-40,50,0,0,"Trüllikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+40,27.9,27.9,72.1,"Trüllikon (ZH)",
 41,25.4,25.4,74.6,"Truttikon (ZH)",
 43,20.8,20.8,79.2,"Volken (ZH)",
 51,31.6,31.6,68.4,"Bachenbülach (ZH)",
 52,50,0,0,"Bassersdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 53,50,0,0,"Bülach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 54,50,0,0,"Dietlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-55,50,0,0,"Eglisau (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+55,30.4,30.4,69.6,"Eglisau (ZH)",
 56,50,0,0,"Embrach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 57,23.7,23.7,76.3,"Freienstein-Teufen (ZH)",
 58,50,0,0,"Glattfelden (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -43,7 +43,7 @@
 60,50,0,0,"Höri (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 61,28.6,28.6,71.4,"Hüntwangen (ZH)",
 62,50,0,0,"Kloten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-63,50,0,0,"Lufingen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+63,23.8,23.8,76.2,"Lufingen (ZH)",
 64,50,0,0,"Nürensdorf (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 65,23.3,23.3,76.7,"Oberembrach (ZH)",
 66,50,0,0,"Opfikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -93,7 +93,7 @@
 138,50,0,0,"Richterswil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 139,50,0,0,"Rüschlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 141,50,0,0,"Thalwil (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-151,50,0,0,"Erlenbach (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+151,23.7,23.7,76.3,"Erlenbach (ZH)",
 152,50,0,0,"Herrliberg (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 153,50,0,0,"Hombrechtikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 154,50,0,0,"Küsnacht (ZH)","Les résultats ne sont pas encore connus dans cette commune."
@@ -125,7 +125,7 @@
 211,50,0,0,"Altikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 213,50,0,0,"Brütten (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 214,50,0,0,"Dägerlen (ZH)","Les résultats ne sont pas encore connus dans cette commune."
-215,50,0,0,"Dättlikon (ZH)","Les résultats ne sont pas encore connus dans cette commune."
+215,23.2,23.2,76.8,"Dättlikon (ZH)",
 216,50,0,0,"Dinhard (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 218,50,0,0,"Ellikon an der Thur (ZH)","Les résultats ne sont pas encore connus dans cette commune."
 219,50,0,0,"Elsau (ZH)","Les résultats ne sont pas encore connus dans cette commune."

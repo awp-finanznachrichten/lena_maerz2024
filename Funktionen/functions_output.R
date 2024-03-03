@@ -61,15 +61,15 @@ for (y in 1:nrow(output_dw_kantone)) {
     output_dw_kantone$Nein_Stimmen_In_Prozent_Kanton[y] <- 0
     output_dw_kantone$Kanton_color[y] <- 50
     output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
-    output_dw_kantone$Text_de <- "Es sind noch keine Gemeinden ausgezählt"
-    output_dw_kantone$Text_fr <- "Aucun résultat n'est encore connu."
-    output_dw_kantone$Text_it <- "Nessun risultato è ancora noto."
+    output_dw_kantone$Text_de[y] <- "Es sind noch keine Gemeinden ausgezählt"
+    output_dw_kantone$Text_fr[y] <- "Aucun résultat n'est encore connu."
+    output_dw_kantone$Text_it[y] <- "Nessun risultato è ancora noto."
     
     } else {
       output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
-      output_dw_kantone$Text_de <- "Die brieflichen Stimmen sind ausgezählt."
-      output_dw_kantone$Text_fr <- "Les votes par correspondance ont été dépouillés."
-      output_dw_kantone$Text_it <- "I voti per corrispondenza sono stati scrutinati."
+      output_dw_kantone$Text_de[y] <- "Die brieflichen Stimmen sind ausgezählt."
+      output_dw_kantone$Text_fr[y] <- "Les votes par correspondance ont été dépouillés."
+      output_dw_kantone$Text_it[y] <- "I voti per corrispondenza sono stati scrutinati."
       
       if (output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y] > 50) {
         output_dw_kantone$Kanton_color[y] <- 100
@@ -82,9 +82,9 @@ for (y in 1:nrow(output_dw_kantone)) {
   } else if (output_dw_kantone$Gemeinden_counted[y] < output_dw_kantone$Gemeinden_overall[y]) {
     
     output_dw_kantone$Legende[y] <- paste0(output_dw_kantone$Gemeinden_counted[y],"/",output_dw_kantone$Gemeinden_overall[y])
-    output_dw_kantone$Text_de <- paste0("Es sind ",output_dw_kantone$Gemeinden_counted[y]," von ",output_dw_kantone$Gemeinden_overall[y],"</b> Gemeinden ausgezählt.")
-    output_dw_kantone$Text_fr <- paste0("Le résultats de ",output_dw_kantone$Gemeinden_counted[y]," des ",output_dw_kantone$Gemeinden_overall[y]," communes sont connus.")
-    output_dw_kantone$Text_it <- paste0("I risultati di ",output_dw_kantone$Gemeinden_counted[y]," dei ",output_dw_kantone$Gemeinden_overall[y]," comuni sono noti.")
+    output_dw_kantone$Text_de[y] <- paste0("Es sind ",output_dw_kantone$Gemeinden_counted[y]," von ",output_dw_kantone$Gemeinden_overall[y],"</b> Gemeinden ausgezählt.")
+    output_dw_kantone$Text_fr[y] <- paste0("Le résultats de ",output_dw_kantone$Gemeinden_counted[y]," des ",output_dw_kantone$Gemeinden_overall[y]," communes sont connus.")
+    output_dw_kantone$Text_it[y] <- paste0("I risultati di ",output_dw_kantone$Gemeinden_counted[y]," dei ",output_dw_kantone$Gemeinden_overall[y]," comuni sono noti.")
     
     if (output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y] > 50) {
       output_dw_kantone$Kanton_color[y] <- 100
@@ -95,9 +95,9 @@ for (y in 1:nrow(output_dw_kantone)) {
   } else {
     
     output_dw_kantone$Kanton_color[y] <- output_dw_kantone$Ja_Stimmen_In_Prozent_Kanton[y]
-    output_dw_kantone$Text_de <- "Es sind alle Gemeinden ausgezählt."
-    output_dw_kantone$Text_fr <- "Toutes les communes sont connues."
-    output_dw_kantone$Text_it <- "Tutti i comuni sono noti."
+    output_dw_kantone$Text_de[y] <- "Es sind alle Gemeinden ausgezählt."
+    output_dw_kantone$Text_fr[y] <- "Toutes les communes sont connues."
+    output_dw_kantone$Text_it[y] <- "Tutti i comuni sono noti."
     
     #Log-Entry
     cat(paste0(output_dw_kantone$Kanton_d[y],", "),file="Logfiles/log_file.txt",append = TRUE)
