@@ -1,5 +1,5 @@
 repeat{
-MAIN_PATH <- "C:/Users/simon/OneDrive/LENA_Project/20240303_LENA_Abstimmungen"
+MAIN_PATH <- "C:/Users/sw/OneDrive/LENA_Project/20240303_LENA_Abstimmungen"
 
 #Working Directory definieren
 setwd(MAIN_PATH)
